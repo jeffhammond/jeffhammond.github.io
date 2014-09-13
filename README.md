@@ -142,11 +142,11 @@ _ACM Trans. Math. Software_, 39 (2012).
 
 **BigMPI:** Jeff R. Hammond, Andreas Schaefer, and Rob Latham,
 submitted to _ExaMPI14._
-To INT_MAX... and beyond! Exploring large-count support in MPI
+[To INT_MAX... and beyond! Exploring large-count support in MPI](https://github.com/jeffhammond/BigMPI-paper)
 ([Preprint](https://github.com/jeffhammond/BigMPI-paper/raw/master/exampi14_submission_3.pdf))
 ([Source Code](https://github.com/jeffhammond/BigMPI))
 
-**WorkQ** David Ozog, Allen Malony, Jeff Hammond and Pavan Balaji.
+David Ozog, Allen Malony, Jeff Hammond and Pavan Balaji.
 _20th IEEE International Conference on Parallel and Distributed Systems (ICPADS)._
 Hsinchu, Taiwan, December 16 – 19, 2014.
 [WorkQ: A Many-Core Producer/Consumer Execution Model Applied to PGAS Computations](http://dx.doi.org/) 
