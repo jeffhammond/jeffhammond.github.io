@@ -89,12 +89,6 @@ _IEEE-TCSC Blog_, August 6th, 2012.
 
 ### Matrix and Tensor Computations
 
-**WorkQ** David Ozog, Allen Malony, Jeff Hammond and Pavan Balaji.
-_20th IEEE International Conference on Parallel and Distributed Systems (ICPADS)._
-Hsinchu, Taiwan, December 16 – 19, 2014.
-[WorkQ: A Many-Core Producer/Consumer Execution Model Applied to PGAS Computations](http://dx.doi.org/) 
-([Preprint](http://www.mcs.anl.gov/publication/)).
-
 **CTF:** Edgar Solomonik, Devin Matthews, Jeff Hammond, John Stanton and James Demmel.
 _Journal of Parallel and Distributed Computing_ (2014).
 [A massively parallel tensor contraction framework for coupled-cluster computations](http://dx.doi.org/10.1016/j.jpdc.2014.06.002)
@@ -151,6 +145,12 @@ submitted to _ExaMPI14._
 To INT_MAX... and beyond! Exploring large-count support in MPI
 ([Preprint](https://github.com/jeffhammond/BigMPI-paper/raw/master/exampi14_submission_3.pdf))
 ([Source Code](https://github.com/jeffhammond/BigMPI))
+
+**WorkQ** David Ozog, Allen Malony, Jeff Hammond and Pavan Balaji.
+_20th IEEE International Conference on Parallel and Distributed Systems (ICPADS)._
+Hsinchu, Taiwan, December 16 – 19, 2014.
+[WorkQ: A Many-Core Producer/Consumer Execution Model Applied to PGAS Computations](http://dx.doi.org/) 
+([Preprint](http://www.mcs.anl.gov/publication/)).
 
 **OSHMPI:** J. R. Hammond, S. Ghosh, and B. M. Chapman,
 accepted to _First OpenSHMEM Workshop: Experiences, Implementations and Tools._
@@ -210,7 +210,7 @@ _Fault-Tolerance at Extreme Scale (FTXS)._ Boston, MA.  June, 2012.
 
 #### GPUs
 
-_Eugene has incorporated all of the GPU coupled-cluster codes into [PSI4](http://www.psicode.org/)._
+_Eugene has incorporated all of the GPU coupled-cluster codes into [PSI4](http://www.psicode.org/).  See [Github](https://github.com/edeprince3/gpu_dfcc) for details._
 
 A. E. DePrince III, J. R. Hammond and S. K. Gray, 
 [Proceedings of SciDAC 2011](http://press.mcs.anl.gov/scidac2011/), Denver, CO, July 10-14, 2011.
