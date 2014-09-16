@@ -2,7 +2,7 @@
 
 Jeff Hammond, Computational Scientist, jeff_hammond@acm.org
 
-My details CV is available as [PDF](https://github.com/jeffhammond/jeffhammond.github.io/raw/master/cv/master.pdf)
+My detailed CV is available as [PDF](https://github.com/jeffhammond/jeffhammond.github.io/raw/master/cv/master.pdf)
 
 ### Education and Research Positions
 
