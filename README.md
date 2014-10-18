@@ -208,7 +208,7 @@ _Fault-Tolerance at Extreme Scale (FTXS)._ Boston, MA.  June, 2012.
 **LAMMPS:** Rolf Isele-Holder, Wayne Mitchell, Jeff Hammond, Axel Kohlmeyer and Ahmed Ismail, _J. Chem. Theory Comput._ **9** (12), 5412-5420 (2013).
 [Reconsidering Dispersion Potentials: Reduced Cutoffs in Mesh-Based Ewald Solvers Can Be Faster Than Truncation](http://pubs.acs.org/doi/abs/10.1021/ct4004614)
 
-**LAMMPS-Ensembles:** Luke Westby, Mladen Rasic, Adrian Lange and Jeff R. Hammond.  See [[LAMMPS]] for more information.
+**LAMMPS-Ensembles:** Luke Westby, Mladen Rasic, Adrian Lange and Jeff R. Hammond.  See [LAMMPS-Ensembles](https://github.com/jeffhammond/HPCInfo/wiki/LAMMPS#Ensembles) on my Wiki for more information.
 
 **NEUS:** A. Dickson, M. Maienshein-Cline, A. Tovo-Dwyer, J. R. Hammond and A. R. Dinner, _J. Chem. Theory Comput._ **7**, 2710 (2011).
 [Flow-dependent unfolding and refolding of an RNA by nonequilibrium umbrella sampling](http://pubs.acs.org/doi/abs/10.1021/ct200371n). ([Preprint](http://arxiv.org/abs/1104.5180))
