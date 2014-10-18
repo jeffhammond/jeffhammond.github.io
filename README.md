@@ -143,6 +143,10 @@ _ACM Trans. Math. Software_, 39 (2012).
 
 ### MPI, Global Arrays, ARMCI and OpenSHMEM
 
+Jeff Hammond,
+[Towards a matrix-oriented strided interface in OpenSHMEM](http://nic.uoregon.edu/pgas14/oug_submissions/oug2014_submission_4.pdf)
+([Source Code](https://github.com/jeffhammond/oshmpi/tree/armci-strided/tests/extensions/aput))
+
 **BigMPI:** Jeff R. Hammond, Andreas Schaefer, and Rob Latham,
 submitted to _ExaMPI14._
 [To INT_MAX... and beyond! Exploring large-count support in MPI](https://github.com/jeffhammond/BigMPI-paper)
