@@ -112,7 +112,8 @@ P. Ghosh, J. R. Hammond, S. Ghosh, and B. Chapman,
 _4th International Workshop on. Performance Modeling, 
 Benchmarking and Simulation of High Performance Computer Systems_ (PMBS13).
 Workshop at SC13, Denver, Colorado, USA, November 2013.
-[Performance analysis of the NWChem TCE for different communication patterns](http://www.dcs.warwick.ac.uk/~sdh/pmbs13papers/pmbs1655.pdf)
+[Performance analysis of the NWChem TCE for different communication patterns](http://link.springer.com/chapter/10.1007/978-3-319-10214-6_14)
+([Preprint](http://www.dcs.warwick.ac.uk/~sdh/pmbs13papers/pmbs1655.pdf))
 
 **TCE-IE:** D. Ozog, J. R. Hammond, J. Dinan, P. Balaji, S. Shende and A. Malony.
 _International Conference on Parallel Processing_ (ICPP).
