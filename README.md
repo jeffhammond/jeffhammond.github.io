@@ -206,7 +206,7 @@ _Fault-Tolerance at Extreme Scale (FTXS)._ Boston, MA.  June, 2012.
 ### Statistical sampling and molecular dynamics
 
 **LAMMPS:** Rolf Isele-Holder, Wayne Mitchell, Jeff Hammond, Axel Kohlmeyer and Ahmed Ismail, _J. Chem. Theory Comput._ **9** (12), 5412-5420 (2013).
-[http://pubs.acs.org/doi/abs/10.1021/ct4004614](Reconsidering Dispersion Potentials: Reduced Cutoffs in Mesh-Based Ewald Solvers Can Be Faster Than Truncation)
+[Reconsidering Dispersion Potentials: Reduced Cutoffs in Mesh-Based Ewald Solvers Can Be Faster Than Truncation](http://pubs.acs.org/doi/abs/10.1021/ct4004614)
 
 **LAMMPS-Ensembles:** Luke Westby, Mladen Rasic, Adrian Lange and Jeff R. Hammond.  See [[LAMMPS]] for more information.
 
