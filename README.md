@@ -253,7 +253,7 @@ A. E. DePrince III and J. R. Hammond, _Symposium on Application Accelerators in 
 
 ### Coupled-cluster response theory and NWChem
 
-[NWChem 101](https://repo.anl-external.org/viewvc/NWChem101) - incomplete version of what I hope will be a crash course in how to use NWChem like an expert.  Obviously, this is not a refereed publication.
+[NWChem 101](https://github.com/jeffhammond/NWChem101) - incomplete version of what I hope will be a crash course in how to use NWChem like an expert.  Obviously, this is not a refereed publication.
 
 [Coupled-cluster response theory: parallel algorithms and novel applications](
 http://dx.doi.org/10.6084/m9.figshare.967859) (my dissertation).
