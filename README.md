@@ -6,11 +6,13 @@ My detailed CV is available as [PDF](https://github.com/jeffhammond/jeffhammond.
 
 ### Education and Research Positions
 
-**Intel Labs** - Parallel Computing Laboratory (May 2014 - present).
+**Intel Labs**
+Parallel Computing Laboratory (May 2014 - present).
 Title: Research Scientist
 Supervisor: Dr. Tim Mattson
 
-**￼￼Argonne National Laboratory** - Leadership Computing Facility (June 2011 - May 2014).
+**Argonne National Laboratory**
+Leadership Computing Facility (June 2011 - May 2014).
 Title: Assistant Computational Scientist in the Performance Engineering group
 Supervisors: Drs. Kalyan Kumaran and Ray Bair
 
