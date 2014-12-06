@@ -192,6 +192,10 @@ in _Recent Advances in the Message Passing Interface_ (Lecture Notes in Computer
 
 ### Performance Engineering
 
+**GTFOCK** Paper 1.
+
+**GTFOCK** Paper 2.
+
 _Please do not confuse my co-authorship of these papers with any expertise in computational fluid dynamics; my role was primarily - if not exclusively - pertaining to performance analysis and optimization for the Blue Gene architecture._
 
 Amanda Peters Randles, Vivek Kale, Jeff Hammond, William D. Gropp and Efthimios Kaxiras.
