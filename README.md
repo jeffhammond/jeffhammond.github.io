@@ -6,30 +6,30 @@ My detailed CV is available as [PDF](https://github.com/jeffhammond/jeffhammond.
 
 ### Education and Research Positions
 
-Intel Labs - Parallel Computing Laboratory (May 2014 - present)
+**Intel Labs** - Parallel Computing Laboratory (May 2014 - present)
 Title: Research Scientist
 Supervisor: Dr. Tim Mattson
 
-￼￼Argonne National Laboratory - Leadership Computing Facility (June 2011 - May 2014)
+**￼￼Argonne National Laboratory** - Leadership Computing Facility (June 2011 - May 2014)
 Title: Assistant Computational Scientist in the Performance Engineering group
 Supervisors: Drs. Kalyan Kumaran and Ray Bair
 
-The University of Chicago - Computation Institute (February 2011 - May 2014)
+**The University of Chicago** - Computation Institute (February 2011 - May 2014)
 Title: Fellow (since September 2011)
 
-Argonne National Laboratory - Leadership Computing Facility (June 2009 - May 2011)
+**Argonne National Laboratory** - Leadership Computing Facility (June 2009 - May 2011)
 Title: Argonne Scholar (Director’s Postdoctoral Fellowship)
 Supervisor: Dr. Ray Bair
 
-Pacific Northwest National Laboratory (June 2006 - May 2009)
+**Pacific Northwest National Laboratory** (June 2006 - May 2009)
 Title: Alternate Sponsored Fellow (DOE-CSGF practicum)
 Supervisors: Drs. Karol Kowalski and Wibe A. de Jong
 
-University of Chicago (September 2003 to May 2009)
+**University of Chicago** (September 2003 to May 2009)
 PhD in Chemistry, May 2009; MS in Chemistry, August 2004.
 Supervisors: Professors Karl F. Freed and L. Ridgway Scott
 
-University of Washington (January 2001 to August 2003)
+**University of Washington** (January 2001 to August 2003)
 BS in Chemistry with Distinction; BA in Mathematics; Minor in Applied Mathematics.
 Supervisor: Professor Weston T. Borden
 
