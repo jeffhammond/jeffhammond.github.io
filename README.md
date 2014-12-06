@@ -197,13 +197,15 @@ in _Recent Advances in the Message Passing Interface_ (Lecture Notes in Computer
 [Performance Characterization of Global Address Space Applications: A Case Study with NWChem](http://onlinelibrary.wiley.com/doi/10.1002/cpe.1881/abstract) 
 ([Preprint](http://www.cs.uoregon.edu/Research/paraducks/publ/htbin/bibify.cgi?cmd=show&coll=JOUR&id=CaC11&data_present=no))
 
-### Performance Engineering
+### Performance Engineering and Application Scalability
 
-**GTFOCK** Paper 1.
+**GTFOCK** Edmond Chow, Xing Liu, Sanchit Misra, Marat Dukhan, Mikhail Smelyanskiy, Jeff R. Hammond, Yunfei Du, Xiang-Ke Liao and Pradeep Dubey.
+Submitted.
+[Scaling up Hartree–Fock Calculations on Tianhe-2](http://dx.doi.org)
 
-**GTFOCK** Paper 2.
-
-_Please do not confuse my co-authorship of these papers with any expertise in computational fluid dynamics; my role was primarily - if not exclusively - pertaining to performance analysis and optimization for the Blue Gene architecture._
+**GTFOCK** Edmond Chow, Xing Liu, Mikhail Smelyanskiy, and Jeff Hammond.
+Submitted.
+[Improving the parallel scalability of Hartree-Fock calculations](http://dx.doi.org)
 
 Amanda Peters Randles, Vivek Kale, Jeff Hammond, William D. Gropp and Efthimios Kaxiras.
 _Proc. 27th Intl. Parallel and Distributed Processing Symp (IPDPS)._ Boston, Massachusetts, May 2013.
