@@ -332,7 +332,7 @@ J. R. Hammond and D. A. Mazziotti, _Phys. Rev. A_ **71**, 062503 (2005).
 * [DOE X-Stack: X-Tune](http://ctop.cs.utah.edu/x-tune/) (follow link for details)
 
 * [DOE X-Stack: GVR](https://xstackwiki.modelado.org/GVR) (follow link for details)
-* 
+
 * [CORAL](https://asc.llnl.gov/CORAL-benchmarks) and Blue Gene/Q were my primary projects at ALCF.
 
 * I was involved in both ASCR Leadership Computing Challenge (ALCC) and (INCITE) projects in computer science and chemistry.
