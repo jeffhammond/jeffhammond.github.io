@@ -157,8 +157,9 @@ OpenSHMEM User Group (OUG2014), October 7, 2014, Eugene, OR.
 
 **BigMPI:** Jeff R. Hammond, Andreas Schaefer, and Rob Latham.
 Workshop on Exascale MPI at Supercomputing Conference 2014 (ExaMPI14), New Orleans, LA, November 17, 2014.
-[To INT_MAX... and beyond! Exploring large-count support in MPI](https://github.com/jeffhammond/BigMPI-paper)
-([Preprint](https://github.com/jeffhammond/BigMPI-paper/raw/master/exampi14_resubmission_3.pdf))
+[To INT_MAX... and beyond! Exploring large-count support in MPI](http://dl.acm.org/citation.cfm?id=2690884)
+([Preprint 1](https://github.com/jeffhammond/BigMPI-paper/raw/master/exampi14_resubmission_3.pdf))
+([Preprint 2](http://www.mcs.anl.gov/publication/intmax-and-beyond-exploring-large-count-support-mpi))
 ([Source Code](https://github.com/jeffhammond/BigMPI))
 
 David Ozog, Allen Malony, Jeff Hammond and Pavan Balaji.
