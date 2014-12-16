@@ -150,12 +150,19 @@ _ACM Trans. Math. Software_, 39 (2012).
 
 ### MPI, Global Arrays, ARMCI and OpenSHMEM
 
+**Casper**
+Min Si, Antonio J. Pena, Jeff Hammond, Pavan Balaji, Masamichi Takagi, Yutaka Ishikawa.
+_Proc. 29th Intl. Parallel and Distributed Processing Symp (IPDPS)._ 
+Hyderabad, India, May 2015.
+[Casper: An Asynchronous Progress Model for MPI RMA on Many-Core Architectures](http://www.ipdps.org/).
+
 Jeff Hammond.
 OpenSHMEM User Group (OUG2014), October 7, 2014, Eugene, OR.
 [Towards a matrix-oriented strided interface in OpenSHMEM](http://nic.uoregon.edu/pgas14/oug_submissions/oug2014_submission_4.pdf).
 ([Source Code](https://github.com/jeffhammond/oshmpi/tree/armci-strided/tests/extensions/aput))
 
-**BigMPI:** Jeff R. Hammond, Andreas Schaefer, and Rob Latham.
+**BigMPI:** 
+Jeff R. Hammond, Andreas Schaefer, and Rob Latham.
 Workshop on Exascale MPI at Supercomputing Conference 2014 (ExaMPI14), New Orleans, LA, November 17, 2014.
 [To INT_MAX... and beyond! Exploring large-count support in MPI](http://dl.acm.org/citation.cfm?id=2690884)
 ([Preprint 1](https://github.com/jeffhammond/BigMPI-paper/raw/master/exampi14_resubmission_3.pdf))
