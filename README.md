@@ -173,7 +173,8 @@ David Ozog, Allen Malony, Jeff Hammond and Pavan Balaji.
 _20th IEEE International Conference on Parallel and Distributed Systems (ICPADS)._
 Hsinchu, Taiwan, December 16 – 19, 2014.
 [WorkQ: A Many-Core Producer/Consumer Execution Model Applied to PGAS Computations](http://dx.doi.org/) 
-([Preprint](http://www.mcs.anl.gov/publication/)).
+([Preprint (UO)](http://ix.cs.uoregon.edu/~ozog/pubs/ICPADS-2014.pdf))
+([Preprint (ANL)](http://www.mcs.anl.gov/publication/)).
 
 **OSHMPI:** J. R. Hammond, S. Ghosh, and B. M. Chapman,
 accepted to _First OpenSHMEM Workshop: Experiences, Implementations and Tools._
