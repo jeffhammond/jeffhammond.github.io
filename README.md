@@ -107,7 +107,8 @@ _Journal of Parallel and Distributed Computing_ (2014).
 **BLIS:** T. M. Smith, R. van de Geijn, M. Smelyanskiy, J. R. Hammond, and F. G. Van Zee. 
 _Proceedings of the 28th IEEE International Parallel and Distributed Processing Symposium (IPDPS)._
 Phoenix, Arizona, May 2014.
-[Anatomy of High-Performance Many-Threaded Matrix Multiplication](http://www.cs.utexas.edu/users/flame/pubs/blis3_ipdps14.pdf).
+[Anatomy of High-Performance Many-Threaded Matrix Multiplication](http://dx.doi.org/10.1109/IPDPS.2014.110)
+([Preprint](http://www.cs.utexas.edu/users/flame/pubs/blis3_ipdps14.pdf)).
 _Also known as_
 FLAME Working Note #71. The University of Texas at Austin, Department of Computer Science. 
 Technical Report TR-13-20. 2013.
