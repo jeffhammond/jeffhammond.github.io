@@ -217,6 +217,10 @@ Submitted.
 Submitted.
 [Improving the parallel scalability of Hartree-Fock calculations](http://dx.doi.org)
 
+**MADNESS**
+Álvaro Vázquez–Mayagoitia, W. Scott Thornton, Jeff R. Hammond, Robert J. Harrison.
+[Quantum Chemistry Methods with Multiwavelet Bases on Massive Parallel Computers](https://dx.doi.org/10.1016/B978-0-444-63378-1.00001-X)
+
 Amanda Peters Randles, Vivek Kale, Jeff Hammond, William D. Gropp and Efthimios Kaxiras.
 _Proc. 27th Intl. Parallel and Distributed Processing Symp (IPDPS)._ Boston, Massachusetts, May 2013.
 [Performance Analysis of the Lattice Boltzmann Model Beyond Navier-Stokes](http://dx.doi.org/10.1109/IPDPS.2013.109) ([Preprint](http://people.seas.harvard.edu/~apeters/papers/ipdps_lbm.pdf))
