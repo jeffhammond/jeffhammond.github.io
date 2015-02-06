@@ -146,7 +146,7 @@ Technical Report No. UCB/EECS-2012-29, March 9, 2012.
 **Elemental:** J. Poulson, B. Marker, J. R. Hammond, N. A. Romero, and R. van de Geijn.
 _ACM Trans. Math. Software_, 39 (2012).  
 [Elemental: A New Framework for Distributed Memory Dense Matrix Computations](http://dx.doi.org/10.1145/2427023.2427030). 
-([preprint](http://elemental.googlecode.com/files/Elemental-rev2.pdf))
+([Preprint](http://elemental.googlecode.com/files/Elemental-rev2.pdf))
 ([Source Code](https://github.com/elemental/Elemental))
 
 ### MPI, Global Arrays, ARMCI and OpenSHMEM
@@ -156,6 +156,7 @@ Min Si, Antonio J. Pena, Jeff Hammond, Pavan Balaji, Masamichi Takagi, Yutaka Is
 _Proc. 29th Intl. Parallel and Distributed Processing Symp (IPDPS)._ 
 Hyderabad, India, May 2015.
 [Casper: An Asynchronous Progress Model for MPI RMA on Many-Core Architectures](http://www.ipdps.org/).
+([Preprint](http://www.mcs.anl.gov/publication/casper-asynchronous-progress-model-mpi-rma-many-core-architectures))
 
 Jeff Hammond.
 OpenSHMEM User Group (OUG2014), October 7, 2014, Eugene, OR.
