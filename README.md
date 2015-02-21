@@ -265,6 +265,13 @@ A. E. DePrince III and J. R. Hammond, _Symposium on Application Accelerators in 
 
 #### Intel MIC
 
+**NWChem-MIC:** 
+Edoardo Apra, Karol Kowalski, Jeff R. Hammond, and Michael Klemm.
+[NWChem: Quantum Chemistry Simulations at Scale]() in
+[High Performance Parallelism Pearls](http://store.elsevier.com/High-Performance-Parallelism-Pearls/James-Reinders/isbn-9780128021187/), edited by James Reinders and James Jeffers.
+[Safari Books Online](https://www.safaribooksonline.com/library/view/high-performance-parallelism/9780128021187/B9780128021187000170.xhtml) 
+[Google Books Online](https://books.google.com/books?id=R-99BAAAQBAJ&lpg=PA287&ots=VMAjQdy8xU&dq=%22NWChem%3A%20Quantum%20Chemistry%20Simulations%20at%20Scale%22&pg=PA287#v=onepage&q=%22NWChem:%20Quantum%20Chemistry%20Simulations%20at%20Scale%22&f=false) [Summary at TechEnablement](http://www.techenablement.com/nwchem-quantum-chemistry-simulations-scale/)
+
 **NWChem-MIC:** Jeff Hammond, Priyanka Ghosh, David Ozog, Cyrus Karshenas, and Karol Kowalski.  _work in progress_ (I gave a talk on the preliminary results at SIAM CSE13.)
 
 ### Coupled-cluster response theory and NWChem
