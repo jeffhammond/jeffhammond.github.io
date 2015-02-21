@@ -151,7 +151,7 @@ _ACM Trans. Math. Software_, 39 (2012).
 
 ### MPI, Global Arrays, ARMCI and OpenSHMEM
 
-**Casper**
+**Casper:**
 Min Si, Antonio J. Pena, Jeff Hammond, Pavan Balaji, Masamichi Takagi, Yutaka Ishikawa.
 _Proc. 29th Intl. Parallel and Distributed Processing Symp (IPDPS)._ 
 Hyderabad, India, May 2015.
@@ -210,16 +210,16 @@ in _Recent Advances in the Message Passing Interface_ (Lecture Notes in Computer
 
 ### Performance Engineering and Application Scalability
 
-**GTFOCK** Edmond Chow, Xing Liu, Sanchit Misra, Marat Dukhan, Mikhail Smelyanskiy, Jeff R. Hammond, Yunfei Du, Xiang-Ke Liao and Pradeep Dubey.
+**GTFOCK:** Edmond Chow, Xing Liu, Sanchit Misra, Marat Dukhan, Mikhail Smelyanskiy, Jeff R. Hammond, Yunfei Du, Xiang-Ke Liao and Pradeep Dubey.
 Submitted.
 [Scaling up Hartree–Fock Calculations on Tianhe-2](http://dx.doi.org)
 
-**GTFOCK** Edmond Chow, Xing Liu, Mikhail Smelyanskiy, and Jeff R. Hammond.
+**GTFOCK:** Edmond Chow, Xing Liu, Mikhail Smelyanskiy, and Jeff R. Hammond.
 _J. Chem. Phys._, accepted.
 [Parallel scalability of Hartree–Fock calculations](http://dx.doi.org)
 ([Preprint](http://www.cc.gatech.edu/~echow/pubs/hf-jcp-2015.pdf))
 
-**MADNESS**
+**MADNESS:**
 Álvaro Vázquez–Mayagoitia, W. Scott Thornton, Jeff R. Hammond, Robert J. Harrison.
 [Quantum Chemistry Methods with Multiwavelet Bases on Massive Parallel Computers](https://dx.doi.org/10.1016/B978-0-444-63378-1.00001-X)
 
