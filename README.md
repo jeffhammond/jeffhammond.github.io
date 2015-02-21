@@ -214,9 +214,10 @@ in _Recent Advances in the Message Passing Interface_ (Lecture Notes in Computer
 Submitted.
 [Scaling up Hartree–Fock Calculations on Tianhe-2](http://dx.doi.org)
 
-**GTFOCK** Edmond Chow, Xing Liu, Mikhail Smelyanskiy, and Jeff Hammond.
-Submitted.
-[Improving the parallel scalability of Hartree-Fock calculations](http://dx.doi.org)
+**GTFOCK** Edmond Chow, Xing Liu, Mikhail Smelyanskiy, and Jeff R. Hammond.
+_J. Chem. Phys._, accepted.
+[Parallel scalability of Hartree–Fock calculations](http://dx.doi.org)
+([Preprint](http://www.cc.gatech.edu/~echow/pubs/hf-jcp-2015.pdf))
 
 **MADNESS**
 Álvaro Vázquez–Mayagoitia, W. Scott Thornton, Jeff R. Hammond, Robert J. Harrison.
