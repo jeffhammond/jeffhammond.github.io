@@ -144,7 +144,7 @@ Technical Report No. UCB/EECS-2012-29, March 9, 2012.
 [A preliminary analysis of Cyclops Tensor Framework](http://www.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-29.html).
 
 **Elemental:** J. Poulson, B. Marker, J. R. Hammond, N. A. Romero, and R. van de Geijn.
-_ACM Trans. Math. Software_, 39 (2012).  
+_ACM Trans. Math. Software_, 39 (2012).
 [Elemental: A New Framework for Distributed Memory Dense Matrix Computations](http://dx.doi.org/10.1145/2427023.2427030). 
 ([Preprint](http://elemental.googlecode.com/files/Elemental-rev2.pdf))
 ([Source Code](https://github.com/elemental/Elemental))
