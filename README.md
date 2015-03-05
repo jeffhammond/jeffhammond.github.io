@@ -211,7 +211,7 @@ in _Recent Advances in the Message Passing Interface_ (Lecture Notes in Computer
 ### Performance Engineering and Application Scalability
 
 **GTFOCK:** Edmond Chow, Xing Liu, Sanchit Misra, Marat Dukhan, Mikhail Smelyanskiy, Jeff R. Hammond, Yunfei Du, Xiang-Ke Liao and Pradeep Dubey.
-Submitted.
+International Journal of High Performance Computing Applications, accepted.
 [Scaling up Hartree–Fock Calculations on Tianhe-2](http://dx.doi.org)
 
 **GTFOCK:** Edmond Chow, Xing Liu, Mikhail Smelyanskiy, and Jeff R. Hammond.
