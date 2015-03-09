@@ -215,8 +215,8 @@ International Journal of High Performance Computing Applications, accepted.
 [Scaling up Hartree–Fock Calculations on Tianhe-2](http://dx.doi.org)
 
 **GTFOCK:** Edmond Chow, Xing Liu, Mikhail Smelyanskiy, and Jeff R. Hammond.
-_J. Chem. Phys._, accepted.
-[Parallel scalability of Hartree–Fock calculations](http://dx.doi.org)
+_J. Chem. Phys._ *142*, 104103 (2015).
+[Parallel scalability of Hartree–Fock calculations](http://dx.doi.org/10.1063/1.4913961)
 ([Preprint](http://www.cc.gatech.edu/~echow/pubs/hf-jcp-2015.pdf))
 
 **MADNESS:**
