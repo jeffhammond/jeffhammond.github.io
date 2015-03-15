@@ -98,13 +98,15 @@ _IEEE-TCSC Blog_, August 6th, 2012.
 
 ### Matrix and Tensor Computations
 
-**CTF:** Edgar Solomonik, Devin Matthews, Jeff Hammond, John Stanton and James Demmel.
+**CTF:**
+Edgar Solomonik, Devin Matthews, Jeff Hammond, John Stanton and James Demmel.
 _Journal of Parallel and Distributed Computing_ (2014).
 [A massively parallel tensor contraction framework for coupled-cluster computations](http://dx.doi.org/10.1016/j.jpdc.2014.06.002)
 ([Preprint](http://www.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-143.html))
 ([Source Code](https://github.com/devinamatthews/aquarius/))
 
-**BLIS:** T. M. Smith, R. van de Geijn, M. Smelyanskiy, J. R. Hammond, and F. G. Van Zee. 
+**BLIS:**
+T. M. Smith, R. van de Geijn, M. Smelyanskiy, J. R. Hammond, and F. G. Van Zee. 
 _Proceedings of the 28th IEEE International Parallel and Distributed Processing Symposium (IPDPS)._
 Phoenix, Arizona, May 2014.
 [Anatomy of High-Performance Many-Threaded Matrix Multiplication](http://dx.doi.org/10.1109/IPDPS.2014.110)
@@ -123,27 +125,31 @@ Workshop at SC13, Denver, Colorado, USA, November 2013.
 [Performance analysis of the NWChem TCE for different communication patterns](http://link.springer.com/chapter/10.1007/978-3-319-10214-6_14)
 ([Preprint](http://www.dcs.warwick.ac.uk/~sdh/pmbs13papers/pmbs1655.pdf))
 
-**TCE-IE:** D. Ozog, J. R. Hammond, J. Dinan, P. Balaji, S. Shende and A. Malony.
+**TCE-IE:**
+D. Ozog, J. R. Hammond, J. Dinan, P. Balaji, S. Shende and A. Malony.
 _International Conference on Parallel Processing_ (ICPP).
 Ecole Normale Superieure de Lyon, Lyon, France, October 1-4, 2013. 
 [Inspector-Executor Load Balancing Algorithms for Block-Sparse Tensor Contractions](http://dx.doi.org/10.1109/ICPP.2013.12) 
 ([Preprint](http://www.mcs.anl.gov/publication/inspector-executor-load-balancing-algorithms-block-sparse-tensor-contractions)).
 ([Related poster](http://nic.uoregon.edu/ics2013/ICS_posters/poster14.pdf) from [ICS](http://dx.doi.org/10.1145/2464996.2467282).)
 
-**CTF:** Edgar Solomonik, Devin Matthews, Jeff Hammond and James Demmel.
+**CTF:**
+Edgar Solomonik, Devin Matthews, Jeff Hammond and James Demmel.
 _Proc. 27th Intl. Parallel and Distributed Processing Symp (IPDPS)._
 Boston, Massachusetts, May 2013.
 [Cyclops Tensor Framework: reducing communication and eliminating load imbalance in massively parallel contractions](http://dx.doi.org/10.1109/IPDPS.2013.112)
 ([Preprint](http://www.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-210.html))
 ([Source Code](http://ctf.eecs.berkeley.edu/))
 
-**CTF:** Edgar Solomonik, Jeff Hammond and James Demmel.
+**CTF:**
+Edgar Solomonik, Jeff Hammond and James Demmel.
 Electrical Engineering and Computer Sciences,
 University of California at Berkeley,
 Technical Report No. UCB/EECS-2012-29, March 9, 2012.
 [A preliminary analysis of Cyclops Tensor Framework](http://www.eecs.berkeley.edu/Pubs/TechRpts/2012/EECS-2012-29.html).
 
-**Elemental:** J. Poulson, B. Marker, J. R. Hammond, N. A. Romero, and R. van de Geijn.
+**Elemental:**
+J. Poulson, B. Marker, J. R. Hammond, N. A. Romero, and R. van de Geijn.
 _ACM Trans. Math. Software_, 39 (2012).
 [Elemental: A New Framework for Distributed Memory Dense Matrix Computations](http://dx.doi.org/10.1145/2427023.2427030). 
 ([Preprint](http://elemental.googlecode.com/files/Elemental-rev2.pdf))
@@ -157,6 +163,7 @@ _Proc. 29th Intl. Parallel and Distributed Processing Symp (IPDPS)._
 Hyderabad, India, May 2015.
 [Casper: An Asynchronous Progress Model for MPI RMA on Many-Core Architectures](http://www.ipdps.org/).
 ([Preprint](http://www.mcs.anl.gov/publication/casper-asynchronous-progress-model-mpi-rma-many-core-architectures))
+([Source Code](http://git.mpich.org/soft/dev/casper.git/))
 
 Jeff Hammond.
 OpenSHMEM User Group (OUG2014), October 7, 2014, Eugene, OR.
@@ -178,7 +185,8 @@ Hsinchu, Taiwan, December 16 – 19, 2014.
 ([Preprint 1](http://ix.cs.uoregon.edu/~ozog/pubs/ICPADS-2014.pdf))
 ([Preprint 2](http://www.mcs.anl.gov/~balaji/pubs/2014/icpads/icpads14.workq.pdf)).
 
-**OSHMPI:** J. R. Hammond, S. Ghosh, and B. M. Chapman,
+**OSHMPI:**
+J. R. Hammond, S. Ghosh, and B. M. Chapman,
 accepted to _First OpenSHMEM Workshop: Experiences, Implementations and Tools._
 [Implementing OpenSHMEM using MPI-3 one-sided communication](http://www.csm.ornl.gov/workshops/openshmem2013/documents/ImplementingOpenSHMEM%20UsingMPI-3.pdf)
 ([Online](http://dx.doi.org/10.1007/978-3-319-05215-1_4))
@@ -189,12 +197,14 @@ V. Morozov, J. Meng, V. Vishwanath, J. R. Hammond, K. Kumaran and M. Papka.
 _Parallel Processing Workshops (ICPPW), 41st International Conference,_ September 2012, Pittsburgh, Pennsylvania
 [ALCF MPI Benchmarks: Understanding Machine-Specific Communication Behavior](http://dx.doi.org/10.1109/ICPPW.2012.7) ([IEEE link](http://doi.ieeecomputersociety.org/10.1109/ICPPW.2012.7)) ([Slides](http://www.mcs.anl.gov/events/workshops/p2s2/2012/slides/Morozov-P2S2-MPI_benchmark.pdf))
 
-**OSPRI:** J. R. Hammond, J. Dinan, P. Balaji, I. Kabadshow, S. Potluri, and V. Tipparaju, 
+**OSPRI:**
+J. R. Hammond, J. Dinan, P. Balaji, I. Kabadshow, S. Potluri, and V. Tipparaju, 
 _The 6th Conference on Partitioned Global Address Space Programming Models (PGAS)._ Santa Barbara, CA, October 2012.
 [OSPRI: An Optimized One-Sided Communication Runtime for Leadership-Class Machines](https://sites.google.com/a/lbl.gov/pgas12/home/contributed-papers) 
 ([Preprint](http://www.mcs.anl.gov/publication/ospri-optimized-one-sided-communication-runtime-leadership-class-machines)).
 
-**ARMCI-MPI:** J. Dinan, P. Balaji, J. R. Hammond, S. Krishnamoorthy, and V. Tipparaju,
+**ARMCI-MPI:**
+J. Dinan, P. Balaji, J. R. Hammond, S. Krishnamoorthy, and V. Tipparaju,
 _Proc. 26th Intl. Parallel and Distributed Processing Symp (IPDPS)._ Shanghai, China, May 2012.
 [http://dx.doi.org/10.1109/IPDPS.2012.72 Supporting the Global Arrays PGAS Model Using MPI One-Sided Communication] 
 ([preprint](http://www.mcs.anl.gov/publication/supporting-global-arrays-pgas-model-using-mpi-one-sided-communication)). ([Source Code](http://wiki.mpich.org/armci-mpi/index.php/Main_Page))
@@ -204,19 +214,22 @@ in _Recent Advances in the Message Passing Interface_ (Lecture Notes in Computer
 [Noncollective Communicator Creation in MPI](http://www.springerlink.com/content/t1p532u8l1273x2m/)
 ([preprint](http://www.mcs.anl.gov/publication/noncollective-communicator-creation-mpi)).
 
-**TAU-ARMCI:** J. R. Hammond, S. Krishnamoorthy, S. Shende, N. A. Romero and A. D. Malony, _Concurrency and Computation: Practice and Experience_ (DOI: 10.1002/cpe.1881).
+**TAU-ARMCI:**
+J. R. Hammond, S. Krishnamoorthy, S. Shende, N. A. Romero and A. D. Malony, _Concurrency and Computation: Practice and Experience_ (DOI: 10.1002/cpe.1881).
 [Performance Characterization of Global Address Space Applications: A Case Study with NWChem](http://onlinelibrary.wiley.com/doi/10.1002/cpe.1881/abstract) 
 ([Preprint](http://www.cs.uoregon.edu/Research/paraducks/publ/htbin/bibify.cgi?cmd=show&coll=JOUR&id=CaC11&data_present=no))
 
 ### Performance Engineering and Application Scalability
 
-**GTFOCK:** Edmond Chow, Xing Liu, Sanchit Misra, Marat Dukhan, Mikhail Smelyanskiy, Jeff R. Hammond, Yunfei Du, Xiang-Ke Liao and Pradeep Dubey.
-Submitted.
+**GTFOCK:**
+Edmond Chow, Xing Liu, Sanchit Misra, Marat Dukhan, Mikhail Smelyanskiy, Jeff R. Hammond, Yunfei Du, Xiang-Ke Liao and Pradeep Dubey.
+International Journal of High Performance Computing Applications, accepted.
 [Scaling up Hartree–Fock Calculations on Tianhe-2](http://dx.doi.org)
 
-**GTFOCK:** Edmond Chow, Xing Liu, Mikhail Smelyanskiy, and Jeff R. Hammond.
-_J. Chem. Phys._, accepted.
-[Parallel scalability of Hartree–Fock calculations](http://dx.doi.org)
+**GTFOCK:**
+Edmond Chow, Xing Liu, Mikhail Smelyanskiy, and Jeff R. Hammond.
+_J. Chem. Phys._ *142*, 104103 (2015).
+[Parallel scalability of Hartree–Fock calculations](http://dx.doi.org/10.1063/1.4913961)
 ([Preprint](http://www.cc.gatech.edu/~echow/pubs/hf-jcp-2015.pdf))
 
 **MADNESS:**
@@ -235,12 +248,15 @@ _Fault-Tolerance at Extreme Scale (FTXS)._ Boston, MA.  June, 2012.
 
 ### Statistical sampling and molecular dynamics
 
-**LAMMPS:** Rolf Isele-Holder, Wayne Mitchell, Jeff Hammond, Axel Kohlmeyer and Ahmed Ismail, _J. Chem. Theory Comput._ **9** (12), 5412-5420 (2013).
+**LAMMPS:**
+Rolf Isele-Holder, Wayne Mitchell, Jeff Hammond, Axel Kohlmeyer and Ahmed Ismail, _J. Chem. Theory Comput._ **9** (12), 5412-5420 (2013).
 [Reconsidering Dispersion Potentials: Reduced Cutoffs in Mesh-Based Ewald Solvers Can Be Faster Than Truncation](http://pubs.acs.org/doi/abs/10.1021/ct4004614)
 
-**LAMMPS-Ensembles:** Luke Westby, Mladen Rasic, Adrian Lange and Jeff R. Hammond.  See [LAMMPS-Ensembles](https://github.com/jeffhammond/HPCInfo/wiki/LAMMPS#Ensembles) on my Wiki for more information.
+**LAMMPS-Ensembles:**
+Luke Westby, Mladen Rasic, Adrian Lange and Jeff R. Hammond.  See [LAMMPS-Ensembles](https://github.com/jeffhammond/HPCInfo/wiki/LAMMPS#Ensembles) on my Wiki for more information.
 
-**NEUS:** A. Dickson, M. Maienshein-Cline, A. Tovo-Dwyer, J. R. Hammond and A. R. Dinner, _J. Chem. Theory Comput._ **7**, 2710 (2011).
+**NEUS:**
+A. Dickson, M. Maienshein-Cline, A. Tovo-Dwyer, J. R. Hammond and A. R. Dinner, _J. Chem. Theory Comput._ **7**, 2710 (2011).
 [Flow-dependent unfolding and refolding of an RNA by nonequilibrium umbrella sampling](http://pubs.acs.org/doi/abs/10.1021/ct200371n). ([Preprint](http://arxiv.org/abs/1104.5180))
 
 ### Quantum chemistry on accelerators
@@ -272,36 +288,47 @@ _NWChem: Quantum Chemistry Simulations at Scale_ in
 ([Safari Books Online](https://www.safaribooksonline.com/library/view/high-performance-parallelism/9780128021187/B9780128021187000170.xhtml)) 
 ([Google Books Online](https://books.google.com/books?id=R-99BAAAQBAJ&lpg=PA287&ots=VMAjQdy8xU&dq=%22NWChem%3A%20Quantum%20Chemistry%20Simulations%20at%20Scale%22&pg=PA287#v=onepage&q=%22NWChem:%20Quantum%20Chemistry%20Simulations%20at%20Scale%22&f=false)) ([Summary at TechEnablement](http://www.techenablement.com/nwchem-quantum-chemistry-simulations-scale/))
 
-**NWChem-MIC:** Jeff Hammond, Priyanka Ghosh, David Ozog, Cyrus Karshenas, and Karol Kowalski.  _work in progress_ (I gave a talk on the preliminary results at SIAM CSE13.)
+**NWChem-MIC:**
+Jeff Hammond, Priyanka Ghosh, David Ozog, Cyrus Karshenas, and Karol Kowalski.  _work in progress_ (I gave a talk on the preliminary results at SIAM CSE13.)
 
 ### Coupled-cluster response theory and NWChem
 
 [NWChem 101](https://github.com/jeffhammond/NWChem101) - incomplete version of what I hope will be a crash course in how to use NWChem like an expert.  Obviously, this is not a refereed publication.
 
+**NWChem:**
 [Coupled-cluster response theory: parallel algorithms and novel applications](
 http://dx.doi.org/10.6084/m9.figshare.967859) (my dissertation).
 
-**NWChem:** K. Kowalski, J. R. Hammond, W. A. de Jong, P.-D. Fan, M. Valiev, D. Wang and N. Govind, in _Computational Methods for Large Systems: Electronic Structure Approaches for Biotechnology and Nanotechnology_, edited by J. R. Reimers (Wiley, March 2011, Hoboken). [Coupled-Cluster Calculations for Large Molecular and Extended Systems](http://www.wiley.com/WileyCDA/WileyTitle/productCd-0470487887.html)
+**NWChem:**
+K. Kowalski, J. R. Hammond, W. A. de Jong, P.-D. Fan, M. Valiev, D. Wang and N. Govind, in _Computational Methods for Large Systems: Electronic Structure Approaches for Biotechnology and Nanotechnology_, edited by J. R. Reimers (Wiley, March 2011, Hoboken). [Coupled-Cluster Calculations for Large Molecular and Extended Systems](http://www.wiley.com/WileyCDA/WileyTitle/productCd-0470487887.html)
 
+**NWChem:**
 K. Kowalski, S. Krishnamoorthy, O. Villa, J. R. Hammond, and N. Govind, _J. Chem. Phys._ **132**, 154103 (2010). [Active-space completely-renormalized equation-of-motion coupled-cluster formalism: Excited-state studies of green fluorescent protein, free-base porphyrin, and oligoporphyrin dimer](http://dx.doi.org/10.1063/1.3385315)
 
+**NWChem:**
 J. R. Hammond, N. Govind, K. Kowalski, J. Autschbach and S. S. Xantheas, _J. Chem. Phys._ **131**, 214103 (2009).  [Accurate dipole polarizabilities for water clusters N=2-12 at the coupled-cluster level of theory and benchmarking of various density functionals](http://dx.doi.org/10.1063/1.3263604)
 
+**NWChem:**
 J. R. Hammond and K. Kowalski, _J. Chem. Phys._ **130**, 194108 (2008).
 [Parallel computation of coupled-cluster hyperpolarizabilities](http://dx.doi.org/10.1063/1.3134744)
 
+**NWChem:**
 K. Kowalski, J. R. Hammond, W. A. de Jong and A. J. Sadlej, _J. Chem. Phys._ **129**, 226101 (2008).
 [Coupled cluster calculations for static and dynamic polarizabilities of C60](http://dx.doi.org/10.1063/1.3028541)
 
+**NWChem:**
 J. R. Hammond, W. A. de Jong and K. Kowalski, _J. Chem. Phys._ **128**, 224102 (2008).
 [Coupled cluster dynamic polarizabilities including triple excitations](http://dx.doi.org/10.1063/1.2929840)
 
+**NWChem:**
 K. Kowalski, J. R. Hammond and W. A. de Jong, _J. Chem. Phys._ **127**, 164105 (2007).
 [Linear response coupled cluster singles and doubles approach with modified spectral resolution of the similarity transformed Hamiltonian](http://dx.doi.org/10.1063/1.2795708)
 
+**NWChem:**
 J. R. Hammond, K. Kowalski and W. A. de Jong, _J. Chem. Phys._ **127**, 144105 (2007).
 [Dynamic polarizabilities of polyaromatic hydrocarbons using coupled-cluster linear response theory](http://dx.doi.org/10.1063/1.2772853)
 
+**NWChem:**
 J. R. Hammond, M. Valiev, W. A. de Jong and K. Kowalski, _J. Phys.  Chem. A_ **111**, 5492 (2007).
 [Calculations of properties using a hybrid coupled-cluster and molecular mechanics approach](http://pubs.acs.org/cgi-bin/abstract.cgi/jpcafh/2007/111/i25/abs/jp070553x.html)
 
