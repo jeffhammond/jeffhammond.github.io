@@ -163,7 +163,7 @@ _ACM Trans. Math. Software_, 39 (2012).
 Min Si, Antonio J. Peña, Jeff R. Hammond, Pavan Balaji, and Yutaka Ishikawa.
 _IEEE/ACM International Symposium on Cluster, Cloud and Grid Computing (CCGrid)._
 May 4–7, 2015, Shenzhen, China.
-*Scalable Computing Challenge Finalist.*
+**Scalable Computing Challenge Finalist.**
 [Scaling NWChem with Efficient and Portable Asynchronous Communication in MPI RMA]()
 ([Preprint](http://www.mcs.anl.gov/papers/P5312-0315.pdf))
 
