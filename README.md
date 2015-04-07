@@ -9,7 +9,7 @@ My detailed CV is available as [PDF](https://github.com/jeffhammond/jeffhammond.
 **Intel Labs**    
 Parallel Computing Laboratory (May 2014 - present).    
 Title: Research Scientist    
-Supervisor: Dr. Tim Mattson    
+Supervisor: Drs. Tim Mattson and Pradeep Dubey    
 
 **Argonne National Laboratory**    
 Leadership Computing Facility (June 2011 - May 2014).    
