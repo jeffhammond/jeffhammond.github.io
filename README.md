@@ -45,11 +45,11 @@ Supervisor: Professor Weston T. Borden
 * [LinkedIn](https://www.linkedin.com/in/jeffhammond)
 * [Twitter](https://twitter.com/JeffDotScience)
 * [Frontiers in Theoretical and Computational Chemistry](http://community.frontiersin.org/people/JeffHammond/110723)
-* [DOE-CSGF](http://www.krellinst.org/csgf/community/alumni/profile?n=hammond2005)
+* [DOE-CSGF](http://www.krellinst.org/doecsgf/alumni/info/fship.cgi?-w+hammond2005)
 * [Chemistry Tree](http://academictree.org/chemistry/tree.php?pid=67742)
 * [Wordpress Blog](http://aragingnerd.wordpress.com/) (empty right now)
-* [ImpactStory](http://impactstory.org/JeffHammond)
 * [StackExchange](http://scicomp.stackexchange.com/users/150/jeff)
+* [StackOverflow](http://stackoverflow.com/users/2189128/jeff)
 * [Academia.edu](https://independent.academia.edu/JeffHammond)
 
 ### Publications 
@@ -70,7 +70,7 @@ Supervisor: Professor Weston T. Borden
 
 ### Random Facts
 
-* Google Scholar says I have an h-index of 15 (this is not necessarily exact value measured using only official publications but is closely correlated with the exact value).
+* Google Scholar says I have an h-index of 17 (this is not necessarily exact value measured using only official publications but is closely correlated with the exact value).
 * My Erdős number is 4 (via Jim Demmel).
 * My [Erdős-Bacon number](http://en.wikipedia.org/wiki/Erd%C5%91s%E2%80%93Bacon_number) is infinity because I have not acted in any movies.
 
@@ -158,6 +158,14 @@ _ACM Trans. Math. Software_, 39 (2012).
 ([Source Code](https://github.com/elemental/Elemental))
 
 ### MPI, Global Arrays, ARMCI and OpenSHMEM
+
+**Casper:**
+Min Si, Antonio J. Peña, Jeff R. Hammond, Pavan Balaji, and Yutaka Ishikawa.
+_IEEE/ACM International Symposium on Cluster, Cloud and Grid Computing (CCGrid)._
+May 4–7, 2015, Shenzhen, China.
+*Scalable Computing Challenge Finalist.*
+[Scaling NWChem with Efficient and Portable Asynchronous Communication in MPI RMA]()
+([Preprint](http://www.mcs.anl.gov/papers/P5312-0315.pdf))
 
 **Casper:**
 Min Si, Antonio J. Pena, Jeff Hammond, Pavan Balaji, Masamichi Takagi, Yutaka Ishikawa.
