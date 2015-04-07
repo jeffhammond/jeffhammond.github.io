@@ -242,6 +242,10 @@ _Proc. 27th Intl. Parallel and Distributed Processing Symp (IPDPS)._ Boston, Mas
 
 ### Resilience
 
+A. Chien, P. Balaji, P. Beckman, N. Dun, A. Fang, H. Fujita, K. Iskra, Z. Rubenstein, Z. Zheng, R. Schreiber, J. Hammond, J. Dinan, I. Laguna, D. Richards, A. Dubey, B. van Straalen, M. Hoemmen, M. Heroux, K. Teranishi, A. R. Siegel.
+_Submitted.  2015._
+[Versioned Distributed Arrays for Resilience in Scientific Applications: Global View Resilience](TBD.com) ([Preprint](http://www.mcs.anl.gov/papers/P5271-0115.pdf))
+
 Sean Hogan, Jeff R. Hammond and Andrew A. Chien.
 _Fault-Tolerance at Extreme Scale (FTXS)._ Boston, MA.  June, 2012. 
 [An Evaluation of Difference and Threshold Techniques for Efficient Checkpoints](http://dx.doi.org/10.1109/DSNW.2012.6264674). ([Preprint](http://www.cs.uchicago.edu/research/publications/techreports/TR-2012-07)) ([Slides](http://institute.lanl.gov/resilience/workshops/ftxs2012/FTXS2012_Sean_Hogan.pdf))
