@@ -219,6 +219,13 @@ J. R. Hammond, S. Krishnamoorthy, S. Shende, N. A. Romero and A. D. Malony, _Con
 [Performance Characterization of Global Address Space Applications: A Case Study with NWChem](http://onlinelibrary.wiley.com/doi/10.1002/cpe.1881/abstract) 
 ([Preprint](http://www.cs.uoregon.edu/Research/paraducks/publ/htbin/bibify.cgi?cmd=show&coll=JOUR&id=CaC11&data_present=no))
 
+### Software for Multi-level Memories
+
+**MEMKIND:**
+Christopher Cantalupo, Vishwanath Venkatesan, Jeff R. Hammond, and Simon Hammond.
+Submitted.
+[User Extensible Heap Manager for Heterogeneous Memory Platforms and Mixed Memory Policies]() ([Preprint](http://memkind.github.io/memkind/memkind_arch_20150318.pdf)) ([Source](https://github.com/memkind/memkind))
+
 ### Performance Engineering and Application Scalability
 
 **GTFOCK:**
