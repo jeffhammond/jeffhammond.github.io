@@ -78,6 +78,8 @@ Supervisor: Professor Weston T. Borden
 
 Specific software packages that these papers have involved are denoted by **Software Name** in front of the citation.
 
+Note that my contribution to these packages varies from "nearly everything" to "student did all the work" to "literally nothing".  In most cases, the relevant version control system will give you all the details, if you're interested.
+
 ### Reviews and High-level Presentations
 
 Venkatram Vishwanath, Thomas Uram, Lisa Childers, Hal Finkel, Jeff Hammond,  Kalyan Kumaran, Paul Messina and Michael E. Papka.
