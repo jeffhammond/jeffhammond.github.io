@@ -224,7 +224,8 @@ J. R. Hammond, S. Krishnamoorthy, S. Shende, N. A. Romero and A. D. Malony, _Con
 **MEMKIND:**
 Christopher Cantalupo, Vishwanath Venkatesan, Jeff R. Hammond, and Simon Hammond.
 Submitted.
-[User Extensible Heap Manager for Heterogeneous Memory Platforms and Mixed Memory Policies]() ([Preprint](http://memkind.github.io/memkind/memkind_arch_20150318.pdf)) ([Source](https://github.com/memkind/memkind))
+[User Extensible Heap Manager for Heterogeneous Memory Platforms and Mixed Memory Policies]() ([Preprint](http://memkind.github.io/memkind/memkind_arch_20150318.pdf))
+([Source](https://github.com/memkind/memkind))
 
 ### Performance Engineering and Application Scalability
 
@@ -238,6 +239,8 @@ Edmond Chow, Xing Liu, Mikhail Smelyanskiy, and Jeff R. Hammond.
 _J. Chem. Phys._ *142*, 104103 (2015).
 [Parallel scalability of Hartree–Fock calculations](http://dx.doi.org/10.1063/1.4913961)
 ([Preprint](http://www.cc.gatech.edu/~echow/pubs/hf-jcp-2015.pdf))
+([Source 1](https://code.google.com/p/gtfock/))
+([Source 2](https://github.com/hpcgarage/OptErd))
 
 **MADNESS:**
 Álvaro Vázquez–Mayagoitia, W. Scott Thornton, Jeff R. Hammond, Robert J. Harrison.
@@ -251,7 +254,7 @@ _Proc. 27th Intl. Parallel and Distributed Processing Symp (IPDPS)._ Boston, Mas
 
 A. Chien, P. Balaji, P. Beckman, N. Dun, A. Fang, H. Fujita, K. Iskra, Z. Rubenstein, Z. Zheng, R. Schreiber, J. Hammond, J. Dinan, I. Laguna, D. Richards, A. Dubey, B. van Straalen, M. Hoemmen, M. Heroux, K. Teranishi, A. R. Siegel.
 _Submitted.  2015._
-[Versioned Distributed Arrays for Resilience in Scientific Applications: Global View Resilience](TBD.com) ([Preprint](http://www.mcs.anl.gov/papers/P5271-0115.pdf))
+[Versioned Distributed Arrays for Resilience in Scientific Applications: Global View Resilience]() ([Preprint](http://www.mcs.anl.gov/papers/P5271-0115.pdf))
 
 Sean Hogan, Jeff R. Hammond and Andrew A. Chien.
 _Fault-Tolerance at Extreme Scale (FTXS)._ Boston, MA.  June, 2012. 
