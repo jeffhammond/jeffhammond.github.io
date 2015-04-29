@@ -216,7 +216,7 @@ _The 6th Conference on Partitioned Global Address Space Programming Models (PGAS
 **ARMCI-MPI:**
 J. Dinan, P. Balaji, J. R. Hammond, S. Krishnamoorthy, and V. Tipparaju,
 _Proc. 26th Intl. Parallel and Distributed Processing Symp (IPDPS)._ Shanghai, China, May 2012.
-[http://dx.doi.org/10.1109/IPDPS.2012.72](Supporting the Global Arrays PGAS Model Using MPI One-Sided Communication) 
+[Supporting the Global Arrays PGAS Model Using MPI One-Sided Communication](http://dx.doi.org/10.1109/IPDPS.2012.72) 
 ([preprint](http://www.mcs.anl.gov/publication/supporting-global-arrays-pgas-model-using-mpi-one-sided-communication)). ([Source Code](http://wiki.mpich.org/armci-mpi/index.php/Main_Page))
 
 J. Dinan, S. Krishnamoorthy, P. Balaji, J. R. Hammond, M. Krishnan, V. Tipparaju and A. Vishnu,
