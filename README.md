@@ -243,6 +243,7 @@ Submitted.
 Edmond Chow, Xing Liu, Sanchit Misra, Marat Dukhan, Mikhail Smelyanskiy, Jeff R. Hammond, Yunfei Du, Xiang-Ke Liao and Pradeep Dubey.
 International Journal of High Performance Computing Applications, accepted.
 [Scaling up Hartree–Fock Calculations on Tianhe-2](http://dx.doi.org)
+([Preprint](http://www.cc.gatech.edu/~echow/pubs/ijhpca-2015.pdf))
 
 **GTFOCK:**
 Edmond Chow, Xing Liu, Mikhail Smelyanskiy, and Jeff R. Hammond.
