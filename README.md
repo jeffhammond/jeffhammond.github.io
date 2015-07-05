@@ -54,6 +54,7 @@ Supervisor: Professor Weston T. Borden
 
 ### Publications 
 * [Google Scholar](http://scholar.google.com/citations?user=UtykSKIAAAAJ) (papers and citations listed here)
+* [DBLP](http://dblp.uni-trier.de/pers/hd/h/Hammond:Jeff_R=) ([see also](http://dblp.uni-trier.de/pers/hd/h/Hammond:Jeff))
 * [ORCID](http://orcid.org/0000-0003-3181-8190)
 * [ResearchId](http://www.researcherid.com/rid/G-8607-2013)
 * [ResearchGate](https://www.researchgate.net/profile/Jeff_Hammond/) (some papers listed here)
