@@ -263,6 +263,7 @@ _Proc. 27th Intl. Parallel and Distributed Processing Symp (IPDPS)._ Boston, Mas
 
 ### Resilience
 
+**GVR:**
 A. Chien, P. Balaji, P. Beckman, N. Dun, A. Fang, H. Fujita, K. Iskra, Z. Rubenstein, Z. Zheng, R. Schreiber, J. Hammond, J. Dinan, I. Laguna, D. Richards, A. Dubey, B. van Straalen, M. Hoemmen, M. Heroux, K. Teranishi, A. R. Siegel.
 _Submitted.  2015._
 [Versioned Distributed Arrays for Resilience in Scientific Applications: Global View Resilience]() ([Preprint](http://www.mcs.anl.gov/papers/P5271-0115.pdf))
