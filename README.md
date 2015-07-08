@@ -255,9 +255,14 @@ _J. Chem. Phys._ *142*, 104103 (2015).
 ([Source 2](https://github.com/hpcgarage/OptErd))
 
 **MADNESS:**
+Robert J. Harrison, Gregory Beylkin, Florian A. Bischoff, Justus A. Calvin, George I. Fann, Jacob Fosso-Tande, Diego Galindo, Jeff R. Hammond, Rebecca Hartman-Baker, Judith C. Hill, Jun Jia, Jakob S. Kottmann, M-J. Yvonne Ou, Laura E. Ratcliff, Matthew G. Reuter, Adam C. Richie-Halford, Nichols A. Romero, Hideo Sekino, William A. Shelton, Bryan E. Sundahl, W. Scott Thornton, Edward F. Valeev, Álvaro Vázquez-Mayagoitia, Nicholas Vence, Yukina Yokoi.
+[MADNESS: A Multiresolution, Adaptive Numerical Environment for Scientific Simulation](http://arxiv.org/abs/1507.01888)
+
+**MADNESS:**
 Álvaro Vázquez–Mayagoitia, W. Scott Thornton, Jeff R. Hammond, Robert J. Harrison.
 [Quantum Chemistry Methods with Multiwavelet Bases on Massive Parallel Computers](https://dx.doi.org/10.1016/B978-0-444-63378-1.00001-X)
 
+**Harvey:**
 Amanda Peters Randles, Vivek Kale, Jeff Hammond, William D. Gropp and Efthimios Kaxiras.
 _Proc. 27th Intl. Parallel and Distributed Processing Symp (IPDPS)._ Boston, Massachusetts, May 2013.
 [Performance Analysis of the Lattice Boltzmann Model Beyond Navier-Stokes](http://dx.doi.org/10.1109/IPDPS.2013.109) ([Preprint](http://people.seas.harvard.edu/~apeters/papers/ipdps_lbm.pdf))
