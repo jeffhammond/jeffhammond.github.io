@@ -9,7 +9,7 @@ My detailed CV is available as [PDF](https://github.com/jeffhammond/jeffhammond.
 **Intel Labs**    
 Parallel Computing Laboratory (May 2014 - present).    
 Title: Research Scientist    
-Supervisor: Dr. Tim Mattson    
+Supervisor: Drs. Tim Mattson and Pradeep Dubey    
 
 **Argonne National Laboratory**    
 Leadership Computing Facility (June 2011 - May 2014).    
@@ -45,15 +45,16 @@ Supervisor: Professor Weston T. Borden
 * [LinkedIn](https://www.linkedin.com/in/jeffhammond)
 * [Twitter](https://twitter.com/JeffDotScience)
 * [Frontiers in Theoretical and Computational Chemistry](http://community.frontiersin.org/people/JeffHammond/110723)
-* [DOE-CSGF](http://www.krellinst.org/csgf/community/alumni/profile?n=hammond2005)
+* [DOE-CSGF](http://www.krellinst.org/doecsgf/alumni/info/fship.cgi?-w+hammond2005)
 * [Chemistry Tree](http://academictree.org/chemistry/tree.php?pid=67742)
 * [Wordpress Blog](http://aragingnerd.wordpress.com/) (empty right now)
-* [ImpactStory](http://impactstory.org/JeffHammond)
 * [StackExchange](http://scicomp.stackexchange.com/users/150/jeff)
+* [StackOverflow](http://stackoverflow.com/users/2189128/jeff)
 * [Academia.edu](https://independent.academia.edu/JeffHammond)
 
 ### Publications 
 * [Google Scholar](http://scholar.google.com/citations?user=UtykSKIAAAAJ) (papers and citations listed here)
+* [DBLP](http://dblp.uni-trier.de/pers/hd/h/Hammond:Jeff_R=) ([see also](http://dblp.uni-trier.de/pers/hd/h/Hammond:Jeff))
 * [ORCID](http://orcid.org/0000-0003-3181-8190)
 * [ResearchId](http://www.researcherid.com/rid/G-8607-2013)
 * [ResearchGate](https://www.researchgate.net/profile/Jeff_Hammond/) (some papers listed here)
@@ -70,13 +71,15 @@ Supervisor: Professor Weston T. Borden
 
 ### Random Facts
 
-* Google Scholar says I have an h-index of 15 (this is not necessarily exact value measured using only official publications but is closely correlated with the exact value).
+* Google Scholar says I have an h-index of 17 (this is not necessarily exact value measured using only official publications but is closely correlated with the exact value).
 * My Erdős number is 4 (via Jim Demmel).
 * My [Erdős-Bacon number](http://en.wikipedia.org/wiki/Erd%C5%91s%E2%80%93Bacon_number) is infinity because I have not acted in any movies.
 
 ## Publications
 
 Specific software packages that these papers have involved are denoted by **Software Name** in front of the citation.
+
+Note that my contribution to these packages varies from "nearly everything" to "student did all the work" to "literally nothing".  In most cases, the relevant version control system will give you all the details, if you're interested.
 
 ### Reviews and High-level Presentations
 
@@ -158,6 +161,14 @@ _ACM Trans. Math. Software_, 39 (2012).
 ### MPI, Global Arrays, ARMCI and OpenSHMEM
 
 **Casper:**
+Min Si, Antonio J. Peña, Jeff R. Hammond, Pavan Balaji, and Yutaka Ishikawa.
+_IEEE/ACM International Symposium on Cluster, Cloud and Grid Computing (CCGrid)._
+May 4–7, 2015, Shenzhen, China.
+**Scalable Computing Challenge Finalist.**
+[Scaling NWChem with Efficient and Portable Asynchronous Communication in MPI RMA]()
+([Preprint](http://www.mcs.anl.gov/papers/P5312-0315.pdf))
+
+**Casper:**
 Min Si, Antonio J. Pena, Jeff Hammond, Pavan Balaji, Masamichi Takagi, Yutaka Ishikawa.
 _Proc. 29th Intl. Parallel and Distributed Processing Symp (IPDPS)._ 
 Hyderabad, India, May 2015.
@@ -206,7 +217,7 @@ _The 6th Conference on Partitioned Global Address Space Programming Models (PGAS
 **ARMCI-MPI:**
 J. Dinan, P. Balaji, J. R. Hammond, S. Krishnamoorthy, and V. Tipparaju,
 _Proc. 26th Intl. Parallel and Distributed Processing Symp (IPDPS)._ Shanghai, China, May 2012.
-[http://dx.doi.org/10.1109/IPDPS.2012.72 Supporting the Global Arrays PGAS Model Using MPI One-Sided Communication] 
+[Supporting the Global Arrays PGAS Model Using MPI One-Sided Communication](http://dx.doi.org/10.1109/IPDPS.2012.72) 
 ([preprint](http://www.mcs.anl.gov/publication/supporting-global-arrays-pgas-model-using-mpi-one-sided-communication)). ([Source Code](http://wiki.mpich.org/armci-mpi/index.php/Main_Page))
 
 J. Dinan, S. Krishnamoorthy, P. Balaji, J. R. Hammond, M. Krishnan, V. Tipparaju and A. Vishnu,
@@ -219,28 +230,49 @@ J. R. Hammond, S. Krishnamoorthy, S. Shende, N. A. Romero and A. D. Malony, _Con
 [Performance Characterization of Global Address Space Applications: A Case Study with NWChem](http://onlinelibrary.wiley.com/doi/10.1002/cpe.1881/abstract) 
 ([Preprint](http://www.cs.uoregon.edu/Research/paraducks/publ/htbin/bibify.cgi?cmd=show&coll=JOUR&id=CaC11&data_present=no))
 
+### Software for Multi-level Memories
+
+**MEMKIND:**
+Christopher Cantalupo, Vishwanath Venkatesan, Jeff R. Hammond, and Simon Hammond.
+Submitted.
+[User Extensible Heap Manager for Heterogeneous Memory Platforms and Mixed Memory Policies]() ([Preprint](http://memkind.github.io/memkind/memkind_arch_20150318.pdf))
+([Source](https://github.com/memkind/memkind))
+
 ### Performance Engineering and Application Scalability
 
 **GTFOCK:**
 Edmond Chow, Xing Liu, Sanchit Misra, Marat Dukhan, Mikhail Smelyanskiy, Jeff R. Hammond, Yunfei Du, Xiang-Ke Liao and Pradeep Dubey.
 International Journal of High Performance Computing Applications, accepted.
-[Scaling up Hartree–Fock Calculations on Tianhe-2](http://dx.doi.org)
+[Scaling up Hartree–Fock Calculations on Tianhe-2](http://dx.doi.org/10.1177/1094342015592960)
+([Preprint](http://www.cc.gatech.edu/~echow/pubs/ijhpca-2015.pdf))
 
 **GTFOCK:**
 Edmond Chow, Xing Liu, Mikhail Smelyanskiy, and Jeff R. Hammond.
 _J. Chem. Phys._ *142*, 104103 (2015).
 [Parallel scalability of Hartree–Fock calculations](http://dx.doi.org/10.1063/1.4913961)
 ([Preprint](http://www.cc.gatech.edu/~echow/pubs/hf-jcp-2015.pdf))
+([Source 1](https://code.google.com/p/gtfock/))
+([Source 2](https://github.com/hpcgarage/OptErd))
+
+**MADNESS:**
+Robert J. Harrison, Gregory Beylkin, Florian A. Bischoff, Justus A. Calvin, George I. Fann, Jacob Fosso-Tande, Diego Galindo, Jeff R. Hammond, Rebecca Hartman-Baker, Judith C. Hill, Jun Jia, Jakob S. Kottmann, M-J. Yvonne Ou, Laura E. Ratcliff, Matthew G. Reuter, Adam C. Richie-Halford, Nichols A. Romero, Hideo Sekino, William A. Shelton, Bryan E. Sundahl, W. Scott Thornton, Edward F. Valeev, Álvaro Vázquez-Mayagoitia, Nicholas Vence, Yukina Yokoi.
+[MADNESS: A Multiresolution, Adaptive Numerical Environment for Scientific Simulation](http://arxiv.org/abs/1507.01888)
 
 **MADNESS:**
 Álvaro Vázquez–Mayagoitia, W. Scott Thornton, Jeff R. Hammond, Robert J. Harrison.
 [Quantum Chemistry Methods with Multiwavelet Bases on Massive Parallel Computers](https://dx.doi.org/10.1016/B978-0-444-63378-1.00001-X)
 
+**Harvey:**
 Amanda Peters Randles, Vivek Kale, Jeff Hammond, William D. Gropp and Efthimios Kaxiras.
 _Proc. 27th Intl. Parallel and Distributed Processing Symp (IPDPS)._ Boston, Massachusetts, May 2013.
 [Performance Analysis of the Lattice Boltzmann Model Beyond Navier-Stokes](http://dx.doi.org/10.1109/IPDPS.2013.109) ([Preprint](http://people.seas.harvard.edu/~apeters/papers/ipdps_lbm.pdf))
 
 ### Resilience
+
+**GVR:**
+A. Chien, P. Balaji, P. Beckman, N. Dun, A. Fang, H. Fujita, K. Iskra, Z. Rubenstein, Z. Zheng, R. Schreiber, J. Hammond, J. Dinan, I. Laguna, D. Richards, A. Dubey, B. van Straalen, M. Hoemmen, M. Heroux, K. Teranishi, A. R. Siegel.
+_Submitted.  2015._
+[Versioned Distributed Arrays for Resilience in Scientific Applications: Global View Resilience]() ([Preprint](http://www.mcs.anl.gov/papers/P5271-0115.pdf))
 
 Sean Hogan, Jeff R. Hammond and Andrew A. Chien.
 _Fault-Tolerance at Extreme Scale (FTXS)._ Boston, MA.  June, 2012. 
