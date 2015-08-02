@@ -398,17 +398,21 @@ J. R. Hammond and D. A. Mazziotti, _Phys. Rev. A_ **71**, 062503 (2005).
 
 ### Active
 
+* Standards activities: Programming parallel computers should be vendor-agnostic.  MPI Forum, OpenMP, and OpenSHMEM are of primary interest right now.
+
+* [Parallel Research Kernels](https://github.com/ParRes/Kernels) - Rob van der Wijngaart and Tim Mattson developed a set of parallel kernels, which are currently being used for programming models research.
+
 * [NWChem](http://www.nwchem-sw.org/) - I developed the coupled-cluster response property capability, among other features, during graduate school.  Static partitioning (load-balancing), threading, vectorization and accelerator integrations for NWChem are currently under investigation.
 
 * [BigMPI](https://github.com/jeffhammond/BigMPI) - See link for details.
 
-* [ARMCI-MPI](http://wiki.mpich.org/armci-mpi/index.php/Main_Page) - Jim Dinan developed a portable, high-performance implementation of ARMCI using MPI-2 RMA.  I wrote the MPI-3 implementation.
+* [ARMCI-MPI](http://wiki.mpich.org/armci-mpi/index.php/Main_Page) - Jim Dinan developed a portable, high-performance implementation of ARMCI using MPI-2 RMA.  I wrote the MPI-3 implementation and I maintain the project.
 
-* [OSHMPI](https://github.com/jeffhammond/oshmpi) -  OpenSHMEM over MPI-3
+* [OSHMPI](https://github.com/jeffhammond/oshmpi) -  OpenSHMEM over MPI-3.
 
+* [MADNESS](https://github.com/m-a-d-n-e-s-s/madness) - I've been working on porting the runtime to new platforms and evolving other low-level things for many years.
+ 
 * [DALEC](https://github.com/jeffhammond/dalec) - A new distributed array library using MPI-3.  This is totally a work-in-progress and not even the slightest bit ready for third-party inspection right now.
-
-* [MADNESS](http://code.google.com/p/m-a-d-n-e-s-s/) - [Robert Harrison](http://iacs.stonybrook.edu/people/faculty/robert-j-harrison) and I ported MADNESS to Blue Gene/P.  [Alvaro Vazquez-Mayagoitia](http://www.alcf.anl.gov/staff-directory/alvaro-vazquez-mayagoitia), [Nick Romero](https://www.alcf.anl.gov/staff-directory/nichols-romero), and others are involved in the Blue Gene/Q effort, which includes both performance improvements and new scientific functionality.
 
 ### Archives
 
@@ -422,7 +426,7 @@ J. R. Hammond and D. A. Mazziotti, _Phys. Rev. A_ **71**, 062503 (2005).
 
 * I was involved in both ASCR Leadership Computing Challenge (ALCC) and (INCITE) projects in computer science and chemistry.
 
-* [OSPRI](https://github.com/jeffhammond/ospri) (follow link for details)
+* [OSPRI](https://github.com/jeffhammond/ospri) (follow link for details).  This project was rendered unnecessary by MPI-3 RMA, although there are a number of interesting low-level performance tests in this repo.
 
 * [Global Arrays](http://www.emsl.pnl.gov/docs/global/ ) - I contributed features and tried to maintain the Blue Gene/P port until converting wholly to the use of [ARMCI-MPI](http://wiki.mpich.org/armci-mpi/index.php/Main_Page).  Global Arrays is developed at [Pacific Northwest National Laboratory](http://www.pnl.gov/).
 
@@ -432,7 +436,7 @@ J. R. Hammond and D. A. Mazziotti, _Phys. Rev. A_ **71**, 062503 (2005).
 
 * [MPQC](https://github.com/ValeevGroup/mpqc) - I helped port and optimize MPQC for Blue Gene/P, with kind support from [Curt Janssen](http://www.linkedin.com/pub/curtis-janssen/7/454/440) and [Ed Valeev](http://www.files.chem.vt.edu/chem-dept/valeev/), who are the lead developers of this code.
 
-* [A1](https://github.com/jeffhammond/a1)
+* [A1](https://github.com/jeffhammond/a1) was the predecessor to OSPRI.  The hardware it targeted (Blue Gene/P) no longer exists.
 
 * [NEUS](https://code.google.com/p/parallelsampling/) - A massively-parallel implementation of non-equilibrium umbrella sampling.  I contribute the computer science portion in a collaboration with the [Dinner group](http://dinner-group.uchicago.edu/).  This project is funded with an [UC-ANL Strategic Collaborative Initiative grant](http://www.uchicago.edu/research/news/20102010_argonne.shtml).
 
@@ -440,4 +444,4 @@ J. R. Hammond and D. A. Mazziotti, _Phys. Rev. A_ **71**, 062503 (2005).
 
 * [TAU](http://www.cs.uoregon.edu/research/tau)-[ARMCI](http://www.emsl.pnl.gov/docs/parsoft/armci/) - I contributed to the development of TAU profiling capability for the ARMCI communication library.  This was a joint project with [Sriram Krisnamoorthy](http://hpc.pnl.gov/people/sriram/) and the [Sameer Shende] (http://ix.cs.uoregon.edu/~sameer/) that is now complete.
 
-* CECC - Chemistry Exascale Codesign Center.
+* CECC - Chemistry Exascale Codesign Center.  If this project had been funded, I would never have left DOE.
