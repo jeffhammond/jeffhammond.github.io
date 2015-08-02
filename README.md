@@ -366,6 +366,10 @@ J. R. Hammond, M. Valiev, W. A. de Jong and K. Kowalski, _J. Phys.  Chem. A_ **1
 
 ### Chemistry Applications
 
+Sameer Varma, Mohsen Botlani, Jeff R. Hammond, H. Larry Scott, Joseph P.R.O. Orgel, Jay D. Schieber,
+_Proteins: Structure, Function, and Bioinformatics_ (2015).
+[Effect of Intrinsic and Extrinsic Factors on the Simulated D-band Length of Type I Collagen](http://dx.doi.org/10.1002/prot.24864)
+
 R. S. Assary, P. C. Redfern, J. R. Hammond, J. Greeley and L. A. Curtiss, _Chem. Phys. Lett._, **497 (1-3)**, 123 (2010).  [Predicted Thermochemistry for Chemical Conversion of 5-Hydroxymethyl Furfural](http://dx.doi.org/10.1016/j.cplett.2010.07.082)
 
 R. S. Assary, P. C. Redfern, J. R. Hammond, J. Greeley and L. A. Curtiss, _J. Phys. Chem. B_, **114**, 9002 (2010).  [Computational Studies of the Thermochemistry for Conversion of Glucose to Levulinic Acid](http://pubs.acs.org/doi/abs/10.1021/jp101418f)
