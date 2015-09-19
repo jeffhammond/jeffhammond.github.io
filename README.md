@@ -158,7 +158,14 @@ _ACM Trans. Math. Software_, 39 (2012).
 ([Preprint](http://elemental.googlecode.com/files/Elemental-rev2.pdf))
 ([Source Code](https://github.com/elemental/Elemental))
 
-### MPI, Global Arrays, ARMCI and OpenSHMEM
+### MPI, Global Arrays, ARMCI, OpenSHMEM and other PGAS
+
+**PRK:**
+Rob Van der Wijngaart, Srinivas Sridharan, Abdullah Kayi, Gabriele Jost, Jeff Hammond, Tim Mattson, and Jacob Nelson.
+_The 9th International Conference on Partitioned Global Address Space Programming Models._
+September 17-18, 2015. Washington, D.C.
+[Using the Parallel Research Kernels to study PGAS models](http://hpcl.seas.gwu.edu/pgas15/program)
+([Source Code](https://github.com/ParRes/Kernels))
 
 **Casper:**
 Min Si, Antonio J. Peña, Jeff R. Hammond, Pavan Balaji, and Yutaka Ishikawa.
