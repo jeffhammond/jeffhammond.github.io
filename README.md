@@ -267,6 +267,7 @@ Robert J. Harrison, Gregory Beylkin, Florian A. Bischoff, Justus A. Calvin, Geor
 
 **MADNESS:**
 Álvaro Vázquez–Mayagoitia, W. Scott Thornton, Jeff R. Hammond, Robert J. Harrison.
+_Annual Reports in Computational Chemistry_ *10*, pp. 3–24 (2014).
 [Quantum Chemistry Methods with Multiwavelet Bases on Massive Parallel Computers](https://dx.doi.org/10.1016/B978-0-444-63378-1.00001-X)
 
 **Harvey:**
