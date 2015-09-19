@@ -160,9 +160,15 @@ _ACM Trans. Math. Software_, 39 (2012).
 
 ### MPI, Global Arrays, ARMCI, OpenSHMEM and other PGAS
 
+Karthikeyan Vaidyanathan, Dhiraj D. Kalamkar, Kiran Pamnany, Jeff R. Hammond, Pavan Balaji, Dipankar Das, Jongsoo Park, Balint Joo.
+_The International Conference for High Performance Computing, Networking, Storage and Analytics (SC15)._
+Austin, TX, November 15-20, 2015.
+[Improving Concurrency and Asynchrony in Multithreaded MPI Applications Using Software Offloading](http://sc15.supercomputing.org/schedule/event_detail?evid=pap145)
+([Preprint](http://www.mcs.anl.gov/papers/))
+
 **PRK:**
 Rob Van der Wijngaart, Srinivas Sridharan, Abdullah Kayi, Gabriele Jost, Jeff Hammond, Tim Mattson, and Jacob Nelson.
-_The 9th International Conference on Partitioned Global Address Space Programming Models._
+_The 9th International Conference on Partitioned Global Address Space Programming Models (PGAS)._
 September 17-18, 2015. Washington, D.C.
 [Using the Parallel Research Kernels to study PGAS models](http://hpcl.seas.gwu.edu/pgas15/program)
 ([Source Code](https://github.com/ParRes/Kernels))
