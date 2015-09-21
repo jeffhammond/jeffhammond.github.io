@@ -213,7 +213,20 @@ J. Poulson, B. Marker, J. R. Hammond, N. A. Romero, and R. van de Geijn.
 (<a href="https://github.com/elemental/Elemental">Source Code</a>)</p>
 
 <h3>
-<a id="mpi-global-arrays-armci-and-openshmem" class="anchor" href="#mpi-global-arrays-armci-and-openshmem" aria-hidden="true"><span class="octicon octicon-link"></span></a>MPI, Global Arrays, ARMCI and OpenSHMEM</h3>
+<a id="mpi-global-arrays-armci-openshmem-and-other-pgas" class="anchor" href="#mpi-global-arrays-armci-openshmem-and-other-pgas" aria-hidden="true"><span class="octicon octicon-link"></span></a>MPI, Global Arrays, ARMCI, OpenSHMEM and other PGAS</h3>
+
+<p>Karthikeyan Vaidyanathan, Dhiraj D. Kalamkar, Kiran Pamnany, Jeff R. Hammond, Pavan Balaji, Dipankar Das, Jongsoo Park, Balint Joo.
+<em>The International Conference for High Performance Computing, Networking, Storage and Analytics (SC15).</em>
+Austin, TX, November 15-20, 2015.
+<a href="http://sc15.supercomputing.org/schedule/event_detail?evid=pap145">Improving Concurrency and Asynchrony in Multithreaded MPI Applications Using Software Offloading</a>
+(<a href="http://www.mcs.anl.gov/papers/">Preprint</a>)</p>
+
+<p><strong>PRK:</strong>
+Rob Van der Wijngaart, Srinivas Sridharan, Abdullah Kayi, Gabriele Jost, Jeff Hammond, Tim Mattson, and Jacob Nelson.
+<em>The 9th International Conference on Partitioned Global Address Space Programming Models (PGAS).</em>
+September 17-18, 2015. Washington, D.C.
+<a href="http://hpcl.seas.gwu.edu/pgas15/program">Using the Parallel Research Kernels to study PGAS models</a>
+(<a href="https://github.com/ParRes/Kernels">Source Code</a>)</p>
 
 <p><strong>Casper:</strong>
 Min Si, Antonio J. Peña, Jeff R. Hammond, Pavan Balaji, and Yutaka Ishikawa.
@@ -317,6 +330,7 @@ Robert J. Harrison, Gregory Beylkin, Florian A. Bischoff, Justus A. Calvin, Geor
 
 <p><strong>MADNESS:</strong>
 Álvaro Vázquez–Mayagoitia, W. Scott Thornton, Jeff R. Hammond, Robert J. Harrison.
+<em>Annual Reports in Computational Chemistry</em> <em>10</em>, pp. 3–24 (2014).
 <a href="https://dx.doi.org/10.1016/B978-0-444-63378-1.00001-X">Quantum Chemistry Methods with Multiwavelet Bases on Massive Parallel Computers</a></p>
 
 <p><strong>Harvey:</strong>
@@ -429,6 +443,10 @@ J. R. Hammond, M. Valiev, W. A. de Jong and K. Kowalski, <em>J. Phys.  Chem. A</
 <h3>
 <a id="chemistry-applications" class="anchor" href="#chemistry-applications" aria-hidden="true"><span class="octicon octicon-link"></span></a>Chemistry Applications</h3>
 
+<p>Sameer Varma, Mohsen Botlani, Jeff R. Hammond, H. Larry Scott, Joseph P.R.O. Orgel, Jay D. Schieber,
+<em>Proteins: Structure, Function, and Bioinformatics</em> (2015).
+<a href="http://dx.doi.org/10.1002/prot.24864">Effect of Intrinsic and Extrinsic Factors on the Simulated D-band Length of Type I Collagen</a></p>
+
 <p>R. S. Assary, P. C. Redfern, J. R. Hammond, J. Greeley and L. A. Curtiss, <em>Chem. Phys. Lett.</em>, <strong>497 (1-3)</strong>, 123 (2010).  <a href="http://dx.doi.org/10.1016/j.cplett.2010.07.082">Predicted Thermochemistry for Chemical Conversion of 5-Hydroxymethyl Furfural</a></p>
 
 <p>R. S. Assary, P. C. Redfern, J. R. Hammond, J. Greeley and L. A. Curtiss, <em>J. Phys. Chem. B</em>, <strong>114</strong>, 9002 (2010).  <a href="http://pubs.acs.org/doi/abs/10.1021/jp101418f">Computational Studies of the Thermochemistry for Conversion of Glucose to Levulinic Acid</a></p>
@@ -461,12 +479,14 @@ J. R. Hammond, M. Valiev, W. A. de Jong and K. Kowalski, <em>J. Phys.  Chem. A</
 <a id="active" class="anchor" href="#active" aria-hidden="true"><span class="octicon octicon-link"></span></a>Active</h3>
 
 <ul>
+<li><p>Standards activities: Programming parallel computers should be vendor-agnostic.  MPI Forum, OpenMP, and OpenSHMEM are of primary interest right now.</p></li>
+<li><p><a href="https://github.com/ParRes/Kernels">Parallel Research Kernels</a> - Rob van der Wijngaart and Tim Mattson developed a set of parallel kernels, which are currently being used for programming models research.</p></li>
 <li><p><a href="http://www.nwchem-sw.org/">NWChem</a> - I developed the coupled-cluster response property capability, among other features, during graduate school.  Static partitioning (load-balancing), threading, vectorization and accelerator integrations for NWChem are currently under investigation.</p></li>
 <li><p><a href="https://github.com/jeffhammond/BigMPI">BigMPI</a> - See link for details.</p></li>
-<li><p><a href="http://wiki.mpich.org/armci-mpi/index.php/Main_Page">ARMCI-MPI</a> - Jim Dinan developed a portable, high-performance implementation of ARMCI using MPI-2 RMA.  I wrote the MPI-3 implementation.</p></li>
-<li><p><a href="https://github.com/jeffhammond/oshmpi">OSHMPI</a> -  OpenSHMEM over MPI-3</p></li>
+<li><p><a href="http://wiki.mpich.org/armci-mpi/index.php/Main_Page">ARMCI-MPI</a> - Jim Dinan developed a portable, high-performance implementation of ARMCI using MPI-2 RMA.  I wrote the MPI-3 implementation and I maintain the project.</p></li>
+<li><p><a href="https://github.com/jeffhammond/oshmpi">OSHMPI</a> -  OpenSHMEM over MPI-3.</p></li>
+<li><p><a href="https://github.com/m-a-d-n-e-s-s/madness">MADNESS</a> - I've been working on porting the runtime to new platforms and evolving other low-level things for many years.</p></li>
 <li><p><a href="https://github.com/jeffhammond/dalec">DALEC</a> - A new distributed array library using MPI-3.  This is totally a work-in-progress and not even the slightest bit ready for third-party inspection right now.</p></li>
-<li><p><a href="http://code.google.com/p/m-a-d-n-e-s-s/">MADNESS</a> - <a href="http://iacs.stonybrook.edu/people/faculty/robert-j-harrison">Robert Harrison</a> and I ported MADNESS to Blue Gene/P.  <a href="http://www.alcf.anl.gov/staff-directory/alvaro-vazquez-mayagoitia">Alvaro Vazquez-Mayagoitia</a>, <a href="https://www.alcf.anl.gov/staff-directory/nichols-romero">Nick Romero</a>, and others are involved in the Blue Gene/Q effort, which includes both performance improvements and new scientific functionality.</p></li>
 </ul>
 
 <h3>
@@ -478,16 +498,16 @@ J. R. Hammond, M. Valiev, W. A. de Jong and K. Kowalski, <em>J. Phys.  Chem. A</
 <li><p><a href="https://xstackwiki.modelado.org/GVR">DOE X-Stack: GVR</a> (follow link for details)</p></li>
 <li><p><a href="https://asc.llnl.gov/CORAL-benchmarks">CORAL</a> and Blue Gene/Q were my primary projects at ALCF.</p></li>
 <li><p>I was involved in both ASCR Leadership Computing Challenge (ALCC) and (INCITE) projects in computer science and chemistry.</p></li>
-<li><p><a href="https://github.com/jeffhammond/ospri">OSPRI</a> (follow link for details)</p></li>
+<li><p><a href="https://github.com/jeffhammond/ospri">OSPRI</a> (follow link for details).  This project was rendered unnecessary by MPI-3 RMA, although there are a number of interesting low-level performance tests in this repo.</p></li>
 <li><p><a href="http://www.emsl.pnl.gov/docs/global/">Global Arrays</a> - I contributed features and tried to maintain the Blue Gene/P port until converting wholly to the use of <a href="http://wiki.mpich.org/armci-mpi/index.php/Main_Page">ARMCI-MPI</a>.  Global Arrays is developed at <a href="http://www.pnl.gov/">Pacific Northwest National Laboratory</a>.</p></li>
 <li><p><a href="https://www.alcf.anl.gov/projects/accurate-numerical-simulations-chemical-phenomena-involved-energy-production-and-storage">BG/Q ESP</a> - Robert, Curt, Ed and I have a Blue Gene/Q Early Science Program project entitled ''Accurate Numerical Simulations of Chemical Phenomena Involved in Energy Production and Storage with MADNESS and MPQC.''</p></li>
 <li><p><a href="https://wiki.mcs.anl.gov/unistack/">Unistack</a> - Unified runtime systems for parallel programming models.</p></li>
 <li><p><a href="https://github.com/ValeevGroup/mpqc">MPQC</a> - I helped port and optimize MPQC for Blue Gene/P, with kind support from <a href="http://www.linkedin.com/pub/curtis-janssen/7/454/440">Curt Janssen</a> and <a href="http://www.files.chem.vt.edu/chem-dept/valeev/">Ed Valeev</a>, who are the lead developers of this code.</p></li>
-<li><p><a href="https://github.com/jeffhammond/a1">A1</a></p></li>
+<li><p><a href="https://github.com/jeffhammond/a1">A1</a> was the predecessor to OSPRI.  The hardware it targeted (Blue Gene/P) no longer exists.</p></li>
 <li><p><a href="https://code.google.com/p/parallelsampling/">NEUS</a> - A massively-parallel implementation of non-equilibrium umbrella sampling.  I contribute the computer science portion in a collaboration with the <a href="http://dinner-group.uchicago.edu/">Dinner group</a>.  This project is funded with an <a href="http://www.uchicago.edu/research/news/20102010_argonne.shtml">UC-ANL Strategic Collaborative Initiative grant</a>.</p></li>
 <li><p>GPU-CC - Eugene DePrince developed a coupled-cluster code for GPUs with help from me.  This code is now part of <a href="http://www.psicode.org/">PSI4</a>.  This project belongs to Eugene now although I'm still making use of lessons learned from it.</p></li>
 <li><p><a href="http://www.cs.uoregon.edu/research/tau">TAU</a>-<a href="http://www.emsl.pnl.gov/docs/parsoft/armci/">ARMCI</a> - I contributed to the development of TAU profiling capability for the ARMCI communication library.  This was a joint project with <a href="http://hpc.pnl.gov/people/sriram/">Sriram Krisnamoorthy</a> and the <a href="http://ix.cs.uoregon.edu/%7Esameer/">Sameer Shende</a> that is now complete.</p></li>
-<li><p>CECC - Chemistry Exascale Codesign Center.</p></li>
+<li><p>CECC - Chemistry Exascale Codesign Center.  If this project had been funded, I would never have left DOE.</p></li>
 </ul>
       </section>
       <footer>
