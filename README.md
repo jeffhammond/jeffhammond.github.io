@@ -163,8 +163,7 @@ _ACM Trans. Math. Software_, 39 (2012).
 Karthikeyan Vaidyanathan, Dhiraj D. Kalamkar, Kiran Pamnany, Jeff R. Hammond, Pavan Balaji, Dipankar Das, Jongsoo Park, Balint Joo.
 _The International Conference for High Performance Computing, Networking, Storage and Analytics (SC15)._
 Austin, TX, November 15-20, 2015.
-[Improving Concurrency and Asynchrony in Multithreaded MPI Applications Using Software Offloading](http://sc15.supercomputing.org/schedule/event_detail?evid=pap145)
-([Preprint](http://www.mcs.anl.gov/papers/))
+[Improving Concurrency and Asynchrony in Multithreaded MPI Applications Using Software Offloading](http://dx.doi.org/10.1145/2807591.2807602)
 
 **PRK:**
 Rob Van der Wijngaart, Srinivas Sridharan, Abdullah Kayi, Gabriele Jost, Jeff Hammond, Tim Mattson, and Jacob Nelson.
@@ -185,7 +184,7 @@ May 4–7, 2015, Shenzhen, China.
 Min Si, Antonio J. Pena, Jeff Hammond, Pavan Balaji, Masamichi Takagi, Yutaka Ishikawa.
 _Proc. 29th Intl. Parallel and Distributed Processing Symp (IPDPS)._ 
 Hyderabad, India, May 2015.
-[Casper: An Asynchronous Progress Model for MPI RMA on Many-Core Architectures](http://www.ipdps.org/).
+[Casper: An Asynchronous Progress Model for MPI RMA on Many-Core Architectures]().
 ([Preprint](http://www.mcs.anl.gov/publication/casper-asynchronous-progress-model-mpi-rma-many-core-architectures))
 ([Source Code](http://git.mpich.org/soft/dev/casper.git/))
 
@@ -205,7 +204,7 @@ Workshop on Exascale MPI at Supercomputing Conference 2014 (ExaMPI14), New Orlea
 David Ozog, Allen Malony, Jeff Hammond and Pavan Balaji.
 _20th IEEE International Conference on Parallel and Distributed Systems (ICPADS)._
 Hsinchu, Taiwan, December 16 – 19, 2014.
-[WorkQ: A Many-Core Producer/Consumer Execution Model Applied to PGAS Computations](http://dx.doi.org/) 
+[WorkQ: A Many-Core Producer/Consumer Execution Model Applied to PGAS Computations](http://dx.doi.org/10.1109/PADSW.2014.7097863) 
 ([Preprint 1](http://ix.cs.uoregon.edu/~ozog/pubs/ICPADS-2014.pdf))
 ([Preprint 2](http://www.mcs.anl.gov/~balaji/pubs/2014/icpads/icpads14.workq.pdf)).
 
