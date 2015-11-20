@@ -169,7 +169,8 @@ Austin, TX, November 15-20, 2015.
 Rob Van der Wijngaart, Srinivas Sridharan, Abdullah Kayi, Gabriele Jost, Jeff Hammond, Tim Mattson, and Jacob Nelson.
 _The 9th International Conference on Partitioned Global Address Space Programming Models (PGAS)._
 September 17-18, 2015. Washington, D.C.
-[Using the Parallel Research Kernels to study PGAS models](http://hpcl.seas.gwu.edu/pgas15/program)
+[Using the Parallel Research Kernels to study PGAS models](http://dx.doi.org/10.1109/PGAS.2015.24)
+([Slides](http://hpcl.seas.gwu.edu/pgas15/slides/PRK_for_PGAS2015_public.pdf))
 ([Source Code](https://github.com/ParRes/Kernels))
 
 **Casper:**
@@ -177,14 +178,14 @@ Min Si, Antonio J. Peña, Jeff R. Hammond, Pavan Balaji, and Yutaka Ishikawa.
 _IEEE/ACM International Symposium on Cluster, Cloud and Grid Computing (CCGrid)._
 May 4–7, 2015, Shenzhen, China.
 **Scalable Computing Challenge Finalist.**
-[Scaling NWChem with Efficient and Portable Asynchronous Communication in MPI RMA]()
+[Scaling NWChem with Efficient and Portable Asynchronous Communication in MPI RMA](http://dx.doi.org/10.1109/CCGrid.2015.48)
 ([Preprint](http://www.mcs.anl.gov/papers/P5312-0315.pdf))
 
 **Casper:**
 Min Si, Antonio J. Pena, Jeff Hammond, Pavan Balaji, Masamichi Takagi, Yutaka Ishikawa.
 _Proc. 29th Intl. Parallel and Distributed Processing Symp (IPDPS)._ 
 Hyderabad, India, May 2015.
-[Casper: An Asynchronous Progress Model for MPI RMA on Many-Core Architectures]().
+[Casper: An Asynchronous Progress Model for MPI RMA on Many-Core Architectures](http://dx.doi.org/10.1109/IPDPS.2015.35).
 ([Preprint](http://www.mcs.anl.gov/publication/casper-asynchronous-progress-model-mpi-rma-many-core-architectures))
 ([Source Code](http://git.mpich.org/soft/dev/casper.git/))
 
@@ -196,7 +197,7 @@ OpenSHMEM User Group (OUG2014), October 7, 2014, Eugene, OR.
 **BigMPI:** 
 Jeff R. Hammond, Andreas Schaefer, and Rob Latham.
 Workshop on Exascale MPI at Supercomputing Conference 2014 (ExaMPI14), New Orleans, LA, November 17, 2014.
-[To INT_MAX... and beyond! Exploring large-count support in MPI](http://dl.acm.org/citation.cfm?id=2690884)
+[To INT_MAX... and beyond! Exploring large-count support in MPI](http://dx.doi.org/10.1109/ExaMPI.2014.5)
 ([Preprint 1](https://github.com/jeffhammond/BigMPI-paper/raw/master/exampi14_resubmission_3.pdf))
 ([Preprint 2](http://www.mcs.anl.gov/publication/intmax-and-beyond-exploring-large-count-support-mpi))
 ([Source Code](https://github.com/jeffhammond/BigMPI))
@@ -218,7 +219,8 @@ accepted to _First OpenSHMEM Workshop: Experiences, Implementations and Tools._
 
 V. Morozov, J. Meng, V. Vishwanath, J. R. Hammond, K. Kumaran and M. Papka. 
 _Parallel Processing Workshops (ICPPW), 41st International Conference,_ September 2012, Pittsburgh, Pennsylvania
-[ALCF MPI Benchmarks: Understanding Machine-Specific Communication Behavior](http://dx.doi.org/10.1109/ICPPW.2012.7) ([IEEE link](http://doi.ieeecomputersociety.org/10.1109/ICPPW.2012.7)) ([Slides](http://www.mcs.anl.gov/events/workshops/p2s2/2012/slides/Morozov-P2S2-MPI_benchmark.pdf))
+[ALCF MPI Benchmarks: Understanding Machine-Specific Communication Behavior](http://dx.doi.org/10.1109/ICPPW.2012.7)
+([IEEE link](http://doi.ieeecomputersociety.org/10.1109/ICPPW.2012.7)) ([Slides](http://www.mcs.anl.gov/events/workshops/p2s2/2012/slides/Morozov-P2S2-MPI_benchmark.pdf))
 
 **OSPRI:**
 J. R. Hammond, J. Dinan, P. Balaji, I. Kabadshow, S. Potluri, and V. Tipparaju, 
@@ -230,12 +232,13 @@ _The 6th Conference on Partitioned Global Address Space Programming Models (PGAS
 J. Dinan, P. Balaji, J. R. Hammond, S. Krishnamoorthy, and V. Tipparaju,
 _Proc. 26th Intl. Parallel and Distributed Processing Symp (IPDPS)._ Shanghai, China, May 2012.
 [Supporting the Global Arrays PGAS Model Using MPI One-Sided Communication](http://dx.doi.org/10.1109/IPDPS.2012.72) 
-([preprint](http://www.mcs.anl.gov/publication/supporting-global-arrays-pgas-model-using-mpi-one-sided-communication)). ([Source Code](http://wiki.mpich.org/armci-mpi/index.php/Main_Page))
+([Preprint](http://www.mcs.anl.gov/publication/supporting-global-arrays-pgas-model-using-mpi-one-sided-communication))
+([Source Code](http://wiki.mpich.org/armci-mpi/index.php/Main_Page))
 
 J. Dinan, S. Krishnamoorthy, P. Balaji, J. R. Hammond, M. Krishnan, V. Tipparaju and A. Vishnu,
 in _Recent Advances in the Message Passing Interface_ (Lecture Notes in Computer Science, Volume 6960/2011, pp. 282-291), edited by Y. Cotronis, A. Danalis, D. S. Nikolopoulos and J. Dongarra.
 [Noncollective Communicator Creation in MPI](http://www.springerlink.com/content/t1p532u8l1273x2m/)
-([preprint](http://www.mcs.anl.gov/publication/noncollective-communicator-creation-mpi)).
+([Preprint](http://www.mcs.anl.gov/publication/noncollective-communicator-creation-mpi)).
 
 **TAU-ARMCI:**
 J. R. Hammond, S. Krishnamoorthy, S. Shende, N. A. Romero and A. D. Malony, _Concurrency and Computation: Practice and Experience_ (DOI: 10.1002/cpe.1881).
