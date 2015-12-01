@@ -66,12 +66,13 @@ Supervisor: Professor Weston T. Borden
 * [Github](https://github.com/jeffhammond) (very useful)
 * [Bitbucket](https://bitbucket.org/jeffscience) (useful)
 * [Ohloh](https://www.ohloh.net/accounts/jeff_science) (very useful)
+* [Gitlab](https://gitlab.com/u/jeffhammond) (not useful)
 * [Sourceforge](https://sourceforge.net/users/jeffhammond) (not useful)
 * [OpenMP](http://openmp.org/twiki/bin/view/Main/JeffHammond) (not useful)
 
 ### Random Facts
 
-* Google Scholar says I have an h-index of 17 (this is not necessarily exact value measured using only official publications but is closely correlated with the exact value).
+* Google Scholar says I have an h-index of 18 (this is not necessarily exact value measured using only official publications but is closely correlated with the exact value).
 * My Erdős number is 4 (via Jim Demmel).
 * My [Erdős-Bacon number](http://en.wikipedia.org/wiki/Erd%C5%91s%E2%80%93Bacon_number) is infinity because I have not acted in any movies.
 
@@ -79,7 +80,7 @@ Supervisor: Professor Weston T. Borden
 
 Specific software packages that these papers have involved are denoted by **Software Name** in front of the citation.
 
-Note that my contribution to these packages varies from "nearly everything" to "student did all the work" to "literally nothing".  In most cases, the relevant version control system will give you all the details, if you're interested.
+Note that my contribution to these packages varies from "nearly everything" to "supervised student developer" to "literally nothing".  In most cases, the relevant version control system will give you all the details, if you're interested.
 
 ### Reviews and High-level Presentations
 
