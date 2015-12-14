@@ -349,13 +349,20 @@ Jeff Hammond, Priyanka Ghosh, David Ozog, Cyrus Karshenas, and Karol Kowalski.  
 http://dx.doi.org/10.6084/m9.figshare.967859) (my dissertation).
 
 **NWChem:**
+H. Hu, Y.-F. Zhao, J. Hammond, E. Bylaska, E. Apra, H.J.J. van Dam, J. Li, N. Govind, and K. Kowalski,
+_Chem. Phys. Lett._ (2015).
+[Theoretical studies of the global minima and polarizabilities of small lithium clusters](http://dx.doi.org/10.1016/j.cplett.2015.11.049)
+
+**NWChem:**
 K. Kowalski, J. R. Hammond, W. A. de Jong, P.-D. Fan, M. Valiev, D. Wang and N. Govind, in _Computational Methods for Large Systems: Electronic Structure Approaches for Biotechnology and Nanotechnology_, edited by J. R. Reimers (Wiley, March 2011, Hoboken). [Coupled-Cluster Calculations for Large Molecular and Extended Systems](http://www.wiley.com/WileyCDA/WileyTitle/productCd-0470487887.html)
 
 **NWChem:**
-K. Kowalski, S. Krishnamoorthy, O. Villa, J. R. Hammond, and N. Govind, _J. Chem. Phys._ **132**, 154103 (2010). [Active-space completely-renormalized equation-of-motion coupled-cluster formalism: Excited-state studies of green fluorescent protein, free-base porphyrin, and oligoporphyrin dimer](http://dx.doi.org/10.1063/1.3385315)
+K. Kowalski, S. Krishnamoorthy, O. Villa, J. R. Hammond, and N. Govind, _J. Chem. Phys._ **132**, 154103 (2010).
+[Active-space completely-renormalized equation-of-motion coupled-cluster formalism: Excited-state studies of green fluorescent protein, free-base porphyrin, and oligoporphyrin dimer](http://dx.doi.org/10.1063/1.3385315)
 
 **NWChem:**
-J. R. Hammond, N. Govind, K. Kowalski, J. Autschbach and S. S. Xantheas, _J. Chem. Phys._ **131**, 214103 (2009).  [Accurate dipole polarizabilities for water clusters N=2-12 at the coupled-cluster level of theory and benchmarking of various density functionals](http://dx.doi.org/10.1063/1.3263604)
+J. R. Hammond, N. Govind, K. Kowalski, J. Autschbach and S. S. Xantheas, _J. Chem. Phys._ **131**, 214103 (2009).
+[Accurate dipole polarizabilities for water clusters N=2-12 at the coupled-cluster level of theory and benchmarking of various density functionals](http://dx.doi.org/10.1063/1.3263604)
 
 **NWChem:**
 J. R. Hammond and K. Kowalski, _J. Chem. Phys._ **130**, 194108 (2008).
