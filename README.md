@@ -4,6 +4,8 @@ Jeff Hammond, Computational Scientist, jeff_hammond@acm.org
 
 My detailed CV is available as [PDF](https://github.com/jeffhammond/jeffhammond.github.io/raw/master/cv/master.pdf).
 
+[Edit this page (authentication required)](https://github.com/jeffhammond/jeffhammond.github.io/edit/master/README.md)
+
 ### Education and Research Positions
 
 **Intel Labs**    
@@ -161,6 +163,12 @@ _ACM Trans. Math. Software_, 39 (2012).
 
 ### MPI, Global Arrays, ARMCI, OpenSHMEM and other PGAS
 
+**UPCFock:**
+D. Ozog, A. Kamil, Y. Zheng, P. Hargrove, J. R. Hammond, A. Malony, W. de Jong, and K. Yelick.
+_Proc. 30th Intl. Parallel and Distributed Processing Symp (IPDPS)._ 
+Chicago, Ilinois, May 2016.
+[A Hartree-Fock Application using UPC++ and the New DArray Library](http://www.ipdps.org/)
+
 Karthikeyan Vaidyanathan, Dhiraj D. Kalamkar, Kiran Pamnany, Jeff R. Hammond, Pavan Balaji, Dipankar Das, Jongsoo Park, Balint Joo.
 _The International Conference for High Performance Computing, Networking, Storage and Analytics (SC15)._
 Austin, TX, November 15-20, 2015.
@@ -314,6 +322,11 @@ A. Dickson, M. Maienshein-Cline, A. Tovo-Dwyer, J. R. Hammond and A. R. Dinner, 
 
 _Eugene has incorporated all of the GPU coupled-cluster codes into [PSI4](http://www.psicode.org/).  See [Github](https://github.com/edeprince3/gpu_dfcc) for details._
 
+A. E. DePrince III, J. R. Hammond, and C. D. Sherrill,
+_Iterative Coupled-Cluster Methods on Graphics Processing Units_ in
+in [Electronic Structure Calculations on Graphics Processing Units: From Quantum Chemistry to Condensed Matter Physics](http://www.wiley.com/WileyCDA/WileyTitle/productCd-1118661788.html), 
+edited by Ross Walker and Andreas Goetz (Wiley, 2016).
+
 A. E. DePrince III, J. R. Hammond and S. K. Gray, 
 [Proceedings of SciDAC 2011](http://press.mcs.anl.gov/scidac2011/), Denver, CO, July 10-14, 2011.
 [Many-body quantum chemistry on graphics processing units](http://www.mcs.anl.gov/uploads/cels/papers/scidac11/final/deprince_eugene.pdf).
@@ -321,14 +334,14 @@ A. E. DePrince III, J. R. Hammond and S. K. Gray,
 A. E. DePrince III and J. R. Hammond, _Symposium on Application Accelerators in High-Performance Computing (SAAHPC)_ Knoxville, TN, USA, 19-21 July 2011.
 [Quantum chemical many-body theory on heterogeneous nodes](http://dx.doi.org/10.1109/SAAHPC.2011.28). ([Slides](http://saahpc.ncsa.illinois.edu/presentations/deprince.pdf))
 
-A. E. DePrince, III and J. R. Hammond
+A. E. DePrince III and J. R. Hammond
 _J. Chem. Theory Comput._ **7**, 1287 (2011)
 [Coupled Cluster Theory on Graphics Processing Units I. The Coupled Cluster Doubles Method](http://pubs.acs.org/doi/abs/10.1021/ct100584w).
 
 A. E. DePrince III and J. R. Hammond, _Symposium on Application Accelerators in High-Performance Computing (SAAHPC)_, Knoxville, TN, USA, 13-15 July 2011.
 [Evaluating one-sided programming models for GPU cluster computations](http://saahpc.ncsa.illinois.edu/10/papers/paper_43.pdf).
 
-#### Intel MIC
+#### Intel Xeon Phi (aka MIC)
 
 **NWChem-MIC:** 
 Edoardo Apra, Karol Kowalski, Jeff R. Hammond, and Michael Klemm.
@@ -345,8 +358,8 @@ Jeff Hammond, Priyanka Ghosh, David Ozog, Cyrus Karshenas, and Karol Kowalski.  
 [NWChem 101](https://github.com/jeffhammond/NWChem101) - incomplete version of what I hope will be a crash course in how to use NWChem like an expert.  Obviously, this is not a refereed publication.
 
 **NWChem:**
-[Coupled-cluster response theory: parallel algorithms and novel applications](
-http://dx.doi.org/10.6084/m9.figshare.967859) (my dissertation).
+[Coupled-cluster response theory: parallel algorithms and novel applications](http://dx.doi.org/10.6084/m9.figshare.967859)
+(my dissertation).
 
 **NWChem:**
 H. Hu, Y.-F. Zhao, J. Hammond, E. Bylaska, E. Apra, H.J.J. van Dam, J. Li, N. Govind, and K. Kowalski,
@@ -422,19 +435,19 @@ J. R. Hammond and D. A. Mazziotti, _Phys. Rev. A_ **71**, 062503 (2005).
 
 ### Active
 
-* Standards activities: Programming parallel computers should be vendor-agnostic.  MPI Forum, OpenMP, and OpenSHMEM are of primary interest right now.
+* Standards activities: Programming parallel computers should be vendor-agnostic.  [MPI Forum](http://www.mpi-forum.org/docs/docs.html), [OpenMP](http://openmp.org/), and [OpenSHMEM](http://openshmem.org/) are of primary interest right now.
 
 * [Parallel Research Kernels](https://github.com/ParRes/Kernels) - Rob van der Wijngaart and Tim Mattson developed a set of parallel kernels, which are currently being used for programming models research.
 
 * [NWChem](http://www.nwchem-sw.org/) - I developed the coupled-cluster response property capability, among other features, during graduate school.  Static partitioning (load-balancing), threading, vectorization and accelerator integrations for NWChem are currently under investigation.
 
-* [BigMPI](https://github.com/jeffhammond/BigMPI) - See link for details.
+* [BigMPI](https://github.com/jeffhammond/BigMPI) - MPI for large messages.  See link for details.
 
-* [ARMCI-MPI](http://wiki.mpich.org/armci-mpi/index.php/Main_Page) - Jim Dinan developed a portable, high-performance implementation of ARMCI using MPI-2 RMA.  I wrote the MPI-3 implementation and I maintain the project.
+* [ARMCI-MPI](http://wiki.mpich.org/armci-mpi/index.php/Main_Page) - Jim Dinan developed a portable, high-performance implementation of ARMCI using MPI-2 RMA.  I wrote the MPI-3 implementation and maintain the project.
 
-* [OSHMPI](https://github.com/jeffhammond/oshmpi) -  OpenSHMEM over MPI-3.
+* [OSHMPI](https://github.com/jeffhammond/oshmpi) -  OpenSHMEM over MPI-3.  See link for details.
 
-* [MADNESS](https://github.com/m-a-d-n-e-s-s/madness) - I've been working on porting the runtime to new platforms and evolving other low-level things for many years.
+* [MADNESS](https://github.com/m-a-d-n-e-s-s/madness) - I work on portability and new platform support in the low-level runtime.
  
 * [DALEC](https://github.com/jeffhammond/dalec) - A new distributed array library using MPI-3.  This is totally a work-in-progress and not even the slightest bit ready for third-party inspection right now.
 
