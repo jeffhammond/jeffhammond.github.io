@@ -104,6 +104,12 @@ _IEEE-TCSC Blog_, August 6th, 2012.
 
 ### Matrix and Tensor Computations
 
+**TTC:**
+P Springer, JR Hammond, P Bientinesi.
+arXiv:1603.02297 (2016).
+[TTC: A high-performance Compiler for Tensor Transpositions](http://arxiv.org/abs/1603.02297)
+([Source Code](https://github.com/HPAC/TTC))
+
 **CTF:**
 Edgar Solomonik, Devin Matthews, Jeff Hammond, John Stanton and James Demmel.
 _Journal of Parallel and Distributed Computing_ (2014).
@@ -173,6 +179,12 @@ Karthikeyan Vaidyanathan, Dhiraj D. Kalamkar, Kiran Pamnany, Jeff R. Hammond, Pa
 _The International Conference for High Performance Computing, Networking, Storage and Analytics (SC15)._
 Austin, TX, November 15-20, 2015.
 [Improving Concurrency and Asynchrony in Multithreaded MPI Applications Using Software Offloading](http://dx.doi.org/10.1145/2807591.2807602)
+
+**PRK:**
+R. F. Van der Wijngaart, A. Kayi, J. R. Hammond, G. Jost, T. St. John, S. Sridharan, T. G. Mattson, J. Abercrombie, and J. Nelson.
+To appear at _International Supercomputing Conference (ISC)._
+June 20-22, 2016. Frankfurt, Germany.
+[Comparing runtime systems with exascale ambitions using the Parallel Research Kernels](http://www.isc-hpc.com/research-papers.html)
 
 **PRK:**
 Rob Van der Wijngaart, Srinivas Sridharan, Abdullah Kayi, Gabriele Jost, Jeff Hammond, Tim Mattson, and Jacob Nelson.
