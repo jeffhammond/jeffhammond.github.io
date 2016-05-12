@@ -104,7 +104,7 @@ _IEEE-TCSC Blog_, August 6th, 2012.
 
 ### Matrix and Tensor Computations
 
-**Elemental**
+**Elemental:**
 Sayan Ghosh, Jeff Hammond, Antonio J. Peña, Pavan Balaji, Assefaw Gebremedhin and Barbara Chapman.
 _International Conference on Parallel Processing_ (ICPP).
 Philadelphia, PA, August 16-19, 2016.
