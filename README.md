@@ -104,8 +104,14 @@ _IEEE-TCSC Blog_, August 6th, 2012.
 
 ### Matrix and Tensor Computations
 
+**Elemental**
+Sayan Ghosh, Jeff Hammond, Antonio J. Peña, Pavan Balaji, Assefaw Gebremedhin and Barbara Chapman.
+_International Conference on Parallel Processing_ (ICPP).
+Philadelphia, PA, August 16-19, 2016.
+[One-Sided Interface for Matrix Operations using MPI-3 RMA: A Case Study with Elemental](http://icpp2016.cs.wcupa.edu/)
+
 **TTC:**
-P Springer, JR Hammond, P Bientinesi.
+P. Springer, J.R. Hammond, P. Bientinesi.
 arXiv:1603.02297 (2016).
 [TTC: A high-performance Compiler for Tensor Transpositions](http://arxiv.org/abs/1603.02297)
 ([Source Code](https://github.com/HPAC/TTC))
