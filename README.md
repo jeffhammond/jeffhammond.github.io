@@ -188,9 +188,9 @@ Austin, TX, November 15-20, 2015.
 
 **PRK:**
 R. F. Van der Wijngaart, A. Kayi, J. R. Hammond, G. Jost, T. St. John, S. Sridharan, T. G. Mattson, J. Abercrombie, and J. Nelson.
-To appear at _International Supercomputing Conference (ISC)._
+_ISC High Performance._
 June 20-22, 2016. Frankfurt, Germany.
-[Comparing runtime systems with exascale ambitions using the Parallel Research Kernels](http://www.isc-hpc.com/research-papers.html)
+[Comparing runtime systems with exascale ambitions using the Parallel Research Kernels](http://dx.doi.org/10.1007/978-3-319-41321-1_17)
 
 **PRK:**
 Rob Van der Wijngaart, Srinivas Sridharan, Abdullah Kayi, Gabriele Jost, Jeff Hammond, Tim Mattson, and Jacob Nelson.
