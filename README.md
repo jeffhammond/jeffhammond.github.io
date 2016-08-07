@@ -510,4 +510,4 @@ J. R. Hammond and D. A. Mazziotti, _Phys. Rev. A_ **71**, 062503 (2005).
 
 * [TAU](http://www.cs.uoregon.edu/research/tau)-[ARMCI](http://www.emsl.pnl.gov/docs/parsoft/armci/) - I contributed to the development of TAU profiling capability for the ARMCI communication library.  This was a joint project with [Sriram Krisnamoorthy](http://hpc.pnl.gov/people/sriram/) and the [Sameer Shende] (http://ix.cs.uoregon.edu/~sameer/) that is now complete.
 
-* CECC - Chemistry Exascale Codesign Center.  If this project had been funded, I would never have left DOE.
+* CECC - Chemistry Exascale Codesign Center.  If this project had been funded, I never would have left DOE.
