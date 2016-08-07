@@ -173,12 +173,23 @@ _ACM Trans. Math. Software_, 39 (2012).
 ([Preprint](http://elemental.googlecode.com/files/Elemental-rev2.pdf))
 ([Source Code](https://github.com/elemental/Elemental))
 
-### MPI, Global Arrays, ARMCI, OpenSHMEM and other PGAS
+### MPI, Global Arrays, ARMCI, OpenSHMEM, PGAS, OpenMP
+
+Yonghong Yan,  Jeff R. Hammond, Ali Alqazzaz,  Chunhua Liao.
+_International Workshop on OpenMP (IWOMP)_.
+Nara, Japan, Oct. 2016.
+[A Proposal to OpenMP for Addressing the CPU Oversubscription Challenge](http://iwomp2016.riken.jp/)
+
+**OpenCoarrays:**
+Alessandro Fanfarillo and Jeff R. Hammond.
+_EuroMPI_.
+Edinburgh, Scotland, Sept. 2016.
+[CAF Events Implementation Using MPI-3 Capabilities](http://www.eurompi2016.ed.ac.uk/wednesday/wednesday-paper-abstracts#fp15)
 
 **UPCFock:**
 D. Ozog, A. Kamil, Y. Zheng, P. Hargrove, J. R. Hammond, A. Malony, W. de Jong, and K. Yelick.
 _Proc. 30th Intl. Parallel and Distributed Processing Symp (IPDPS)._ 
-Chicago, Ilinois, May 2016.
+Chicago, IL, May 2016.
 [A Hartree-Fock Application using UPC++ and the New DArray Library](http://www.ipdps.org/)
 
 Karthikeyan Vaidyanathan, Dhiraj D. Kalamkar, Kiran Pamnany, Jeff R. Hammond, Pavan Balaji, Dipankar Das, Jongsoo Park, Balint Joo.
