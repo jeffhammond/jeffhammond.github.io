@@ -175,6 +175,10 @@ _ACM Trans. Math. Software_, 39 (2012).
 
 ### MPI, Global Arrays, ARMCI, OpenSHMEM, PGAS, OpenMP
 
+A. Amer., H. Lu, Y. Wei, J. Hammond, S. Matsuoka, and P. Balaji,
+_Trans. Parallel Computing_ (submitted).
+[Locking Aspects in Multithreaded MPI Implementations](http://www.mcs.anl.gov/papers/P6005-0516.pdf)
+
 Yonghong Yan,  Jeff R. Hammond, Ali Alqazzaz,  Chunhua Liao.
 _International Workshop on OpenMP (IWOMP)_.
 Nara, Japan, Oct. 2016.
