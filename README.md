@@ -8,8 +8,13 @@ My detailed CV is available as [PDF](https://github.com/jeffhammond/jeffhammond.
 
 ### Education and Research Positions
 
+**Intel**    
+Data Center Group (September 2016 - present).    
+Title: System Architect
+Supervisor: Dr. Mikhail (Misha) Smelyanskiy
+
 **Intel Labs**    
-Parallel Computing Laboratory (May 2014 - present).    
+Parallel Computing Laboratory (May 2014 - August 2016).    
 Title: Research Scientist    
 Supervisor: Drs. Tim Mattson and Pradeep Dubey    
 
@@ -109,6 +114,7 @@ Sayan Ghosh, Jeff Hammond, Antonio J. Peña, Pavan Balaji, Assefaw Gebremedhin a
 _International Conference on Parallel Processing_ (ICPP).
 Philadelphia, PA, August 16-19, 2016.
 [One-Sided Interface for Matrix Operations using MPI-3 RMA: A Case Study with Elemental](http://icpp2016.cs.wcupa.edu/)
+([Preprint](http://www.eecs.wsu.edu/~assefaw/publications/icpp2016-elemental.pdf))
 
 **TTC:**
 P. Springer, J.R. Hammond, P. Bientinesi.
@@ -323,18 +329,22 @@ _Annual Reports in Computational Chemistry_ *10*, pp. 3–24 (2014).
 **Harvey:**
 Amanda Peters Randles, Vivek Kale, Jeff Hammond, William D. Gropp and Efthimios Kaxiras.
 _Proc. 27th Intl. Parallel and Distributed Processing Symp (IPDPS)._ Boston, Massachusetts, May 2013.
-[Performance Analysis of the Lattice Boltzmann Model Beyond Navier-Stokes](http://dx.doi.org/10.1109/IPDPS.2013.109) ([Preprint](http://people.seas.harvard.edu/~apeters/papers/ipdps_lbm.pdf))
+[Performance Analysis of the Lattice Boltzmann Model Beyond Navier-Stokes](http://dx.doi.org/10.1109/IPDPS.2013.109)
+([Preprint](http://people.seas.harvard.edu/~apeters/papers/ipdps_lbm.pdf))
 
 ### Resilience
 
 **GVR:**
 A. Chien, P. Balaji, P. Beckman, N. Dun, A. Fang, H. Fujita, K. Iskra, Z. Rubenstein, Z. Zheng, R. Schreiber, J. Hammond, J. Dinan, I. Laguna, D. Richards, A. Dubey, B. van Straalen, M. Hoemmen, M. Heroux, K. Teranishi, A. R. Siegel.
 _Submitted.  2015._
-[Versioned Distributed Arrays for Resilience in Scientific Applications: Global View Resilience]() ([Preprint](http://www.mcs.anl.gov/papers/P5271-0115.pdf))
+[Versioned Distributed Arrays for Resilience in Scientific Applications: Global View Resilience]()
+([Preprint](http://www.mcs.anl.gov/papers/P5271-0115.pdf))
 
 Sean Hogan, Jeff R. Hammond and Andrew A. Chien.
 _Fault-Tolerance at Extreme Scale (FTXS)._ Boston, MA.  June, 2012. 
-[An Evaluation of Difference and Threshold Techniques for Efficient Checkpoints](http://dx.doi.org/10.1109/DSNW.2012.6264674). ([Preprint](http://www.cs.uchicago.edu/research/publications/techreports/TR-2012-07)) ([Slides](http://institute.lanl.gov/resilience/workshops/ftxs2012/FTXS2012_Sean_Hogan.pdf))
+[An Evaluation of Difference and Threshold Techniques for Efficient Checkpoints](http://dx.doi.org/10.1109/DSNW.2012.6264674).
+([Preprint](http://www.cs.uchicago.edu/research/publications/techreports/TR-2012-07))
+([Slides](http://institute.lanl.gov/resilience/workshops/ftxs2012/FTXS2012_Sean_Hogan.pdf))
 
 ### Statistical sampling and molecular dynamics
 
@@ -343,7 +353,8 @@ Rolf Isele-Holder, Wayne Mitchell, Jeff Hammond, Axel Kohlmeyer and Ahmed Ismail
 [Reconsidering Dispersion Potentials: Reduced Cutoffs in Mesh-Based Ewald Solvers Can Be Faster Than Truncation](http://pubs.acs.org/doi/abs/10.1021/ct4004614)
 
 **LAMMPS-Ensembles:**
-Luke Westby, Mladen Rasic, Adrian Lange and Jeff R. Hammond.  See [LAMMPS-Ensembles](https://github.com/jeffhammond/HPCInfo/wiki/LAMMPS#Ensembles) on my Wiki for more information.
+Luke Westby, Mladen Rasic, Adrian Lange and Jeff R. Hammond.
+See [LAMMPS-Ensembles](https://github.com/jeffhammond/HPCInfo/wiki/LAMMPS#Ensembles) on my Wiki for more information.
 
 **NEUS:**
 A. Dickson, M. Maienshein-Cline, A. Tovo-Dwyer, J. R. Hammond and A. R. Dinner, _J. Chem. Theory Comput._ **7**, 2710 (2011).
@@ -353,7 +364,8 @@ A. Dickson, M. Maienshein-Cline, A. Tovo-Dwyer, J. R. Hammond and A. R. Dinner, 
 
 #### GPUs
 
-_Eugene has incorporated all of the GPU coupled-cluster codes into [PSI4](http://www.psicode.org/).  See [Github](https://github.com/edeprince3/gpu_dfcc) for details._
+_Eugene has incorporated all of the GPU coupled-cluster codes into [PSI4](http://www.psicode.org/).  
+See [Github](https://github.com/edeprince3/gpu_dfcc) for details._
 
 A. E. DePrince III, J. R. Hammond, and C. D. Sherrill,
 _Iterative Coupled-Cluster Methods on Graphics Processing Units_ in
@@ -381,10 +393,8 @@ Edoardo Apra, Karol Kowalski, Jeff R. Hammond, and Michael Klemm.
 _NWChem: Quantum Chemistry Simulations at Scale_ in
 [High Performance Parallelism Pearls](http://store.elsevier.com/High-Performance-Parallelism-Pearls/James-Reinders/isbn-9780128021187/), edited by James Reinders and James Jeffers (Morgan Kaufmann, 3 Nov. 2014).
 ([Safari Books Online](https://www.safaribooksonline.com/library/view/high-performance-parallelism/9780128021187/B9780128021187000170.xhtml)) 
-([Google Books Online](https://books.google.com/books?id=R-99BAAAQBAJ&lpg=PA287&ots=VMAjQdy8xU&dq=%22NWChem%3A%20Quantum%20Chemistry%20Simulations%20at%20Scale%22&pg=PA287#v=onepage&q=%22NWChem:%20Quantum%20Chemistry%20Simulations%20at%20Scale%22&f=false)) ([Summary at TechEnablement](http://www.techenablement.com/nwchem-quantum-chemistry-simulations-scale/))
-
-**NWChem-MIC:**
-Jeff Hammond, Priyanka Ghosh, David Ozog, Cyrus Karshenas, and Karol Kowalski.  _work in progress_ (I gave a talk on the preliminary results at SIAM CSE13.)
+([Google Books Online](https://books.google.com/books?id=R-99BAAAQBAJ&lpg=PA287&ots=VMAjQdy8xU&dq=%22NWChem%3A%20Quantum%20Chemistry%20Simulations%20at%20Scale%22&pg=PA287#v=onepage&q=%22NWChem:%20Quantum%20Chemistry%20Simulations%20at%20Scale%22&f=false))
+([Summary at TechEnablement](http://www.techenablement.com/nwchem-quantum-chemistry-simulations-scale/))
 
 ### Coupled-cluster response theory and NWChem
 
@@ -474,9 +484,9 @@ J. R. Hammond and D. A. Mazziotti, _Phys. Rev. A_ **71**, 062503 (2005).
 
 * [NWChem](http://www.nwchem-sw.org/) - I developed the coupled-cluster response property capability, among other features, during graduate school.  Static partitioning (load-balancing), threading, vectorization and accelerator integrations for NWChem are currently under investigation.
 
-* [BigMPI](https://github.com/jeffhammond/BigMPI) - MPI for large messages.  See link for details.
-
 * [ARMCI-MPI](http://wiki.mpich.org/armci-mpi/index.php/Main_Page) - Jim Dinan developed a portable, high-performance implementation of ARMCI using MPI-2 RMA.  I wrote the MPI-3 implementation and maintain the project.
+
+* [BigMPI](https://github.com/jeffhammond/BigMPI) - MPI for large messages.  See link for details.
 
 * [OSHMPI](https://github.com/jeffhammond/oshmpi) -  OpenSHMEM over MPI-3.  See link for details.
 
