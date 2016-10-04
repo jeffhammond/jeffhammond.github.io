@@ -182,7 +182,7 @@ _Trans. Parallel Computing_ (submitted).
 Yonghong Yan,  Jeff R. Hammond, Ali Alqazzaz,  Chunhua Liao.
 _International Workshop on OpenMP (IWOMP)_.
 Nara, Japan, Oct. 2016.
-[A Proposal to OpenMP for Addressing the CPU Oversubscription Challenge](http://iwomp2016.riken.jp/)
+[A Proposal to OpenMP for Addressing the CPU Oversubscription Challenge](http://dx.doi.org/10.1007/978-3-319-45550-1_14)
 
 **OpenCoarrays:**
 Alessandro Fanfarillo and Jeff R. Hammond.
