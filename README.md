@@ -195,12 +195,13 @@ Alessandro Fanfarillo and Jeff R. Hammond.
 _EuroMPI_.
 Edinburgh, Scotland, Sept. 2016.
 [CAF Events Implementation Using MPI-3 Capabilities](http://www.eurompi2016.ed.ac.uk/wednesday/wednesday-paper-abstracts#fp15)
+([Reprint](https://www.researchgate.net/profile/Alessandro_Fanfarillo/publication/308890244_CAF_Events_Implementation_Using_MPI-3_Capabilities/links/57f5130b08ae280dd0b8d4f5.pdf))
 
 **UPCFock:**
 D. Ozog, A. Kamil, Y. Zheng, P. Hargrove, J. R. Hammond, A. Malony, W. de Jong, and K. Yelick.
 _Proc. 30th Intl. Parallel and Distributed Processing Symp (IPDPS)._ 
 Chicago, IL, May 2016.
-[A Hartree-Fock Application using UPC++ and the New DArray Library](http://www.ipdps.org/)
+[A Hartree-Fock Application using UPC++ and the New DArray Library](http://dx.doi.org/10.1109/IPDPS.2016.108)
 
 Karthikeyan Vaidyanathan, Dhiraj D. Kalamkar, Kiran Pamnany, Jeff R. Hammond, Pavan Balaji, Dipankar Das, Jongsoo Park, Balint Joo.
 _The International Conference for High Performance Computing, Networking, Storage and Analytics (SC15)._
