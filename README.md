@@ -320,7 +320,9 @@ _J. Chem. Phys._ *142*, 104103 (2015).
 
 **MADNESS:**
 Robert J. Harrison, Gregory Beylkin, Florian A. Bischoff, Justus A. Calvin, George I. Fann, Jacob Fosso-Tande, Diego Galindo, Jeff R. Hammond, Rebecca Hartman-Baker, Judith C. Hill, Jun Jia, Jakob S. Kottmann, M-J. Yvonne Ou, Laura E. Ratcliff, Matthew G. Reuter, Adam C. Richie-Halford, Nichols A. Romero, Hideo Sekino, William A. Shelton, Bryan E. Sundahl, W. Scott Thornton, Edward F. Valeev, Álvaro Vázquez-Mayagoitia, Nicholas Vence, Yukina Yokoi.
-[MADNESS: A Multiresolution, Adaptive Numerical Environment for Scientific Simulation](http://arxiv.org/abs/1507.01888)
+[MADNESS: A Multiresolution, Adaptive Numerical Environment for Scientific Simulation](http://dx.doi.org/10.1137/15M1026171)
+([Preprint](http://arxiv.org/abs/1507.01888))
+([Source](https://github.com/m-a-d-n-e-s-s/madness))
 
 **MADNESS:**
 Álvaro Vázquez–Mayagoitia, W. Scott Thornton, Jeff R. Hammond, Robert J. Harrison.
