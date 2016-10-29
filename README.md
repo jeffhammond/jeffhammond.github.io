@@ -10,7 +10,7 @@ My detailed CV is available as [PDF](https://github.com/jeffhammond/jeffhammond.
 
 **Intel**    
 Data Center Group (September 2016 - present).    
-Title: System Architect
+Title: System Architect    
 Supervisor: Dr. Mikhail (Misha) Smelyanskiy
 
 **Intel Labs**    
