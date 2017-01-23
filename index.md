@@ -50,7 +50,6 @@ Supervisor: Professor Weston T. Borden
 ### Online Profiles
 
 * [LinkedIn](https://www.linkedin.com/in/jeffhammond)
-* [Twitter](https://twitter.com/JeffDotScience)
 * [Frontiers in Theoretical and Computational Chemistry](http://community.frontiersin.org/people/JeffHammond/110723)
 * [DOE-CSGF](http://www.krellinst.org/doecsgf/alumni/info/fship.cgi?-w+hammond2005)
 * [Chemistry Tree](http://academictree.org/chemistry/tree.php?pid=67742)
