@@ -8,8 +8,13 @@ My detailed CV is available as [PDF](https://github.com/jeffhammond/jeffhammond.
 
 ### Education and Research Positions
 
+**Intel**    
+Data Center Group (September 2016 - present).    
+Title: System Architect    
+Supervisor: Dr. Mikhail (Misha) Smelyanskiy
+
 **Intel Labs**    
-Parallel Computing Laboratory (May 2014 - present).    
+Parallel Computing Laboratory (May 2014 - August 2016).    
 Title: Research Scientist    
 Supervisor: Drs. Tim Mattson and Pradeep Dubey    
 
@@ -45,7 +50,6 @@ Supervisor: Professor Weston T. Borden
 ### Online Profiles
 
 * [LinkedIn](https://www.linkedin.com/in/jeffhammond)
-* [Twitter](https://twitter.com/JeffDotScience)
 * [Frontiers in Theoretical and Computational Chemistry](http://community.frontiersin.org/people/JeffHammond/110723)
 * [DOE-CSGF](http://www.krellinst.org/doecsgf/alumni/info/fship.cgi?-w+hammond2005)
 * [Chemistry Tree](http://academictree.org/chemistry/tree.php?pid=67742)
@@ -74,7 +78,7 @@ Supervisor: Professor Weston T. Borden
 
 ### Random Facts
 
-* Google Scholar says I have an h-index of 18 (this is not necessarily exact value measured using only official publications but is closely correlated with the exact value).
+* Google Scholar says I have an h-index of 20 (this is not necessarily exact value measured using only official publications but is closely correlated with the exact value).
 * My Erdős number is 4 (via Jim Demmel).
 * My [Erdős-Bacon number](http://en.wikipedia.org/wiki/Erd%C5%91s%E2%80%93Bacon_number) is infinity because I have not acted in any movies.
 
@@ -109,6 +113,7 @@ Sayan Ghosh, Jeff Hammond, Antonio J. Peña, Pavan Balaji, Assefaw Gebremedhin a
 _International Conference on Parallel Processing_ (ICPP).
 Philadelphia, PA, August 16-19, 2016.
 [One-Sided Interface for Matrix Operations using MPI-3 RMA: A Case Study with Elemental](http://icpp2016.cs.wcupa.edu/)
+([Preprint](http://www.eecs.wsu.edu/~assefaw/publications/icpp2016-elemental.pdf))
 
 **TTC:**
 P. Springer, J.R. Hammond, P. Bientinesi.
@@ -173,13 +178,29 @@ _ACM Trans. Math. Software_, 39 (2012).
 ([Preprint](http://elemental.googlecode.com/files/Elemental-rev2.pdf))
 ([Source Code](https://github.com/elemental/Elemental))
 
-### MPI, Global Arrays, ARMCI, OpenSHMEM and other PGAS
+### MPI, Global Arrays, ARMCI, OpenSHMEM, PGAS, OpenMP
+
+A. Amer., H. Lu, Y. Wei, J. Hammond, S. Matsuoka, and P. Balaji,
+_Trans. Parallel Computing_ (submitted).
+[Locking Aspects in Multithreaded MPI Implementations](http://www.mcs.anl.gov/papers/P6005-0516.pdf)
+
+Yonghong Yan,  Jeff R. Hammond, Ali Alqazzaz,  Chunhua Liao.
+_International Workshop on OpenMP (IWOMP)_.
+Nara, Japan, Oct. 2016.
+[A Proposal to OpenMP for Addressing the CPU Oversubscription Challenge](http://dx.doi.org/10.1007/978-3-319-45550-1_14)
+
+**OpenCoarrays:**
+Alessandro Fanfarillo and Jeff R. Hammond.
+_EuroMPI_.
+Edinburgh, Scotland, Sept. 2016.
+[CAF Events Implementation Using MPI-3 Capabilities](http://www.eurompi2016.ed.ac.uk/wednesday/wednesday-paper-abstracts#fp15)
+([Reprint](https://www.researchgate.net/profile/Alessandro_Fanfarillo/publication/308890244_CAF_Events_Implementation_Using_MPI-3_Capabilities/links/57f5130b08ae280dd0b8d4f5.pdf))
 
 **UPCFock:**
 D. Ozog, A. Kamil, Y. Zheng, P. Hargrove, J. R. Hammond, A. Malony, W. de Jong, and K. Yelick.
 _Proc. 30th Intl. Parallel and Distributed Processing Symp (IPDPS)._ 
-Chicago, Ilinois, May 2016.
-[A Hartree-Fock Application using UPC++ and the New DArray Library](http://www.ipdps.org/)
+Chicago, IL, May 2016.
+[A Hartree-Fock Application using UPC++ and the New DArray Library](http://dx.doi.org/10.1109/IPDPS.2016.108)
 
 Karthikeyan Vaidyanathan, Dhiraj D. Kalamkar, Kiran Pamnany, Jeff R. Hammond, Pavan Balaji, Dipankar Das, Jongsoo Park, Balint Joo.
 _The International Conference for High Performance Computing, Networking, Storage and Analytics (SC15)._
@@ -188,9 +209,9 @@ Austin, TX, November 15-20, 2015.
 
 **PRK:**
 R. F. Van der Wijngaart, A. Kayi, J. R. Hammond, G. Jost, T. St. John, S. Sridharan, T. G. Mattson, J. Abercrombie, and J. Nelson.
-To appear at _International Supercomputing Conference (ISC)._
+_ISC High Performance._
 June 20-22, 2016. Frankfurt, Germany.
-[Comparing runtime systems with exascale ambitions using the Parallel Research Kernels](http://www.isc-hpc.com/research-papers.html)
+[Comparing runtime systems with exascale ambitions using the Parallel Research Kernels](http://dx.doi.org/10.1007/978-3-319-41321-1_17)
 
 **PRK:**
 Rob Van der Wijngaart, Srinivas Sridharan, Abdullah Kayi, Gabriele Jost, Jeff Hammond, Tim Mattson, and Jacob Nelson.
@@ -298,7 +319,9 @@ _J. Chem. Phys._ *142*, 104103 (2015).
 
 **MADNESS:**
 Robert J. Harrison, Gregory Beylkin, Florian A. Bischoff, Justus A. Calvin, George I. Fann, Jacob Fosso-Tande, Diego Galindo, Jeff R. Hammond, Rebecca Hartman-Baker, Judith C. Hill, Jun Jia, Jakob S. Kottmann, M-J. Yvonne Ou, Laura E. Ratcliff, Matthew G. Reuter, Adam C. Richie-Halford, Nichols A. Romero, Hideo Sekino, William A. Shelton, Bryan E. Sundahl, W. Scott Thornton, Edward F. Valeev, Álvaro Vázquez-Mayagoitia, Nicholas Vence, Yukina Yokoi.
-[MADNESS: A Multiresolution, Adaptive Numerical Environment for Scientific Simulation](http://arxiv.org/abs/1507.01888)
+[MADNESS: A Multiresolution, Adaptive Numerical Environment for Scientific Simulation](http://dx.doi.org/10.1137/15M1026171)
+([Preprint](http://arxiv.org/abs/1507.01888))
+([Source](https://github.com/m-a-d-n-e-s-s/madness))
 
 **MADNESS:**
 Álvaro Vázquez–Mayagoitia, W. Scott Thornton, Jeff R. Hammond, Robert J. Harrison.
@@ -308,18 +331,22 @@ _Annual Reports in Computational Chemistry_ *10*, pp. 3–24 (2014).
 **Harvey:**
 Amanda Peters Randles, Vivek Kale, Jeff Hammond, William D. Gropp and Efthimios Kaxiras.
 _Proc. 27th Intl. Parallel and Distributed Processing Symp (IPDPS)._ Boston, Massachusetts, May 2013.
-[Performance Analysis of the Lattice Boltzmann Model Beyond Navier-Stokes](http://dx.doi.org/10.1109/IPDPS.2013.109) ([Preprint](http://people.seas.harvard.edu/~apeters/papers/ipdps_lbm.pdf))
+[Performance Analysis of the Lattice Boltzmann Model Beyond Navier-Stokes](http://dx.doi.org/10.1109/IPDPS.2013.109)
+([Preprint](http://people.seas.harvard.edu/~apeters/papers/ipdps_lbm.pdf))
 
 ### Resilience
 
 **GVR:**
 A. Chien, P. Balaji, P. Beckman, N. Dun, A. Fang, H. Fujita, K. Iskra, Z. Rubenstein, Z. Zheng, R. Schreiber, J. Hammond, J. Dinan, I. Laguna, D. Richards, A. Dubey, B. van Straalen, M. Hoemmen, M. Heroux, K. Teranishi, A. R. Siegel.
 _Submitted.  2015._
-[Versioned Distributed Arrays for Resilience in Scientific Applications: Global View Resilience]() ([Preprint](http://www.mcs.anl.gov/papers/P5271-0115.pdf))
+[Versioned Distributed Arrays for Resilience in Scientific Applications: Global View Resilience]()
+([Preprint](http://www.mcs.anl.gov/papers/P5271-0115.pdf))
 
 Sean Hogan, Jeff R. Hammond and Andrew A. Chien.
 _Fault-Tolerance at Extreme Scale (FTXS)._ Boston, MA.  June, 2012. 
-[An Evaluation of Difference and Threshold Techniques for Efficient Checkpoints](http://dx.doi.org/10.1109/DSNW.2012.6264674). ([Preprint](http://www.cs.uchicago.edu/research/publications/techreports/TR-2012-07)) ([Slides](http://institute.lanl.gov/resilience/workshops/ftxs2012/FTXS2012_Sean_Hogan.pdf))
+[An Evaluation of Difference and Threshold Techniques for Efficient Checkpoints](http://dx.doi.org/10.1109/DSNW.2012.6264674).
+([Preprint](http://www.cs.uchicago.edu/research/publications/techreports/TR-2012-07))
+([Slides](http://institute.lanl.gov/resilience/workshops/ftxs2012/FTXS2012_Sean_Hogan.pdf))
 
 ### Statistical sampling and molecular dynamics
 
@@ -328,7 +355,8 @@ Rolf Isele-Holder, Wayne Mitchell, Jeff Hammond, Axel Kohlmeyer and Ahmed Ismail
 [Reconsidering Dispersion Potentials: Reduced Cutoffs in Mesh-Based Ewald Solvers Can Be Faster Than Truncation](http://pubs.acs.org/doi/abs/10.1021/ct4004614)
 
 **LAMMPS-Ensembles:**
-Luke Westby, Mladen Rasic, Adrian Lange and Jeff R. Hammond.  See [LAMMPS-Ensembles](https://github.com/jeffhammond/HPCInfo/wiki/LAMMPS#Ensembles) on my Wiki for more information.
+Luke Westby, Mladen Rasic, Adrian Lange and Jeff R. Hammond.
+See [LAMMPS-Ensembles](https://github.com/jeffhammond/HPCInfo/wiki/LAMMPS#Ensembles) on my Wiki for more information.
 
 **NEUS:**
 A. Dickson, M. Maienshein-Cline, A. Tovo-Dwyer, J. R. Hammond and A. R. Dinner, _J. Chem. Theory Comput._ **7**, 2710 (2011).
@@ -338,7 +366,8 @@ A. Dickson, M. Maienshein-Cline, A. Tovo-Dwyer, J. R. Hammond and A. R. Dinner, 
 
 #### GPUs
 
-_Eugene has incorporated all of the GPU coupled-cluster codes into [PSI4](http://www.psicode.org/).  See [Github](https://github.com/edeprince3/gpu_dfcc) for details._
+_Eugene has incorporated all of the GPU coupled-cluster codes into [PSI4](http://www.psicode.org/).  
+See [Github](https://github.com/edeprince3/gpu_dfcc) for details._
 
 A. E. DePrince III, J. R. Hammond, and C. D. Sherrill,
 _Iterative Coupled-Cluster Methods on Graphics Processing Units_ in
@@ -366,10 +395,8 @@ Edoardo Apra, Karol Kowalski, Jeff R. Hammond, and Michael Klemm.
 _NWChem: Quantum Chemistry Simulations at Scale_ in
 [High Performance Parallelism Pearls](http://store.elsevier.com/High-Performance-Parallelism-Pearls/James-Reinders/isbn-9780128021187/), edited by James Reinders and James Jeffers (Morgan Kaufmann, 3 Nov. 2014).
 ([Safari Books Online](https://www.safaribooksonline.com/library/view/high-performance-parallelism/9780128021187/B9780128021187000170.xhtml)) 
-([Google Books Online](https://books.google.com/books?id=R-99BAAAQBAJ&lpg=PA287&ots=VMAjQdy8xU&dq=%22NWChem%3A%20Quantum%20Chemistry%20Simulations%20at%20Scale%22&pg=PA287#v=onepage&q=%22NWChem:%20Quantum%20Chemistry%20Simulations%20at%20Scale%22&f=false)) ([Summary at TechEnablement](http://www.techenablement.com/nwchem-quantum-chemistry-simulations-scale/))
-
-**NWChem-MIC:**
-Jeff Hammond, Priyanka Ghosh, David Ozog, Cyrus Karshenas, and Karol Kowalski.  _work in progress_ (I gave a talk on the preliminary results at SIAM CSE13.)
+([Google Books Online](https://books.google.com/books?id=R-99BAAAQBAJ&lpg=PA287&ots=VMAjQdy8xU&dq=%22NWChem%3A%20Quantum%20Chemistry%20Simulations%20at%20Scale%22&pg=PA287#v=onepage&q=%22NWChem:%20Quantum%20Chemistry%20Simulations%20at%20Scale%22&f=false))
+([Summary at TechEnablement](http://www.techenablement.com/nwchem-quantum-chemistry-simulations-scale/))
 
 ### Coupled-cluster response theory and NWChem
 
@@ -459,9 +486,9 @@ J. R. Hammond and D. A. Mazziotti, _Phys. Rev. A_ **71**, 062503 (2005).
 
 * [NWChem](http://www.nwchem-sw.org/) - I developed the coupled-cluster response property capability, among other features, during graduate school.  Static partitioning (load-balancing), threading, vectorization and accelerator integrations for NWChem are currently under investigation.
 
-* [BigMPI](https://github.com/jeffhammond/BigMPI) - MPI for large messages.  See link for details.
-
 * [ARMCI-MPI](http://wiki.mpich.org/armci-mpi/index.php/Main_Page) - Jim Dinan developed a portable, high-performance implementation of ARMCI using MPI-2 RMA.  I wrote the MPI-3 implementation and maintain the project.
+
+* [BigMPI](https://github.com/jeffhammond/BigMPI) - MPI for large messages.  See link for details.
 
 * [OSHMPI](https://github.com/jeffhammond/oshmpi) -  OpenSHMEM over MPI-3.  See link for details.
 
@@ -499,4 +526,4 @@ J. R. Hammond and D. A. Mazziotti, _Phys. Rev. A_ **71**, 062503 (2005).
 
 * [TAU](http://www.cs.uoregon.edu/research/tau)-[ARMCI](http://www.emsl.pnl.gov/docs/parsoft/armci/) - I contributed to the development of TAU profiling capability for the ARMCI communication library.  This was a joint project with [Sriram Krisnamoorthy](http://hpc.pnl.gov/people/sriram/) and the [Sameer Shende] (http://ix.cs.uoregon.edu/~sameer/) that is now complete.
 
-* CECC - Chemistry Exascale Codesign Center.  If this project had been funded, I would never have left DOE.
+* CECC - Chemistry Exascale Codesign Center.  If this project had been funded, I never would have left DOE.
