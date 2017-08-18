@@ -2,7 +2,7 @@ title: jeffhammond.github.io
 description: Home Page
 google_analytics: 
 show_downloads: true
-theme: jekyll-theme-dinky
+theme: jekyll-theme-minimal
 
 gems:
   - jekyll-mentions
