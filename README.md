@@ -11,7 +11,6 @@ My detailed CV is available as [PDF](https://github.com/jeffhammond/jeffhammond.
 **Intel**    
 Data Center Group (September 2016 - present).    
 Title: System Architect    
-Supervisor: Dr. Mikhail (Misha) Smelyanskiy
 
 **Intel Labs**    
 Parallel Computing Laboratory (May 2014 - August 2016).    
@@ -70,7 +69,7 @@ Supervisor: Professor Weston T. Borden
 ### Software
 
 * [Github](https://github.com/jeffhammond) (very useful)
-* [Bitbucket](https://bitbucket.org/jeffscience) (useful)
+* [Bitbucket](https://bitbucket.org/jeffscience) (not very useful)
 * [Ohloh](https://www.ohloh.net/accounts/jeff_science) (very useful)
 * [Gitlab](https://gitlab.com/u/jeffhammond) (not useful)
 * [Sourceforge](https://sourceforge.net/users/jeffhammond) (not useful)
@@ -78,7 +77,7 @@ Supervisor: Professor Weston T. Borden
 
 ### Random Facts
 
-* Google Scholar says I have an h-index of 20 (this is not necessarily exact value measured using only official publications but is closely correlated with the exact value).
+* Google Scholar says I have an h-index of 23 (this is not necessarily exact value measured using only official publications but is closely correlated with the exact value).
 * My Erdős number is 4 (via Jim Demmel).
 * My [Erdős-Bacon number](http://en.wikipedia.org/wiki/Erd%C5%91s%E2%80%93Bacon_number) is infinity because I have not acted in any movies.
 
@@ -487,7 +486,7 @@ J. R. Hammond and D. A. Mazziotti, _Phys. Rev. A_ **71**, 062503 (2005).
 
 ### Active
 
-* Standards activities: Programming parallel computers should be vendor-agnostic.  [MPI Forum](http://www.mpi-forum.org/docs/docs.html), [OpenMP](http://openmp.org/), and [OpenSHMEM](http://openshmem.org/) are of primary interest right now.
+* Standards activities: Programming parallel computers should be vendor-agnostic.  [MPI Forum](http://www.mpi-forum.org/docs/docs.html), [OpenMP](http://openmp.org/), ISO C and C++ parallelism, and [OpenSHMEM](http://openshmem.org/) are of primary interest right now.
 
 * [Parallel Research Kernels](https://github.com/ParRes/Kernels) - Rob van der Wijngaart and Tim Mattson developed a set of parallel kernels, which are currently being used for programming models research.
 
@@ -495,15 +494,13 @@ J. R. Hammond and D. A. Mazziotti, _Phys. Rev. A_ **71**, 062503 (2005).
 
 * [ARMCI-MPI](http://wiki.mpich.org/armci-mpi/index.php/Main_Page) - Jim Dinan developed a portable, high-performance implementation of ARMCI using MPI-2 RMA.  I wrote the MPI-3 implementation and maintain the project.
 
-* [BigMPI](https://github.com/jeffhammond/BigMPI) - MPI for large messages.  See link for details.
+* [BigMPI](https://github.com/jeffhammond/BigMPI) - MPI for large messages, extended precision, etc.  See link for details.
+
+### Archives
 
 * [OSHMPI](https://github.com/jeffhammond/oshmpi) -  OpenSHMEM over MPI-3.  See link for details.
 
 * [MADNESS](https://github.com/m-a-d-n-e-s-s/madness) - I work on portability and new platform support in the low-level runtime.
- 
-* [DALEC](https://github.com/jeffhammond/dalec) - A new distributed array library using MPI-3.  This is totally a work-in-progress and not even the slightest bit ready for third-party inspection right now.
-
-### Archives
 
 * [NSF SI2-SSI: A Linear Algebra Software Infrastructure for Sustained Innovation in Computational Chemistry and other Sciences](http://www.nsf.gov/awardsearch/showAward?AWD_ID=1148485&HistoricalAwards=false) (as part of the [FLAME team](http://www.cs.utexas.edu/~flame/web/team.html)).
 
