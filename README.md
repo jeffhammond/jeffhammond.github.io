@@ -117,8 +117,10 @@ Philadelphia, PA, August 16-19, 2016.
 
 **TTC:**
 P. Springer, J.R. Hammond, P. Bientinesi.
-arXiv:1603.02297 (2016).
-[TTC: A high-performance Compiler for Tensor Transpositions](http://arxiv.org/abs/1603.02297)
+_ACM Transactions on Mathematical Software (TOMS)_
+44, 2 (2017).
+[TTC: A high-performance Compiler for Tensor Transpositions](https://doi.org/10.1145/3104988)
+([Preprint (arXiv:1603.02297 (2016))](http://arxiv.org/abs/1603.02297))
 ([Source Code](https://github.com/HPAC/TTC))
 
 **CTF:**
@@ -405,6 +407,11 @@ _NWChem: Quantum Chemistry Simulations at Scale_ in
 **NWChem:**
 [Coupled-cluster response theory: parallel algorithms and novel applications](http://dx.doi.org/10.6084/m9.figshare.967859)
 (my dissertation).
+
+**NWChem:**
+B. Peng, N. Govind, E. Apra, M. Klemm, J.R. Hammond, K. Kowalski,
+_J. Phys. Chem. A_ 121 (6), 1328-1335 (2017).
+[Coupled Cluster Studies of Ionization Potentials and Electron Affinities of Single-Walled Carbon Nanotubes](http://dx.doi.org/10.1021/acs.jpca.6b10874)
 
 **NWChem:**
 H. Hu, Y.-F. Zhao, J. Hammond, E. Bylaska, E. Apra, H.J.J. van Dam, J. Li, N. Govind, and K. Kowalski,
