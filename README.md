@@ -111,7 +111,7 @@ _IEEE-TCSC Blog_, August 6th, 2012.
 Sayan Ghosh, Jeff Hammond, Antonio J. Peña, Pavan Balaji, Assefaw Gebremedhin and Barbara Chapman.
 _International Conference on Parallel Processing_ (ICPP).
 Philadelphia, PA, August 16-19, 2016.
-[One-Sided Interface for Matrix Operations using MPI-3 RMA: A Case Study with Elemental](http://icpp2016.cs.wcupa.edu/)
+[One-Sided Interface for Matrix Operations using MPI-3 RMA: A Case Study with Elemental](https://doi.org/10.1109/ICPP.2016.28)
 ([Preprint](http://www.eecs.wsu.edu/~assefaw/publications/icpp2016-elemental.pdf))
 
 **TTC:**
