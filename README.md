@@ -48,14 +48,10 @@ Supervisor: Professor Weston T. Borden
 
 ### Online Profiles
 
-* [LinkedIn](https://www.linkedin.com/in/jeffhammond)
-* [Frontiers in Theoretical and Computational Chemistry](http://community.frontiersin.org/people/JeffHammond/110723)
-* [DOE-CSGF](http://www.krellinst.org/doecsgf/alumni/info/fship.cgi?-w+hammond2005)
-* [Chemistry Tree](http://academictree.org/chemistry/tree.php?pid=67742)
-* [Wordpress Blog](http://aragingnerd.wordpress.com/) (empty right now)
-* [StackExchange](http://scicomp.stackexchange.com/users/150/jeff)
 * [StackOverflow](http://stackoverflow.com/users/2189128/jeff)
-* [Academia.edu](https://independent.academia.edu/JeffHammond)
+* [LinkedIn](https://www.linkedin.com/in/jeffhammond)
+* [DOE-CSGF](https://www.krellinst.org/csgf/alumni/profile?n=hammond2005)
+* [Chemistry Tree](http://academictree.org/chemistry/tree.php?pid=67742)
 
 ### Publications 
 * [Google Scholar](http://scholar.google.com/citations?user=UtykSKIAAAAJ) (papers and citations listed here)
@@ -69,8 +65,8 @@ Supervisor: Professor Weston T. Borden
 ### Software
 
 * [Github](https://github.com/jeffhammond) (very useful)
+* [Ohloh](https://www.ohloh.net/accounts/jeff_science) (useful)
 * [Bitbucket](https://bitbucket.org/jeffscience) (not very useful)
-* [Ohloh](https://www.ohloh.net/accounts/jeff_science) (very useful)
 * [Gitlab](https://gitlab.com/u/jeffhammond) (not useful)
 * [Sourceforge](https://sourceforge.net/users/jeffhammond) (not useful)
 * [OpenMP](http://openmp.org/twiki/bin/view/Main/JeffHammond) (not useful)
@@ -86,24 +82,6 @@ Supervisor: Professor Weston T. Borden
 Specific software packages that these papers have involved are denoted by **Software Name** in front of the citation.
 
 Note that my contribution to these packages varies from "nearly everything" to "supervised student developer" to "literally nothing".  In most cases, the relevant version control system will give you all the details, if you're interested.
-
-### Reviews and High-level Presentations
-
-Venkatram Vishwanath, Thomas Uram, Lisa Childers, Hal Finkel, Jeff Hammond,  Kalyan Kumaran, Paul Messina and Michael E. Papka.
-_DOE ASCR Workshop on Software Productivity for eXtreme-Scale Science (SWP4XS)_, Rockville, Maryland, January 13-14, 2014.
-[Toward improved scientific software productivity on leadership facilities: An Argonne Leadership Computing Facility View](http://www.orau.gov/swproductivity2014/papers/vishwanath_v.pdf)
-
-Jeff R. Hammond.
-_ACM XRDS_ 19 (3), Spring 2013.
-[Challenges and methods in large-scale computational chemistry applications](http://doi.acm.org/10.1145/2425676.2425687) (invited and proof-read but not refereed in the traditional sense)
-
-Bill Allcock, Anna Maria Bailey, Ray Bair, Charles Bacon, Ramesh Balakrishnan, Adam Bertsch, Barna Bihari, Brian Carnes, Dong Chen, George Chiu, Richard Coffey, Susan Coghlan, Paul Coteus, Kim Cupps, Erik W. Draeger, Thomas W. Fox, Larry Fried, Mark Gary, Jim Glosli, Thomas Gooding, John Gunnels, John Gyllenhaal, Jeff Hammond, Ruud Haring, Philip Heidelberger, Mark Hereld, Todd Inglett, K.H. Kim, Kalyan Kumaran, Steve Langer, Amith Mamidala, Rose McCallen, Paul Messina, Sam Miller, Art Mirin, Vitali Morozov, Fady Najjar, Mike Nelson, Albert Nichols, Martin Ohmacht, Michael E. Papka, Fabrizio Petrini, Terri Quinn, David Richards, Nichols A. Romero, Kyung Dong Ryu, Andy Schram, Rob Shearer, Tom Spelce, Becky Springmeyer, Fred Streitz, Bronis de Supinski, Pavlos Vranas, Bob Walkup, Amy Wang, Timothy Williams, and Robert Wisniewski.
-_Blue Gene/Q: Sequoia and Mira_ in
-[Contemporary High Performance Computing: From Petascale toward Exascale](http://www.taylorandfrancis.com/books/details/9781466568341/), edited by Jeffrey S. Vetter.
-
-Jeff R. Hammond.
-_IEEE-TCSC Blog_, August 6th, 2012.
-[Challenges for Interoperability of Runtime Systems in Scientific Applications](https://www.ieeetcsc.org/activities/blog/challenges_for_interoperability_of_runtime_systems_in_scientific_applications) (invited and proof-read but not refereed in the traditional sense)
 
 ### Matrix and Tensor Computations
 
@@ -335,6 +313,24 @@ _Proc. 27th Intl. Parallel and Distributed Processing Symp (IPDPS)._ Boston, Mas
 [Performance Analysis of the Lattice Boltzmann Model Beyond Navier-Stokes](http://dx.doi.org/10.1109/IPDPS.2013.109)
 ([Preprint](http://people.seas.harvard.edu/~apeters/papers/ipdps_lbm.pdf))
 
+### Reviews and High-level Presentations
+
+Venkatram Vishwanath, Thomas Uram, Lisa Childers, Hal Finkel, Jeff Hammond,  Kalyan Kumaran, Paul Messina and Michael E. Papka.
+_DOE ASCR Workshop on Software Productivity for eXtreme-Scale Science (SWP4XS)_, Rockville, Maryland, January 13-14, 2014.
+[Toward improved scientific software productivity on leadership facilities: An Argonne Leadership Computing Facility View](http://www.orau.gov/swproductivity2014/papers/vishwanath_v.pdf)
+
+Jeff R. Hammond.
+_ACM XRDS_ 19 (3), Spring 2013.
+[Challenges and methods in large-scale computational chemistry applications](http://doi.acm.org/10.1145/2425676.2425687) (invited and proof-read but not refereed in the traditional sense)
+
+Bill Allcock, Anna Maria Bailey, Ray Bair, Charles Bacon, Ramesh Balakrishnan, Adam Bertsch, Barna Bihari, Brian Carnes, Dong Chen, George Chiu, Richard Coffey, Susan Coghlan, Paul Coteus, Kim Cupps, Erik W. Draeger, Thomas W. Fox, Larry Fried, Mark Gary, Jim Glosli, Thomas Gooding, John Gunnels, John Gyllenhaal, Jeff Hammond, Ruud Haring, Philip Heidelberger, Mark Hereld, Todd Inglett, K.H. Kim, Kalyan Kumaran, Steve Langer, Amith Mamidala, Rose McCallen, Paul Messina, Sam Miller, Art Mirin, Vitali Morozov, Fady Najjar, Mike Nelson, Albert Nichols, Martin Ohmacht, Michael E. Papka, Fabrizio Petrini, Terri Quinn, David Richards, Nichols A. Romero, Kyung Dong Ryu, Andy Schram, Rob Shearer, Tom Spelce, Becky Springmeyer, Fred Streitz, Bronis de Supinski, Pavlos Vranas, Bob Walkup, Amy Wang, Timothy Williams, and Robert Wisniewski.
+_Blue Gene/Q: Sequoia and Mira_ in
+[Contemporary High Performance Computing: From Petascale toward Exascale](http://www.taylorandfrancis.com/books/details/9781466568341/), edited by Jeffrey S. Vetter.
+
+Jeff R. Hammond.
+_IEEE-TCSC Blog_, August 6th, 2012.
+[Challenges for Interoperability of Runtime Systems in Scientific Applications](https://www.ieeetcsc.org/activities/blog/challenges_for_interoperability_of_runtime_systems_in_scientific_applications) (invited and proof-read but not refereed in the traditional sense)
+
 ### Resilience
 
 **GVR:**
@@ -391,7 +387,15 @@ A. E. DePrince III and J. R. Hammond, _Symposium on Application Accelerators in 
 
 #### Intel Xeon Phi (aka MIC)
 
-**NWChem-MIC:** 
+**NWChem:**
+Eric J. Bylaska, Mathias Jacquelin, Wibe A. de Jong, Jeff R. Hammond, and Michael Klemm.
+In J. Kunkel, R. Yokota, M. Taufer, J. Shalf (eds),
+_High Performance Computing._
+_ISC High Performance 2017._
+_Lecture Notes in Computer Science_, vol 10524.
+[Performance Evaluation of NWChem Ab-Initio Molecular Dynamics (AIMD) Simulations on the Intel® Xeon Phi™ Processor](https://doi.org/10.1007/978-3-319-67630-2_30). _Best Paper Award_
+
+**NWChem:** 
 Edoardo Apra, Karol Kowalski, Jeff R. Hammond, and Michael Klemm.
 _NWChem: Quantum Chemistry Simulations at Scale_ in
 [High Performance Parallelism Pearls](https://doi.org/10.1016/B978-0-12-802118-7.00017-0), edited by James Reinders and James Jeffers (Morgan Kaufmann, 3 Nov. 2014).
