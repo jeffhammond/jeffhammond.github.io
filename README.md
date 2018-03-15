@@ -159,6 +159,11 @@ _ACM Trans. Math. Software_, 39 (2012).
 
 ### MPI, Global Arrays, ARMCI, OpenSHMEM, PGAS, OpenMP
 
+**Casper:**
+Min Si, Antonio J. Peña, Jeff R. Hammond, Pavan Balaji, Masamichi Takagi and Yutaka Ishikawa.
+_IEEE Transactions on Parallel and Distributed Systems._
+[Dynamic Adaptable Asynchronous Progress Model for MPI RMA Multiphase Applications](https://doi.org/10.1109/TPDS.2018.2815568)
+
 A. Amer., H. Lu, Y. Wei, J. Hammond, S. Matsuoka, and P. Balaji,
 _Trans. Parallel Computing_ (submitted).
 [Locking Aspects in Multithreaded MPI Implementations](http://www.mcs.anl.gov/papers/P6005-0516.pdf)
