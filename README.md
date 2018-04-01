@@ -10,7 +10,7 @@ My detailed CV is available as [PDF](https://github.com/jeffhammond/jeffhammond.
 
 **Intel**    
 Data Center Group (September 2016 - present).    
-Title: System Architect    
+Title: Senior System Architect    
 
 **Intel Labs**    
 Parallel Computing Laboratory (May 2014 - August 2016).    
@@ -393,12 +393,23 @@ A. E. DePrince III and J. R. Hammond, _Symposium on Application Accelerators in 
 #### Intel Xeon Phi (aka MIC)
 
 **NWChem:**
+
+Eric J. Bylaska, Edoardo Aprà, Karol Kowalski, Mathias Jacquelin, Wibe A. de Jong,
+Abhinav Vishnu, Bruce Palmer, Jeff Daily, Tjerk P. Straatsma, Jeff R. Hammond, Michael Klemm.
+In T. Straatsma, K. Antypas, T. Williams, (eds), 
+_Exascale Scientific Applications._
+New York: Chapman and Hall/CRC (2018).
+[Transitioning NWChem to the Next Generation of Manycore Machines](https://www.osti.gov/biblio/1422349).
+
+**NWChem:**
 Eric J. Bylaska, Mathias Jacquelin, Wibe A. de Jong, Jeff R. Hammond, and Michael Klemm.
 In J. Kunkel, R. Yokota, M. Taufer, J. Shalf (eds),
 _High Performance Computing._
 _ISC High Performance 2017._
 _Lecture Notes in Computer Science_, vol 10524.
-[Performance Evaluation of NWChem Ab-Initio Molecular Dynamics (AIMD) Simulations on the Intel® Xeon Phi™ Processor](https://doi.org/10.1007/978-3-319-67630-2_30). _Best Paper Award_
+[Performance Evaluation of NWChem Ab-Initio Molecular Dynamics (AIMD) Simulations on the Intel® Xeon Phi™ Processor](https://doi.org/10.1007/978-3-319-67630-2_30).
+_Best Paper Award_ at the [IXPUG 2017 workshop](https://www.ixpug.org/events/workshop-isc17)
+([Slides](https://www.ixpug.org/documents/14982554953_Klemm_BestPaperAward_NWChem.pdf))
 
 **NWChem:** 
 Edoardo Apra, Karol Kowalski, Jeff R. Hammond, and Michael Klemm.
