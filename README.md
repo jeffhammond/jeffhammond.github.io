@@ -10,7 +10,7 @@ My detailed CV is available as [PDF](https://github.com/jeffhammond/jeffhammond.
 
 **Intel**    
 Data Center Group (September 2016 - present).    
-Title: Senior System Architect    
+Title: Principal Engineer (2020-present)
 
 **Intel Labs**    
 Parallel Computing Laboratory (May 2014 - August 2016).    
