@@ -1,4 +1,4 @@
-## About Me 
+## About Me
 
 Jeff Hammond, Computational Scientist, [jeff_hammond@acm.org](https://www.ftc.gov/enforcement/rules/rulemaking-regulatory-reform-proceedings/can-spam-rule)
 
@@ -8,43 +8,43 @@ My detailed CV is available as [PDF](https://github.com/jeffhammond/jeffhammond.
 
 ### Education and Research Positions
 
-**Intel**    
-Data Center Group (September 2016 - present).    
+**Intel**
+Data Center Group (September 2016 - present).
 Title: Principal Engineer (2020-present)
 
-**Intel Labs**    
-Parallel Computing Laboratory (May 2014 - August 2016).    
-Title: Research Scientist    
-Supervisor: Drs. Tim Mattson and Pradeep Dubey    
+**Intel Labs**
+Parallel Computing Laboratory (May 2014 - August 2016).
+Title: Research Scientist
+Supervisor: Drs. Tim Mattson and Pradeep Dubey
 
-**Argonne National Laboratory**    
-Leadership Computing Facility (June 2011 - May 2014).    
-Title: Assistant Computational Scientist in the Performance Engineering group    
-Supervisors: Drs. Kalyan Kumaran and Ray Bair    
+**Argonne National Laboratory**
+Leadership Computing Facility (June 2011 - May 2014).
+Title: Assistant Computational Scientist in the Performance Engineering group
+Supervisors: Drs. Kalyan Kumaran and Ray Bair
 
-**The University of Chicago**    
-Computation Institute (February 2011 - May 2014).    
-Title: Fellow (since September 2011)    
+**The University of Chicago**
+Computation Institute (February 2011 - May 2014).
+Title: Fellow (since September 2011)
 
-**Argonne National Laboratory**    
-Leadership Computing Facility (June 2009 - May 2011).    
-Title: Argonne Scholar (Director’s Postdoctoral Fellowship)    
-Supervisor: Dr. Ray Bair    
+**Argonne National Laboratory**
+Leadership Computing Facility (June 2009 - May 2011).
+Title: Argonne Scholar (Director’s Postdoctoral Fellowship)
+Supervisor: Dr. Ray Bair
 
-**Pacific Northwest National Laboratory**    
-EMSL MSCF (June 2006 - May 2009).    
-Title: Alternate Sponsored Fellow (DOE-CSGF practicum)    
-Supervisors: Drs. Karol Kowalski and Wibe A. de Jong    
+**Pacific Northwest National Laboratory**
+EMSL MSCF (June 2006 - May 2009).
+Title: Alternate Sponsored Fellow (DOE-CSGF practicum)
+Supervisors: Drs. Karol Kowalski and Wibe A. de Jong
 
-**University of Chicago**    
-Dept. of Chemistry (September 2003 to May 2009).    
-PhD in Chemistry, May 2009; MS in Chemistry, August 2004.    
-Supervisors: Professors Karl F. Freed and L. Ridgway Scott    
+**University of Chicago**
+Dept. of Chemistry (September 2003 to May 2009).
+PhD in Chemistry, May 2009; MS in Chemistry, August 2004.
+Supervisors: Professors Karl F. Freed and L. Ridgway Scott
 
-**University of Washington**    
-Dept. of Chemistry (January 2001 to August 2003).    
-BS in Chemistry with Distinction; BA in Mathematics; Minor in Applied Mathematics.    
-Supervisor: Professor Weston T. Borden    
+**University of Washington**
+Dept. of Chemistry (January 2001 to August 2003).
+BS in Chemistry with Distinction; BA in Mathematics; Minor in Applied Mathematics.
+Supervisor: Professor Weston T. Borden
 
 ### Online Profiles
 
@@ -53,7 +53,7 @@ Supervisor: Professor Weston T. Borden
 * [DOE-CSGF](https://www.krellinst.org/csgf/alumni/profile?n=hammond2005)
 * [Chemistry Tree](http://academictree.org/chemistry/tree.php?pid=67742)
 
-### Publications 
+### Publications
 * [Google Scholar](http://scholar.google.com/citations?user=UtykSKIAAAAJ) (papers and citations listed here)
 * [DBLP](http://dblp.uni-trier.de/pers/hd/h/Hammond:Jeff_R=) ([see also](http://dblp.uni-trier.de/pers/hd/h/Hammond:Jeff))
 * [ORCID](http://orcid.org/0000-0003-3181-8190)
@@ -108,20 +108,20 @@ _Journal of Parallel and Distributed Computing_ (2014).
 ([Source Code](https://github.com/devinamatthews/aquarius/))
 
 **BLIS:**
-T. M. Smith, R. van de Geijn, M. Smelyanskiy, J. R. Hammond, and F. G. Van Zee. 
+T. M. Smith, R. van de Geijn, M. Smelyanskiy, J. R. Hammond, and F. G. Van Zee.
 _Proceedings of the 28th IEEE International Parallel and Distributed Processing Symposium (IPDPS)._
 Phoenix, Arizona, May 2014.
 [Anatomy of High-Performance Many-Threaded Matrix Multiplication](http://dx.doi.org/10.1109/IPDPS.2014.110)
 ([Preprint](http://www.cs.utexas.edu/users/flame/pubs/blis3_ipdps14.pdf)).
 _Also known as_
-FLAME Working Note #71. The University of Texas at Austin, Department of Computer Science. 
+FLAME Working Note #71. The University of Texas at Austin, Department of Computer Science.
 Technical Report TR-13-20. 2013.
 [Opportunities for Parallelism in Matrix Multiplication](http://www.cs.utexas.edu/users/flame/pubs/FLAWN71.pdf)
 ([Home Page](https://code.google.com/p/blis/))
 ([GitHub Source](https://github.com/flame/blis))
 
 P. Ghosh, J. R. Hammond, S. Ghosh, and B. Chapman,
-_4th International Workshop on. Performance Modeling, 
+_4th International Workshop on. Performance Modeling,
 Benchmarking and Simulation of High Performance Computer Systems_ (PMBS13).
 Workshop at SC13, Denver, Colorado, USA, November 2013.
 [Performance analysis of the NWChem TCE for different communication patterns](http://link.springer.com/chapter/10.1007/978-3-319-10214-6_14)
@@ -130,8 +130,8 @@ Workshop at SC13, Denver, Colorado, USA, November 2013.
 **TCE-IE:**
 D. Ozog, J. R. Hammond, J. Dinan, P. Balaji, S. Shende and A. Malony.
 _International Conference on Parallel Processing_ (ICPP).
-Ecole Normale Superieure de Lyon, Lyon, France, October 1-4, 2013. 
-[Inspector-Executor Load Balancing Algorithms for Block-Sparse Tensor Contractions](http://dx.doi.org/10.1109/ICPP.2013.12) 
+Ecole Normale Superieure de Lyon, Lyon, France, October 1-4, 2013.
+[Inspector-Executor Load Balancing Algorithms for Block-Sparse Tensor Contractions](http://dx.doi.org/10.1109/ICPP.2013.12)
 ([Preprint](http://www.mcs.anl.gov/publication/inspector-executor-load-balancing-algorithms-block-sparse-tensor-contractions)).
 ([Related poster](http://nic.uoregon.edu/ics2013/ICS_posters/poster14.pdf) from [ICS](http://dx.doi.org/10.1145/2464996.2467282).)
 
@@ -153,7 +153,7 @@ Technical Report No. UCB/EECS-2012-29, March 9, 2012.
 **Elemental:**
 J. Poulson, B. Marker, J. R. Hammond, N. A. Romero, and R. van de Geijn.
 _ACM Trans. Math. Software_, 39 (2012).
-[Elemental: A New Framework for Distributed Memory Dense Matrix Computations](http://dx.doi.org/10.1145/2427023.2427030). 
+[Elemental: A New Framework for Distributed Memory Dense Matrix Computations](http://dx.doi.org/10.1145/2427023.2427030).
 ([Preprint](http://elemental.googlecode.com/files/Elemental-rev2.pdf))
 ([Source Code](https://github.com/elemental/Elemental))
 
@@ -183,7 +183,7 @@ Edinburgh, Scotland, Sept. 2016.
 
 **UPCFock:**
 D. Ozog, A. Kamil, Y. Zheng, P. Hargrove, J. R. Hammond, A. Malony, W. de Jong, and K. Yelick.
-_Proc. 30th Intl. Parallel and Distributed Processing Symp (IPDPS)._ 
+_Proc. 30th Intl. Parallel and Distributed Processing Symp (IPDPS)._
 Chicago, IL, May 2016.
 [A Hartree-Fock Application using UPC++ and the New DArray Library](http://dx.doi.org/10.1109/IPDPS.2016.108)
 
@@ -216,7 +216,7 @@ May 4–7, 2015, Shenzhen, China.
 
 **Casper:**
 Min Si, Antonio J. Pena, Jeff Hammond, Pavan Balaji, Masamichi Takagi, Yutaka Ishikawa.
-_Proc. 29th Intl. Parallel and Distributed Processing Symp (IPDPS)._ 
+_Proc. 29th Intl. Parallel and Distributed Processing Symp (IPDPS)._
 Hyderabad, India, May 2015.
 [Casper: An Asynchronous Progress Model for MPI RMA on Many-Core Architectures](http://dx.doi.org/10.1109/IPDPS.2015.35).
 ([Preprint](https://www.mcs.anl.gov/papers/P5221-1014.pdf))
@@ -227,7 +227,7 @@ OpenSHMEM User Group (OUG2014), October 7, 2014, Eugene, OR.
 [Towards a matrix-oriented strided interface in OpenSHMEM](http://nic.uoregon.edu/pgas14/oug_submissions/oug2014_submission_4.pdf).
 ([Source Code](https://github.com/jeffhammond/oshmpi/tree/armci-strided/tests/extensions/aput))
 
-**BigMPI:** 
+**BigMPI:**
 Jeff R. Hammond, Andreas Schaefer, and Rob Latham.
 Workshop on Exascale MPI at Supercomputing Conference 2014 (ExaMPI14), New Orleans, LA, November 17, 2014.
 [To INT_MAX... and beyond! Exploring large-count support in MPI](http://dx.doi.org/10.1109/ExaMPI.2014.5)
@@ -238,7 +238,7 @@ Workshop on Exascale MPI at Supercomputing Conference 2014 (ExaMPI14), New Orlea
 David Ozog, Allen Malony, Jeff Hammond and Pavan Balaji.
 _20th IEEE International Conference on Parallel and Distributed Systems (ICPADS)._
 Hsinchu, Taiwan, December 16 – 19, 2014.
-[WorkQ: A Many-Core Producer/Consumer Execution Model Applied to PGAS Computations](http://dx.doi.org/10.1109/PADSW.2014.7097863) 
+[WorkQ: A Many-Core Producer/Consumer Execution Model Applied to PGAS Computations](http://dx.doi.org/10.1109/PADSW.2014.7097863)
 ([Preprint 1](http://ix.cs.uoregon.edu/~ozog/pubs/ICPADS-2014.pdf))
 ([Preprint 2](http://www.mcs.anl.gov/~balaji/pubs/2014/icpads/icpads14.workq.pdf)).
 
@@ -250,21 +250,21 @@ accepted to _First OpenSHMEM Workshop: Experiences, Implementations and Tools._
 ([Preprint](https://github.com/jeffhammond/oshmpi/blob/master/docs/iwosh-paper.pdf?raw=true))
 ([Source Code](https://github.com/jeffhammond/oshmpi))
 
-V. Morozov, J. Meng, V. Vishwanath, J. R. Hammond, K. Kumaran and M. Papka. 
+V. Morozov, J. Meng, V. Vishwanath, J. R. Hammond, K. Kumaran and M. Papka.
 _Parallel Processing Workshops (ICPPW), 41st International Conference,_ September 2012, Pittsburgh, Pennsylvania
 [ALCF MPI Benchmarks: Understanding Machine-Specific Communication Behavior](http://dx.doi.org/10.1109/ICPPW.2012.7)
 ([IEEE link](http://doi.ieeecomputersociety.org/10.1109/ICPPW.2012.7)) ([Slides](http://www.mcs.anl.gov/events/workshops/p2s2/2012/slides/Morozov-P2S2-MPI_benchmark.pdf))
 
 **OSPRI:**
-J. R. Hammond, J. Dinan, P. Balaji, I. Kabadshow, S. Potluri, and V. Tipparaju, 
+J. R. Hammond, J. Dinan, P. Balaji, I. Kabadshow, S. Potluri, and V. Tipparaju,
 _The 6th Conference on Partitioned Global Address Space Programming Models (PGAS)._ Santa Barbara, CA, October 2012.
-[OSPRI: An Optimized One-Sided Communication Runtime for Leadership-Class Machines](https://sites.google.com/a/lbl.gov/pgas12/home/contributed-papers) 
+[OSPRI: An Optimized One-Sided Communication Runtime for Leadership-Class Machines](https://sites.google.com/a/lbl.gov/pgas12/home/contributed-papers)
 ([Preprint](http://www.mcs.anl.gov/publication/ospri-optimized-one-sided-communication-runtime-leadership-class-machines)).
 
 **ARMCI-MPI:**
 J. Dinan, P. Balaji, J. R. Hammond, S. Krishnamoorthy, and V. Tipparaju,
 _Proc. 26th Intl. Parallel and Distributed Processing Symp (IPDPS)._ Shanghai, China, May 2012.
-[Supporting the Global Arrays PGAS Model Using MPI One-Sided Communication](http://dx.doi.org/10.1109/IPDPS.2012.72) 
+[Supporting the Global Arrays PGAS Model Using MPI One-Sided Communication](http://dx.doi.org/10.1109/IPDPS.2012.72)
 ([Preprint](http://www.mcs.anl.gov/publication/supporting-global-arrays-pgas-model-using-mpi-one-sided-communication))
 ([Source Code](http://wiki.mpich.org/armci-mpi/index.php/Main_Page))
 
@@ -275,7 +275,7 @@ in _Recent Advances in the Message Passing Interface_ (Lecture Notes in Computer
 
 **TAU-ARMCI:**
 J. R. Hammond, S. Krishnamoorthy, S. Shende, N. A. Romero and A. D. Malony, _Concurrency and Computation: Practice and Experience_ (DOI: 10.1002/cpe.1881).
-[Performance Characterization of Global Address Space Applications: A Case Study with NWChem](http://onlinelibrary.wiley.com/doi/10.1002/cpe.1881/abstract) 
+[Performance Characterization of Global Address Space Applications: A Case Study with NWChem](http://onlinelibrary.wiley.com/doi/10.1002/cpe.1881/abstract)
 ([Preprint](http://www.cs.uoregon.edu/Research/paraducks/publ/htbin/bibify.cgi?cmd=show&coll=JOUR&id=CaC11&data_present=no))
 
 ### Software for Multi-level Memories
@@ -346,7 +346,7 @@ _Submitted.  2015._
 ([Preprint](http://www.mcs.anl.gov/papers/P5271-0115.pdf))
 
 Sean Hogan, Jeff R. Hammond and Andrew A. Chien.
-_Fault-Tolerance at Extreme Scale (FTXS)._ Boston, MA.  June, 2012. 
+_Fault-Tolerance at Extreme Scale (FTXS)._ Boston, MA.  June, 2012.
 [An Evaluation of Difference and Threshold Techniques for Efficient Checkpoints](http://dx.doi.org/10.1109/DSNW.2012.6264674).
 ([Preprint](http://www.cs.uchicago.edu/research/publications/techreports/TR-2012-07))
 ([Slides](http://institute.lanl.gov/resilience/workshops/ftxs2012/FTXS2012_Sean_Hogan.pdf))
@@ -369,15 +369,15 @@ A. Dickson, M. Maienshein-Cline, A. Tovo-Dwyer, J. R. Hammond and A. R. Dinner, 
 
 #### GPUs
 
-_Eugene has incorporated all of the GPU coupled-cluster codes into [PSI4](http://www.psicode.org/).  
+_Eugene has incorporated all of the GPU coupled-cluster codes into [PSI4](http://www.psicode.org/).
 See [Github](https://github.com/edeprince3/gpu_dfcc) for details._
 
 A. E. DePrince III, J. R. Hammond, and C. D. Sherrill,
 _Iterative Coupled-Cluster Methods on Graphics Processing Units_ in
-in [Electronic Structure Calculations on Graphics Processing Units: From Quantum Chemistry to Condensed Matter Physics](http://www.wiley.com/WileyCDA/WileyTitle/productCd-1118661788.html), 
+in [Electronic Structure Calculations on Graphics Processing Units: From Quantum Chemistry to Condensed Matter Physics](http://www.wiley.com/WileyCDA/WileyTitle/productCd-1118661788.html),
 edited by Ross Walker and Andreas Goetz (Wiley, 2016).
 
-A. E. DePrince III, J. R. Hammond and S. K. Gray, 
+A. E. DePrince III, J. R. Hammond and S. K. Gray,
 [Proceedings of SciDAC 2011](http://press.mcs.anl.gov/scidac2011/), Denver, CO, July 10-14, 2011.
 [Many-body quantum chemistry on graphics processing units](http://www.mcs.anl.gov/uploads/cels/papers/scidac11/final/deprince_eugene.pdf).
 
@@ -395,9 +395,13 @@ A. E. DePrince III and J. R. Hammond, _Symposium on Application Accelerators in 
 
 **NWChem:**
 
+E. Apr{\`a}, et al.
+_J. Chem. Phys._ 152, 184102 (2020).
+[NWChem: Past, present, and future](https://doi.org/10.1063/5.0004997).
+
 Eric J. Bylaska, Edoardo Aprà, Karol Kowalski, Mathias Jacquelin, Wibe A. de Jong,
 Abhinav Vishnu, Bruce Palmer, Jeff Daily, Tjerk P. Straatsma, Jeff R. Hammond, Michael Klemm.
-In T. Straatsma, K. Antypas, T. Williams, (eds), 
+In T. Straatsma, K. Antypas, T. Williams, (eds),
 _Exascale Scientific Applications._
 New York: Chapman and Hall/CRC (2018).
 [Transitioning NWChem to the Next Generation of Manycore Machines](https://www.osti.gov/biblio/1422349).
@@ -412,11 +416,11 @@ _Lecture Notes in Computer Science_, vol 10524.
 _Best Paper Award_ at the [IXPUG 2017 workshop](https://www.ixpug.org/events/workshop-isc17)
 ([Slides](https://www.ixpug.org/documents/14982554953_Klemm_BestPaperAward_NWChem.pdf))
 
-**NWChem:** 
+**NWChem:**
 Edoardo Apra, Karol Kowalski, Jeff R. Hammond, and Michael Klemm.
 _NWChem: Quantum Chemistry Simulations at Scale_ in
 [High Performance Parallelism Pearls](https://doi.org/10.1016/B978-0-12-802118-7.00017-0), edited by James Reinders and James Jeffers (Morgan Kaufmann, 3 Nov. 2014).
-([Safari Books Online](https://www.safaribooksonline.com/library/view/high-performance-parallelism/9780128021187/B9780128021187000170.xhtml)) 
+([Safari Books Online](https://www.safaribooksonline.com/library/view/high-performance-parallelism/9780128021187/B9780128021187000170.xhtml))
 ([Google Books Online](https://books.google.com/books?id=R-99BAAAQBAJ&lpg=PA287&ots=VMAjQdy8xU&dq=%22NWChem%3A%20Quantum%20Chemistry%20Simulations%20at%20Scale%22&pg=PA287#v=onepage&q=%22NWChem:%20Quantum%20Chemistry%20Simulations%20at%20Scale%22&f=false))
 
 ### Coupled-cluster response theory and NWChem
@@ -490,16 +494,16 @@ M. Lingwood, J. R. Hammond, D. A. Hrovat, J. M. Mayer, and W. T. Borden, _J. Che
 
 ### RDM Theory
 
-J. R. Hammond and D. A. Mazziotti, _Bulletin of the American Physical Society_ **52 (1)** (March 2007). 
+J. R. Hammond and D. A. Mazziotti, _Bulletin of the American Physical Society_ **52 (1)** (March 2007).
 [Variational reduced-rensity-matrix theory applied to the hubbard model](http://meetings.aps.org/Meeting/MAR07/Event/60611). (This was first reported results on the 2D Hubbard model, which been the subject of ongoing interest (e.g. by http://prl.aps.org/abstract/PRL/v108/i21/e213001, http://prl.aps.org/abstract/PRL/v108/i20/e200404, and http://arxiv.org/abs/1207.4847).)
 
-J. R. Hammond and D. A. Mazziotti, _Phys. Rev. A_ **73**, 062505 (2006). 
+J. R. Hammond and D. A. Mazziotti, _Phys. Rev. A_ **73**, 062505 (2006).
 [Variational reduced-density-matrix calculation of the one-dimensional Hubbard model](http://link.aps.org/abstract/PRA/v73/e062505).
 
-J. R. Hammond and D. A. Mazziotti, _Phys. Rev. A_ **73**, 012509 (2006). 
+J. R. Hammond and D. A. Mazziotti, _Phys. Rev. A_ **73**, 012509 (2006).
 [Variational reduced-density-matrix calculations on small radicals: a new approach to open-shell ab initio quantum chemistry](http://link.aps.org/abstract/PRA/v73/e012509).
 
-J. R. Hammond and D. A. Mazziotti, _Phys. Rev. A_ **71**, 062503 (2005). 
+J. R. Hammond and D. A. Mazziotti, _Phys. Rev. A_ **71**, 062503 (2005).
 [Variational two-electron reduced-density-matrix theory: Partial 3-positivity conditions for N-representability](http://link.aps.org/abstract/PRA/v71/e062503).
 
 ## Projects
