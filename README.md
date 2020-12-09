@@ -2,7 +2,7 @@
 
 Jeff Hammond, Computational Scientist, [jeff_hammond@acm.org](https://www.ftc.gov/enforcement/rules/rulemaking-regulatory-reform-proceedings/can-spam-rule)
 
-My detailed CV is available as [PDF](https://github.com/jeffhammond/jeffhammond.github.io/raw/master/cv/master.pdf).
+My detailed CV is available as [PDF](https://github.com/jeffhammond/jeffhammond.github.io/raw/master/cv/cv.pdf).
 
 [Edit this page (authentication required)](https://github.com/jeffhammond/jeffhammond.github.io/edit/master/README.md)
 
