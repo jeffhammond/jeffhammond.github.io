@@ -50,7 +50,7 @@ Supervisor: Professor Weston T. Borden
 
 * [StackOverflow](http://stackoverflow.com/users/2189128/jeff)
 * [LinkedIn](https://www.linkedin.com/in/jeffhammond)
-* [DOE-CSGF](https://www.krellinst.org/csgf/alumni/profile?n=hammond2005)
+* [DOE-CSGF](http://www.krellinst.org/csgf/alum/hammond2005)
 * [Chemistry Tree](http://academictree.org/chemistry/tree.php?pid=67742)
 
 ### Publications
