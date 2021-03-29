@@ -8,9 +8,13 @@ My detailed CV is available as [PDF](https://github.com/jeffhammond/jeffhammond.
 
 ### Education and Research Positions
 
+**NVIDIA**
+Tesla Business Unit (March 2021 - present).
+Title: Principal Programming Models Architect (March 2021 - present)
+
 **Intel**
-Data Center Group (September 2016 - present).
-Title: Principal Engineer (2020-present)
+Data Center Group (September 2016 - February 2021).
+Title: Principal Engineer (April 2020 - February 2021)
 
 **Intel Labs**
 Parallel Computing Laboratory (May 2014 - August 2016).
@@ -73,7 +77,7 @@ Supervisor: Professor Weston T. Borden
 
 ### Random Facts
 
-* Google Scholar says I have an h-index of 23 (this is not necessarily exact value measured using only official publications but is closely correlated with the exact value).
+* Google Scholar says I have an h-index of 30 (this is not necessarily exact value measured using only official publications but is closely correlated with the exact value).
 * My Erdős number is 4 (via Jim Demmel).
 * My [Erdős-Bacon number](http://en.wikipedia.org/wiki/Erd%C5%91s%E2%80%93Bacon_number) is infinity because I have not acted in any movies.
 
@@ -510,7 +514,7 @@ J. R. Hammond and D. A. Mazziotti, _Phys. Rev. A_ **71**, 062503 (2005).
 
 ### Active
 
-* Standards activities: Programming parallel computers should be vendor-agnostic.  [MPI Forum](http://www.mpi-forum.org/docs/docs.html), [OpenMP](http://openmp.org/), ISO C and C++ parallelism, and [OpenSHMEM](http://openshmem.org/) are of primary interest right now.
+* Standards activities: ISO Fortran and C++ parallelism, [MPI Forum](http://www.mpi-forum.org/docs/docs.html).
 
 * [Parallel Research Kernels](https://github.com/ParRes/Kernels) - Rob van der Wijngaart and Tim Mattson developed a set of parallel kernels, which are currently being used for programming models research.
 
@@ -518,9 +522,11 @@ J. R. Hammond and D. A. Mazziotti, _Phys. Rev. A_ **71**, 062503 (2005).
 
 * [ARMCI-MPI](http://wiki.mpich.org/armci-mpi/index.php/Main_Page) - Jim Dinan developed a portable, high-performance implementation of ARMCI using MPI-2 RMA.  I wrote the MPI-3 implementation and maintain the project.
 
-* [BigMPI](https://github.com/jeffhammond/BigMPI) - MPI for large messages, extended precision, etc.  See link for details.
-
 ### Archives
+
+* Standards activities: [OpenMP](http://openmp.org/) and [OpenSHMEM](http://openshmem.org/).
+
+* [BigMPI](https://github.com/jeffhammond/BigMPI) - MPI for large messages, extended precision, etc.  See link for details.
 
 * [OSHMPI](https://github.com/jeffhammond/oshmpi) -  OpenSHMEM over MPI-3.  See link for details.
 
