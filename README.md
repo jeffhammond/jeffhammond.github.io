@@ -173,11 +173,6 @@ A. Amer., H. Lu, Y. Wei, J. Hammond, S. Matsuoka, and P. Balaji,
 _Trans. Parallel Computing_ (submitted).
 [Locking Aspects in Multithreaded MPI Implementations](http://www.mcs.anl.gov/papers/P6005-0516.pdf)
 
-Yonghong Yan,  Jeff R. Hammond, Ali Alqazzaz,  Chunhua Liao.
-_International Workshop on OpenMP (IWOMP)_.
-Nara, Japan, Oct. 2016.
-[A Proposal to OpenMP for Addressing the CPU Oversubscription Challenge](http://dx.doi.org/10.1007/978-3-319-45550-1_14)
-
 **OpenCoarrays:**
 Alessandro Fanfarillo and Jeff R. Hammond.
 _EuroMPI_.
@@ -195,6 +190,11 @@ Karthikeyan Vaidyanathan, Dhiraj D. Kalamkar, Kiran Pamnany, Jeff R. Hammond, Pa
 _The International Conference for High Performance Computing, Networking, Storage and Analytics (SC15)._
 Austin, TX, November 15-20, 2015.
 [Improving Concurrency and Asynchrony in Multithreaded MPI Applications Using Software Offloading](http://dx.doi.org/10.1145/2807591.2807602)
+
+**PRK:**
+Jeff R. Hammond and Timothy G. Mattson.
+Proceedings of the International Workshop on OpenCL (IWOCL'19).
+[Evaluating data parallelism in C++ using the Parallel Research Kernels](https://doi.org/10.1145/3318170.3318192)
 
 **PRK:**
 R. F. Van der Wijngaart, A. Kayi, J. R. Hammond, G. Jost, T. St. John, S. Sridharan, T. G. Mattson, J. Abercrombie, and J. Nelson.
@@ -290,7 +290,33 @@ J. R. Hammond, S. Krishnamoorthy, S. Shende, N. A. Romero and A. D. Malony, _Con
 [Performance Characterization of Global Address Space Applications: A Case Study with NWChem](http://onlinelibrary.wiley.com/doi/10.1002/cpe.1881/abstract)
 ([Preprint](http://www.cs.uoregon.edu/Research/paraducks/publ/htbin/bibify.cgi?cmd=show&coll=JOUR&id=CaC11&data_present=no))
 
-### Software for Multi-level Memories
+### Intra-node programming models (ISO language parallelism, OpenMP, etc.)
+
+**StdPar:**
+M. Graham Lopez, Jeff R. Hammond, Jack C. Wells, Tom Gibbs and Timothy B. Costa.
+_SMC 2021: Driving Scientific and Engineering Discoveries Through the Integration of Experiment, Big Data, and Modeling and Simulation_.
+[Enabling ISO Standard Languages for Complex HPC Workflows](https://doi.org/10.1007/978-3-030-96498-6_17)
+
+**SYCL:**
+Ben Ashbaugh, Alexey Bader, James Brodman, Jeff Hammond, Michael Kinsner, John Pennycook, Roland Schulz, and Jason Sewall. 
+Proceedings of the International Workshop on OpenCL (IWOCL '20).
+[Data Parallel C++: Enhancing SYCL Through Extensions for Productivity and Performance](https://doi.org/10.1145/3388333.3388653)
+
+**SYCL:**
+Jeff R. Hammond, Michael Kinsner, and James Brodman. 
+Proceedings of the International Workshop on OpenCL (IWOCL'19).
+[A comparative analysis of Kokkos and SYCL as heterogeneous, parallel programming models for C++ applications](https://doi.org/10.1145/3318170.3318193)
+
+**OpenMP:**
+S. J. Pennycook, J. D. Sewall and J. R. Hammond.
+2018 IEEE/ACM International Workshop on Performance, Portability and Productivity in HPC (P3HPC)
+[Evaluating the Impact of Proposed OpenMP 5.0 Features on Performance, Portability and Productivity](https://doi.org/10.1109/P3HPC.2018.00007)
+
+**OpenMP:**
+Yonghong Yan,  Jeff R. Hammond, Ali Alqazzaz,  Chunhua Liao.
+_International Workshop on OpenMP (IWOMP)_.
+Nara, Japan, Oct. 2016.
+[A Proposal to OpenMP for Addressing the CPU Oversubscription Challenge](http://dx.doi.org/10.1007/978-3-319-45550-1_14)
 
 **MEMKIND:**
 Christopher Cantalupo, Vishwanath Venkatesan, Jeff R. Hammond, and Simon Hammond.
