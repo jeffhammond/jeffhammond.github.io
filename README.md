@@ -248,7 +248,7 @@ Hsinchu, Taiwan, December 16 – 19, 2014.
 
 **OSHMPI:**
 Min Si, Huansong Fu, Jeff Hammond and Pavan Balaji,
-accepted to _[OpenSHMEM and Related Technologies Workshop 2021](http://www.openshmem.org/workshops/openshmem2021/)_
+accepted to _OpenSHMEM and Related Technologies Workshop 2021_.
 [OpenSHMEM over MPI as a Performance Contender: Thorough Analysis and Optimizations](https://drive.google.com/file/d/1uM9mKtmJMewtDoLj7JsxIxSO8RkbACSY/view?usp=sharing)
 ([Slides](https://drive.google.com/file/d/1wknrgccuCFSaUsyx0qY_WaXehVesgUZT/view))
 ([Preprint](https://github.com/jeffhammond/jeffhammond.github.io/raw/master/papers/OpenSHMEM%202021.pdf))
@@ -256,7 +256,7 @@ accepted to _[OpenSHMEM and Related Technologies Workshop 2021](http://www.opens
 
 **OSHMPI:**
 J. R. Hammond, S. Ghosh, and B. M. Chapman,
-accepted to _First OpenSHMEM Workshop: Experiences, Implementations and Tools._
+accepted to _First OpenSHMEM Workshop: Experiences, Implementations and Tools_.
 [Implementing OpenSHMEM using MPI-3 one-sided communication](http://www.csm.ornl.gov/workshops/openshmem2013/documents/ImplementingOpenSHMEM%20UsingMPI-3.pdf)
 ([Online](http://dx.doi.org/10.1007/978-3-319-05215-1_4))
 ([Preprint](https://github.com/jeffhammond/oshmpi/blob/master/docs/iwosh-paper.pdf?raw=true))
