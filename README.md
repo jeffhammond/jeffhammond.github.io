@@ -248,7 +248,7 @@ Hsinchu, Taiwan, December 16 – 19, 2014.
 
 **OSHMPI:**
 Min Si, Huansong Fu, Jeff Hammond and Pavan Balaji,
-accepted to [_OpenSHMEM and Related Technologies Workshop 2021_](http://www.openshmem.org/workshops/openshmem2021/)
+accepted to _[OpenSHMEM and Related Technologies Workshop 2021](http://www.openshmem.org/workshops/openshmem2021/)_
 [OpenSHMEM over MPI as a Performance Contender: Thorough Analysis and Optimizations](https://drive.google.com/file/d/1uM9mKtmJMewtDoLj7JsxIxSO8RkbACSY/view?usp=sharing)
 ([Slides](https://drive.google.com/file/d/1wknrgccuCFSaUsyx0qY_WaXehVesgUZT/view))
 ([Preprint](https://github.com/jeffhammond/jeffhammond.github.io/raw/master/papers/OpenSHMEM%202021.pdf))
