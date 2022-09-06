@@ -58,6 +58,7 @@ Supervisor: Professor Weston T. Borden
 * [Chemistry Tree](http://academictree.org/chemistry/tree.php?pid=67742)
 
 ### Publications
+
 * [Google Scholar](http://scholar.google.com/citations?user=UtykSKIAAAAJ) (papers and citations listed here)
 * [DBLP](http://dblp.uni-trier.de/pers/hd/h/Hammond:Jeff_R=) ([see also](http://dblp.uni-trier.de/pers/hd/h/Hammond:Jeff))
 * [ORCID](http://orcid.org/0000-0003-3181-8190)
@@ -69,15 +70,15 @@ Supervisor: Professor Weston T. Borden
 ### Software
 
 * [Github](https://github.com/jeffhammond) (very useful)
-* [Ohloh](https://www.ohloh.net/accounts/jeff_science) (useful)
-* [Bitbucket](https://bitbucket.org/jeffscience) (not very useful)
+* [Open Hub](https://openhub.net/accounts/jeff_science) (useful)
+* [Bitbucket](https://bitbucket.org/jeffscience) (not useful)
 * [Gitlab](https://gitlab.com/u/jeffhammond) (not useful)
 * [Sourceforge](https://sourceforge.net/users/jeffhammond) (not useful)
 * [OpenMP](http://openmp.org/twiki/bin/view/Main/JeffHammond) (not useful)
 
 ### Random Facts
 
-* Google Scholar says I have an h-index of 30 (this is not necessarily exact value measured using only official publications but is closely correlated with the exact value).
+* Google Scholar says I have an h-index of 31 (this is not necessarily exact value measured using only official publications but is closely correlated with the exact value).
 * My Erdős number is 4 (via Jim Demmel).
 * My [Erdős-Bacon number](http://en.wikipedia.org/wiki/Erd%C5%91s%E2%80%93Bacon_number) is infinity because I have not acted in any movies.
 
@@ -161,7 +162,7 @@ _ACM Trans. Math. Software_, 39 (2012).
 ([Preprint](http://elemental.googlecode.com/files/Elemental-rev2.pdf))
 ([Source Code](https://github.com/elemental/Elemental))
 
-### MPI, Global Arrays, ARMCI, OpenSHMEM, PGAS, OpenMP
+### MPI, Global Arrays, ARMCI, OpenSHMEM, PGAS
 
 **Casper:**
 Min Si, Antonio J. Peña, Jeff R. Hammond, Pavan Balaji, Masamichi Takagi and Yutaka Ishikawa.
