@@ -58,6 +58,7 @@ Supervisor: Professor Weston T. Borden
 * [Chemistry Tree](http://academictree.org/chemistry/tree.php?pid=67742)
 
 ### Publications
+
 * [Google Scholar](http://scholar.google.com/citations?user=UtykSKIAAAAJ) (papers and citations listed here)
 * [DBLP](http://dblp.uni-trier.de/pers/hd/h/Hammond:Jeff_R=) ([see also](http://dblp.uni-trier.de/pers/hd/h/Hammond:Jeff))
 * [ORCID](http://orcid.org/0000-0003-3181-8190)
@@ -69,15 +70,15 @@ Supervisor: Professor Weston T. Borden
 ### Software
 
 * [Github](https://github.com/jeffhammond) (very useful)
-* [Ohloh](https://www.ohloh.net/accounts/jeff_science) (useful)
-* [Bitbucket](https://bitbucket.org/jeffscience) (not very useful)
+* [Open Hub](https://openhub.net/accounts/jeff_science) (useful)
+* [Bitbucket](https://bitbucket.org/jeffscience) (not useful)
 * [Gitlab](https://gitlab.com/u/jeffhammond) (not useful)
 * [Sourceforge](https://sourceforge.net/users/jeffhammond) (not useful)
 * [OpenMP](http://openmp.org/twiki/bin/view/Main/JeffHammond) (not useful)
 
 ### Random Facts
 
-* Google Scholar says I have an h-index of 30 (this is not necessarily exact value measured using only official publications but is closely correlated with the exact value).
+* Google Scholar says I have an h-index of 31 (this is not necessarily exact value measured using only official publications but is closely correlated with the exact value).
 * My Erdős number is 4 (via Jim Demmel).
 * My [Erdős-Bacon number](http://en.wikipedia.org/wiki/Erd%C5%91s%E2%80%93Bacon_number) is infinity because I have not acted in any movies.
 
@@ -161,7 +162,7 @@ _ACM Trans. Math. Software_, 39 (2012).
 ([Preprint](http://elemental.googlecode.com/files/Elemental-rev2.pdf))
 ([Source Code](https://github.com/elemental/Elemental))
 
-### MPI, Global Arrays, ARMCI, OpenSHMEM, PGAS, OpenMP
+### MPI, Global Arrays, ARMCI, OpenSHMEM, PGAS
 
 **Casper:**
 Min Si, Antonio J. Peña, Jeff R. Hammond, Pavan Balaji, Masamichi Takagi and Yutaka Ishikawa.
@@ -172,11 +173,6 @@ _IEEE Transactions on Parallel and Distributed Systems._
 A. Amer., H. Lu, Y. Wei, J. Hammond, S. Matsuoka, and P. Balaji,
 _Trans. Parallel Computing_ (submitted).
 [Locking Aspects in Multithreaded MPI Implementations](http://www.mcs.anl.gov/papers/P6005-0516.pdf)
-
-Yonghong Yan,  Jeff R. Hammond, Ali Alqazzaz,  Chunhua Liao.
-_International Workshop on OpenMP (IWOMP)_.
-Nara, Japan, Oct. 2016.
-[A Proposal to OpenMP for Addressing the CPU Oversubscription Challenge](http://dx.doi.org/10.1007/978-3-319-45550-1_14)
 
 **OpenCoarrays:**
 Alessandro Fanfarillo and Jeff R. Hammond.
@@ -195,6 +191,11 @@ Karthikeyan Vaidyanathan, Dhiraj D. Kalamkar, Kiran Pamnany, Jeff R. Hammond, Pa
 _The International Conference for High Performance Computing, Networking, Storage and Analytics (SC15)._
 Austin, TX, November 15-20, 2015.
 [Improving Concurrency and Asynchrony in Multithreaded MPI Applications Using Software Offloading](http://dx.doi.org/10.1145/2807591.2807602)
+
+**PRK:**
+Jeff R. Hammond and Timothy G. Mattson.
+Proceedings of the International Workshop on OpenCL (IWOCL'19).
+[Evaluating data parallelism in C++ using the Parallel Research Kernels](https://doi.org/10.1145/3318170.3318192)
 
 **PRK:**
 R. F. Van der Wijngaart, A. Kayi, J. R. Hammond, G. Jost, T. St. John, S. Sridharan, T. G. Mattson, J. Abercrombie, and J. Nelson.
@@ -247,8 +248,16 @@ Hsinchu, Taiwan, December 16 – 19, 2014.
 ([Preprint 2](http://www.mcs.anl.gov/~balaji/pubs/2014/icpads/icpads14.workq.pdf)).
 
 **OSHMPI:**
+Min Si, Huansong Fu, Jeff Hammond and Pavan Balaji,
+accepted to _OpenSHMEM and Related Technologies Workshop 2021_.
+[OpenSHMEM over MPI as a Performance Contender: Thorough Analysis and Optimizations](https://drive.google.com/file/d/1uM9mKtmJMewtDoLj7JsxIxSO8RkbACSY/view?usp=sharing)
+([Slides](https://drive.google.com/file/d/1wknrgccuCFSaUsyx0qY_WaXehVesgUZT/view))
+([Preprint](https://github.com/jeffhammond/jeffhammond.github.io/raw/master/papers/OpenSHMEM%202021.pdf))
+([Source Code](https://github.com/pmodels/oshmpi))
+
+**OSHMPI:**
 J. R. Hammond, S. Ghosh, and B. M. Chapman,
-accepted to _First OpenSHMEM Workshop: Experiences, Implementations and Tools._
+accepted to _First OpenSHMEM Workshop: Experiences, Implementations and Tools_.
 [Implementing OpenSHMEM using MPI-3 one-sided communication](http://www.csm.ornl.gov/workshops/openshmem2013/documents/ImplementingOpenSHMEM%20UsingMPI-3.pdf)
 ([Online](http://dx.doi.org/10.1007/978-3-319-05215-1_4))
 ([Preprint](https://github.com/jeffhammond/oshmpi/blob/master/docs/iwosh-paper.pdf?raw=true))
@@ -282,7 +291,33 @@ J. R. Hammond, S. Krishnamoorthy, S. Shende, N. A. Romero and A. D. Malony, _Con
 [Performance Characterization of Global Address Space Applications: A Case Study with NWChem](http://onlinelibrary.wiley.com/doi/10.1002/cpe.1881/abstract)
 ([Preprint](http://www.cs.uoregon.edu/Research/paraducks/publ/htbin/bibify.cgi?cmd=show&coll=JOUR&id=CaC11&data_present=no))
 
-### Software for Multi-level Memories
+### Intra-node programming models (ISO language parallelism, OpenMP, etc.)
+
+**StdPar:**
+M. Graham Lopez, Jeff R. Hammond, Jack C. Wells, Tom Gibbs and Timothy B. Costa.
+_SMC 2021: Driving Scientific and Engineering Discoveries Through the Integration of Experiment, Big Data, and Modeling and Simulation_.
+[Enabling ISO Standard Languages for Complex HPC Workflows](https://doi.org/10.1007/978-3-030-96498-6_17)
+
+**SYCL:**
+Ben Ashbaugh, Alexey Bader, James Brodman, Jeff Hammond, Michael Kinsner, John Pennycook, Roland Schulz, and Jason Sewall. 
+Proceedings of the International Workshop on OpenCL (IWOCL '20).
+[Data Parallel C++: Enhancing SYCL Through Extensions for Productivity and Performance](https://doi.org/10.1145/3388333.3388653)
+
+**SYCL:**
+Jeff R. Hammond, Michael Kinsner, and James Brodman. 
+Proceedings of the International Workshop on OpenCL (IWOCL'19).
+[A comparative analysis of Kokkos and SYCL as heterogeneous, parallel programming models for C++ applications](https://doi.org/10.1145/3318170.3318193)
+
+**OpenMP:**
+S. J. Pennycook, J. D. Sewall and J. R. Hammond.
+2018 IEEE/ACM International Workshop on Performance, Portability and Productivity in HPC (P3HPC)
+[Evaluating the Impact of Proposed OpenMP 5.0 Features on Performance, Portability and Productivity](https://doi.org/10.1109/P3HPC.2018.00007)
+
+**OpenMP:**
+Yonghong Yan,  Jeff R. Hammond, Ali Alqazzaz,  Chunhua Liao.
+_International Workshop on OpenMP (IWOMP)_.
+Nara, Japan, Oct. 2016.
+[A Proposal to OpenMP for Addressing the CPU Oversubscription Challenge](http://dx.doi.org/10.1007/978-3-319-45550-1_14)
 
 **MEMKIND:**
 Christopher Cantalupo, Vishwanath Venkatesan, Jeff R. Hammond, and Simon Hammond.
