@@ -294,6 +294,12 @@ J. R. Hammond, S. Krishnamoorthy, S. Shende, N. A. Romero and A. D. Malony, _Con
 ### Intra-node programming models (ISO language parallelism, OpenMP, etc.)
 
 **StdPar:**
+Jeff R Hammon, Tom Deakin, Jim H Cownie, Simon N. McIntosh-Smith.
+2022 IEEE/ACM International Workshop on Performance Modeling, Benchmarking and Simulation of High Performance Computer Systems (PMBS)
+_.
+[Benchmarking Fortran DO CONCURRENT on CPUs and GPUs Using BabelStream](https://doi.org/10.1109/PMBS56514.2022.00013)
+
+**StdPar:**
 M. Graham Lopez, Jeff R. Hammond, Jack C. Wells, Tom Gibbs and Timothy B. Costa.
 _SMC 2021: Driving Scientific and Engineering Discoveries Through the Integration of Experiment, Big Data, and Modeling and Simulation_.
 [Enabling ISO Standard Languages for Complex HPC Workflows](https://doi.org/10.1007/978-3-030-96498-6_17)
