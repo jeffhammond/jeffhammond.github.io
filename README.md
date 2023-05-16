@@ -171,7 +171,8 @@ _IEEE Transactions on Parallel and Distributed Systems._
 ([Preprint](https://www.osti.gov/pages/biblio/1467874-dynamic-adaptable-asynchronous-progress-model-mpi-rma-multiphase-applications))
 
 A. Amer., H. Lu, Y. Wei, J. Hammond, S. Matsuoka, and P. Balaji,
-_Trans. Parallel Computing_ (submitted).
+_ACM Transactions on Parallel Computing_.
+[Lock Contention Management in Multithreaded MPI](https://dl.acm.org/doi/abs/10.1145/3275443)
 [Locking Aspects in Multithreaded MPI Implementations](http://www.mcs.anl.gov/papers/P6005-0516.pdf)
 
 **OpenCoarrays:**
