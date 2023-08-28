@@ -137,7 +137,7 @@ D. Ozog, J. R. Hammond, J. Dinan, P. Balaji, S. Shende and A. Malony.
 _International Conference on Parallel Processing_ (ICPP).
 Ecole Normale Superieure de Lyon, Lyon, France, October 1-4, 2013.
 [Inspector-Executor Load Balancing Algorithms for Block-Sparse Tensor Contractions](http://dx.doi.org/10.1109/ICPP.2013.12)
-([Preprint](http://www.mcs.anl.gov/publication/inspector-executor-load-balancing-algorithms-block-sparse-tensor-contractions)).
+([Preprint](https://www.mcs.anl.gov/papers/P3056-1112_1.pdf)).
 ([Related poster](http://nic.uoregon.edu/ics2013/ICS_posters/poster14.pdf) from [ICS](http://dx.doi.org/10.1145/2464996.2467282).)
 
 **CTF:**
