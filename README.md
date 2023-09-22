@@ -164,6 +164,12 @@ _ACM Trans. Math. Software_, 39 (2012).
 
 ### MPI, Global Arrays, ARMCI, OpenSHMEM, PGAS
 
+**Mukautuva**
+Jeff Hammond, Lisandro Dalcin, Erik Schnetter, Marc Pérache, Jean-Baptiste Besnard, Jed Brown, Gonzalo Brito Gadeschi, Simon Byrne, Joseph Schuchart, Hui Zhou.
+_EuroMPI '23: Proceedings of the 30th European MPI Users' Group Meeting._
+[MPI Application Binary Interface Standardization](https://doi.org/10.1145/3615318.3615319)
+([Preprint](https://arxiv.org/abs/2308.11214))
+
 **Casper:**
 Min Si, Antonio J. Peña, Jeff R. Hammond, Pavan Balaji, Masamichi Takagi and Yutaka Ishikawa.
 _IEEE Transactions on Parallel and Distributed Systems._
