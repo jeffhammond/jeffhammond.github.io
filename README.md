@@ -164,6 +164,16 @@ _ACM Trans. Math. Software_, 39 (2012).
 
 ### MPI, Global Arrays, ARMCI, OpenSHMEM, PGAS
 
+**shmem4py**
+Marcin Rogowski, Jeff R. Hammond, David E. Keyes, Lisandro Dalcin.
+_Proceedings of the SC '23 Workshops of The International Conference on High Performance Computing, Network, Storage, and Analysis._
+[shmem4py: High-Performance One-Sided Communication for Python Applications](https://doi.org/10.1145/3624062.3624602)
+
+**shmem4py**
+Marcin Rogowski, Lisandro Dalcin, Jeff R. Hammond, David E. Keyes.
+_Journal of Open Source Software_
+[shmem4py: OpenSHMEM for Python](https://joss.theoj.org/papers/10.21105/joss.05444)
+
 **Mukautuva**
 Jeff Hammond, Lisandro Dalcin, Erik Schnetter, Marc Pérache, Jean-Baptiste Besnard, Jed Brown, Gonzalo Brito Gadeschi, Simon Byrne, Joseph Schuchart, Hui Zhou.
 _EuroMPI '23: Proceedings of the 30th European MPI Users' Group Meeting._
