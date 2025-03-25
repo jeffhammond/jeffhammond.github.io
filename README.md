@@ -66,22 +66,16 @@ Supervisor: Professor Weston T. Borden
 * [DBLP](http://dblp.uni-trier.de/pers/hd/h/Hammond:Jeff_R=) ([see also](http://dblp.uni-trier.de/pers/hd/h/Hammond:Jeff))
 * [ORCID](http://orcid.org/0000-0003-3181-8190)
 * [ResearchId](http://www.researcherid.com/rid/G-8607-2013)
-* [ResearchGate](https://www.researchgate.net/profile/Jeff_Hammond/) (some papers listed here)
-* [Mendeley](https://www.mendeley.com/profiles/jeff-hammond/) (some papers listed here)
-* [Figshare](http://figshare.com/authors/Jeff%20Hammond/439849) (mostly empty right now)
+* [ResearchGate](https://www.researchgate.net/profile/Jeff_Hammond) (some papers listed here)
 
 ### Software
 
-* [Github](https://github.com/jeffhammond) (very useful)
-* [Open Hub](https://openhub.net/accounts/jeff_science) (useful)
-* [Bitbucket](https://bitbucket.org/jeffscience) (not useful)
-* [Gitlab](https://gitlab.com/u/jeffhammond) (not useful)
-* [Sourceforge](https://sourceforge.net/users/jeffhammond) (not useful)
-* [OpenMP](http://openmp.org/twiki/bin/view/Main/JeffHammond) (not useful)
+* [Github](https://github.com/jeffhammond)
+* [Open Hub](https://openhub.net/accounts/jeff_science)
 
 ### Random Facts
 
-* Google Scholar says I have an h-index of 32 (this is not necessarily exact value measured using only official publications but is closely correlated with the exact value).
+* Google Scholar says I have an h-index of 33 (this is not necessarily exact value measured using only official publications but is closely correlated with the exact value).
 * My Erdős number is 4 (via Jim Demmel).
 * My [Erdős-Bacon number](http://en.wikipedia.org/wiki/Erd%C5%91s%E2%80%93Bacon_number) is infinity because I have not acted in any movies.
 
@@ -90,6 +84,8 @@ Supervisor: Professor Weston T. Borden
 Specific software packages that these papers have involved are denoted by **Software Name** in front of the citation.
 
 Note that my contribution to these packages varies from "nearly everything" to "supervised student developer" to "literally nothing".  In most cases, the relevant version control system will give you all the details, if you're interested.
+
+I do not update this section anymore.  See Google Scholar or my CV for a full list of papers.
 
 ### Matrix and Tensor Computations
 
