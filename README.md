@@ -9,8 +9,11 @@ My detailed CV is available as [PDF](https://github.com/jeffhammond/jeffhammond.
 ### Education and Research Positions
 
 **NVIDIA**
-Tesla Business Unit (March 2021 - present).
-Title: Principal Programming Models Architect (March 2021 - present)
+GPU Communication Software (March 2025 - present).
+Title: Principal Engineer
+
+Tesla Business Unit (March 2021 - February 2025).
+Title: Principal Programming Models Architect
 
 **Intel**
 Data Center Group (September 2016 - February 2021).
