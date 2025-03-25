@@ -78,7 +78,7 @@ Supervisor: Professor Weston T. Borden
 
 ### Random Facts
 
-* Google Scholar says I have an h-index of 31 (this is not necessarily exact value measured using only official publications but is closely correlated with the exact value).
+* Google Scholar says I have an h-index of 32 (this is not necessarily exact value measured using only official publications but is closely correlated with the exact value).
 * My Erdős number is 4 (via Jim Demmel).
 * My [Erdős-Bacon number](http://en.wikipedia.org/wiki/Erd%C5%91s%E2%80%93Bacon_number) is infinity because I have not acted in any movies.
 
@@ -137,7 +137,7 @@ D. Ozog, J. R. Hammond, J. Dinan, P. Balaji, S. Shende and A. Malony.
 _International Conference on Parallel Processing_ (ICPP).
 Ecole Normale Superieure de Lyon, Lyon, France, October 1-4, 2013.
 [Inspector-Executor Load Balancing Algorithms for Block-Sparse Tensor Contractions](http://dx.doi.org/10.1109/ICPP.2013.12)
-([Preprint](http://www.mcs.anl.gov/publication/inspector-executor-load-balancing-algorithms-block-sparse-tensor-contractions)).
+([Preprint](https://www.mcs.anl.gov/papers/P3056-1112_1.pdf)).
 ([Related poster](http://nic.uoregon.edu/ics2013/ICS_posters/poster14.pdf) from [ICS](http://dx.doi.org/10.1145/2464996.2467282).)
 
 **CTF:**
@@ -164,6 +164,22 @@ _ACM Trans. Math. Software_, 39 (2012).
 
 ### MPI, Global Arrays, ARMCI, OpenSHMEM, PGAS
 
+**shmem4py**
+Marcin Rogowski, Jeff R. Hammond, David E. Keyes, Lisandro Dalcin.
+_Proceedings of the SC '23 Workshops of The International Conference on High Performance Computing, Network, Storage, and Analysis._
+[shmem4py: High-Performance One-Sided Communication for Python Applications](https://doi.org/10.1145/3624062.3624602)
+
+**shmem4py**
+Marcin Rogowski, Lisandro Dalcin, Jeff R. Hammond, David E. Keyes.
+_Journal of Open Source Software_
+[shmem4py: OpenSHMEM for Python](https://joss.theoj.org/papers/10.21105/joss.05444)
+
+**Mukautuva**
+Jeff Hammond, Lisandro Dalcin, Erik Schnetter, Marc Pérache, Jean-Baptiste Besnard, Jed Brown, Gonzalo Brito Gadeschi, Simon Byrne, Joseph Schuchart, Hui Zhou.
+_EuroMPI '23: Proceedings of the 30th European MPI Users' Group Meeting._
+[MPI Application Binary Interface Standardization](https://doi.org/10.1145/3615318.3615319)
+([Preprint](https://arxiv.org/abs/2308.11214))
+
 **Casper:**
 Min Si, Antonio J. Peña, Jeff R. Hammond, Pavan Balaji, Masamichi Takagi and Yutaka Ishikawa.
 _IEEE Transactions on Parallel and Distributed Systems._
@@ -171,7 +187,8 @@ _IEEE Transactions on Parallel and Distributed Systems._
 ([Preprint](https://www.osti.gov/pages/biblio/1467874-dynamic-adaptable-asynchronous-progress-model-mpi-rma-multiphase-applications))
 
 A. Amer., H. Lu, Y. Wei, J. Hammond, S. Matsuoka, and P. Balaji,
-_Trans. Parallel Computing_ (submitted).
+_ACM Transactions on Parallel Computing_.
+[Lock Contention Management in Multithreaded MPI](https://dl.acm.org/doi/abs/10.1145/3275443)
 [Locking Aspects in Multithreaded MPI Implementations](http://www.mcs.anl.gov/papers/P6005-0516.pdf)
 
 **OpenCoarrays:**
@@ -292,6 +309,12 @@ J. R. Hammond, S. Krishnamoorthy, S. Shende, N. A. Romero and A. D. Malony, _Con
 ([Preprint](http://www.cs.uoregon.edu/Research/paraducks/publ/htbin/bibify.cgi?cmd=show&coll=JOUR&id=CaC11&data_present=no))
 
 ### Intra-node programming models (ISO language parallelism, OpenMP, etc.)
+
+**StdPar:**
+Jeff R Hammon, Tom Deakin, Jim H Cownie, Simon N. McIntosh-Smith.
+2022 IEEE/ACM International Workshop on Performance Modeling, Benchmarking and Simulation of High Performance Computer Systems (PMBS)
+_.
+[Benchmarking Fortran DO CONCURRENT on CPUs and GPUs Using BabelStream](https://doi.org/10.1109/PMBS56514.2022.00013)
 
 **StdPar:**
 M. Graham Lopez, Jeff R. Hammond, Jack C. Wells, Tom Gibbs and Timothy B. Costa.
