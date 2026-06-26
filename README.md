@@ -10,10 +10,10 @@ My detailed CV is available as [PDF](https://github.com/jeffhammond/jeffhammond.
 
 **NVIDIA**
 GPU Communication Software (March 2025 - present).
-Title: Principal Engineer
+Title: Distinguished Engineer
 
 Tesla Business Unit (March 2021 - February 2025).
-Title: Principal Programming Models Architect
+Title: Principal Software Architect
 
 **Intel**
 Data Center Group (September 2016 - February 2021).
